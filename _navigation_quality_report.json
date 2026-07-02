@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-02T14:49:46.404096Z",
+  "summary": {
+    "total_pages_with_permalink": 240,
+    "visible_pages": 220,
+    "hidden_pages": 20,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 895,
+    "inline_internal_target_page_count": 220,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 219,
+    "average_inline_inbound_links_per_visible_page": 4.07,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Abruzzo_4c71bb",
+        "title": "What Really Happened in Abruzzo's UFO Stories?",
+        "permalink": "/what-really-happened-in-abruzzos-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "title": "Gran Sasso",
+        "permalink": "/gran-sasso/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Aosta_Valley_ccb120",
+        "title": "What Really Happened in Aosta's Skies?",
+        "permalink": "/aosta-valley/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Apulia_98f3e8",
+        "title": "What Really Happened in Apulia's UFO Skies?",
+        "permalink": "/what-really-happened-in-apulias-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Basilicata_3ea395",
+        "title": "What Really Happened in Basilicata's UFO Stories?",
+        "permalink": "/what-really-happened-in-basilicatas-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Calabria_663de5",
+        "title": "What Really Happened in Calabria's UFO Reports?",
+        "permalink": "/what-really-happened-in-calabrias-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Campania_5acc6a",
+        "title": "Why Campania Keeps Appearing in UFO Stories",
+        "permalink": "/why-campania-keeps-appearing-in-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Campania_5acc6a_ordinary_explanation_a805d0",
+        "title": "Explanations",
+        "permalink": "/explanations-e21d0c/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Emilia-Romagna_e1c904",
+        "title": "What Really Happened in Emilia Romagna's UFO Files?",
+        "permalink": "/what-really-happened-in-emilia/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Friuli-Venezia_Giuli_608dd8",
+        "title": "What Really Happened in Friuli's UFO Files?",
+        "permalink": "/friuli-venezia-giulia/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Friuli-Venezia_Giuli_608dd8_friuli_ufo_explanati_cc281a",
+        "title": "Explanations",
+        "permalink": "/explanations-54fcb5/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Lazio_2e255a",
+        "title": "What Really Happened in Lazio's UFO Files?",
+        "permalink": "/what-really-happened-in-lazios-ufo-files/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Liguria_5b11e3",
+        "title": "What Really Happened in Liguria's UFO Skies?",
+        "permalink": "/what-really-happened-in-ligurias-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Liguria_5b11e3_witness_credibility_c6d46d",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Lombardy_9b46d3",
+        "title": "What Really Happened in Lombardy's UFO Skies?",
+        "permalink": "/what-really-happened-in-lombardys-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Marche_113fca",
+        "title": "What Really Happened Over Marche?",
+        "permalink": "/what-really-happened-over-marche/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Marche_113fca_adriatic_triangle_d09026",
+        "title": "Adriatic",
+        "permalink": "/adriatic/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Molise_7c6aa1",
+        "title": "What Really Happened in Molise's UFO Record?",
+        "permalink": "/what-really-happened-in-molises-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Piedmont_9fde2b",
+        "title": "What Really Happened in Piedmont's UFO Stories?",
+        "permalink": "/what-really-happened-in-piedmonts-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Sardinia_83a1a0",
+        "title": "What Makes Sardinia's UFO Record So Unusual?",
+        "permalink": "/what-makes-sardinias-ufo-record-so/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Sicily_77b465",
+        "title": "What Really Happened in Sicily's UFO Stories?",
+        "permalink": "/what-really-happened-in-sicilys-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Trentino-Alto_Adige_27eb8f",
+        "title": "What Really Happened in the Alpine Skies?",
+        "permalink": "/trentino-alto-adige/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Tuscany_2685d2",
+        "title": "What Really Happened In Tuscany's UFO Skies?",
+        "permalink": "/what-really-happened-in-tuscanys-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Veneto_862600",
+        "title": "What Really Happened in Veneto's UFO Files?",
+        "permalink": "/what-really-happened-in-venetos-ufo/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Basilicata_3ea395_potenza_early_report_7f20b6",
+        "title": "Potenza",
+        "permalink": "/potenza/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Friuli-Venezia_Giuli_608dd8_aviano_military_sigh_704771",
+        "title": "Aviano",
+        "permalink": "/aviano/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Lazio_2e255a_ciampino_1954_b0d173",
+        "title": "Ciampino 1954",
+        "permalink": "/ciampino-1954/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Molise_7c6aa1_ordinary_explanation_a805d0",
+        "title": "Explanations",
+        "permalink": "/explanations-d7031a/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Piedmont_9fde2b_caselle_1973_5fc4e6",
+        "title": "Caselle 1973",
+        "permalink": "/caselle-1973/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Piedmont_9fde2b_susa_valley_lights_fc0837",
+        "title": "Susa Valley",
+        "permalink": "/susa-valley/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Umbria_d4a7a8",
+        "title": "What Really Happened in Umbrian Skies?",
+        "permalink": "/umbria/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Umbria_d4a7a8_common_umbrian_expla_4c317e",
+        "title": "Explanations",
+        "permalink": "/explanations-614a80/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Umbria_d4a7a8_umbrian_aviation_clu_278697",
+        "title": "Aviation",
+        "permalink": "/aviation/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "title": "Adriatic Triangle",
+        "permalink": "/adriatic-triangle/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Basilicata_3ea395_matera_space_backdro_5d9c75",
+        "title": "Matera",
+        "permalink": "/matera/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Campania_5acc6a_naples_1978_wave_f77898",
+        "title": "1978 Wave",
+        "permalink": "/1978-wave/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Campania_5acc6a_naples_air_traffic_ea6034",
+        "title": "Air Traffic",
+        "permalink": "/air-traffic/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Lazio_2e255a_common_explanations_72fcca",
+        "title": "Explanations",
+        "permalink": "/explanations-31cadb/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Marche_113fca_ordinary_sky_explana_5c53fe",
+        "title": "Explanations",
+        "permalink": "/explanations-24ae81/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Molise_7c6aa1_local_press_coverage_f034a6",
+        "title": "Local Press",
+        "permalink": "/local-press-1ba079/",
+        "inline_inbound_count": 9
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Aosta_Valley_ccb120",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Apulia_98f3e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Basilicata_3ea395",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Calabria_663de5",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Campania_5acc6a",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Emilia-Romagna_e1c904",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Friuli-Venezia_Giuli_608dd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Lazio_2e255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Liguria_5b11e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Lombardy_9b46d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Marche_113fca",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Molise_7c6aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Piedmont_9fde2b",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Sardinia_83a1a0",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Sicily_77b465",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Trentino-Alto_Adige_27eb8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Tuscany_2685d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Umbria_d4a7a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Veneto_862600",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_index",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "child"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb",
+        "type": "parent"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_abruzzo_evidence_sca_307070",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_adriatic_1978_flap_39c4ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_air_force_records_78c8d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_gran_sasso_2004_phot_059207",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_lenticular_clouds_400b98",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_local_media_memory_8f14da",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb_pescara_giulianova_s_bab943",
+        "type": "sibling"
+      },
+      {
+        "from": "Abruzzo_4c71bb_pietracamela_power_s_a2b68d",
+        "to": "Abruzzo_4c71bb",
+        "type": "ancestor"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Abruzzo_4c71bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Aosta_Valley_ccb120",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Apulia_98f3e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Calabria_663de5",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Campania_5acc6a",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Emilia-Romagna_e1c904",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Friuli-Venezia_Giuli_608dd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Lazio_2e255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Liguria_5b11e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Lombardy_9b46d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Marche_113fca",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Molise_7c6aa1",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Piedmont_9fde2b",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Sardinia_83a1a0",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Sicily_77b465",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Trentino-Alto_Adige_27eb8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Tuscany_2685d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Umbria_d4a7a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Veneto_862600",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_index",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_local_press_memory_21a229",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_potenza_early_report_7f20b6",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_reading_weak_catalog_a80434",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395",
+        "to": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "type": "child"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395",
+        "type": "parent"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_local_press_memory_21a229",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_potenza_early_report_7f20b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_reading_weak_catalog_a80434",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "to": "Basilicata_3ea395",
+        "type": "ancestor"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395",
+        "type": "parent"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_potenza_early_report_7f20b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_reading_weak_catalog_a80434",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_local_press_memory_21a229",
+        "to": "Basilicata_3ea395",
+        "type": "ancestor"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395",
+        "type": "parent"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_acerenza_witness_vid_b28477",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_common_explanations_72fcca",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_june_2009_fireball_899af0",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_local_press_memory_21a229",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_matera_space_backdro_5d9c75",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_monticchio_rural_sig_c34b0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Basilicata_3ea395_sighting_geography_5dd56a",
+        "to": "Basilicata_3ea395_official_records_gap_43c6bb",
+        "type": "sibling"
+      }
+    ]
+  }
+}
