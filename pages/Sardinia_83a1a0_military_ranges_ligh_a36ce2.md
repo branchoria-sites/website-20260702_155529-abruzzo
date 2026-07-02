@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:36'
+date: '2026-07-01 09:38:36'
 parent_title: Sardinia UFOs
 parent_permalink: /what-makes-sardinias-ufo-record-so/
 parent_nav_short_title: Sardinia UFOs
@@ -306,8 +306,6 @@ The three major Sardinian ranges are often mentioned together, but they do not c
 
 **Capo Frasca**, on the west coast, is strongly associated with air-to-ground and sea-to-ground firing practice. Aviation reporting on Italian Tornado training describes missions from Decimomannu mainly using Capo Frasca, where aircraft carried inert practice bombs and flew planned attack patterns under range control. The same account describes “hot” and “dry” events, range targets, sensors and low-level approaches, all of which help explain why a civilian observer might see repeated lights, fast passes or unusual manoeuvres without seeing the full military context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theaviationist.com/2019/02/11/flying-with-the-tornado-attack-jets-at-the-bombing-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">The range is used for the daylight use of the gun inert dummy bombs.Read more</span><span class="citation-popover-snippet">The AviationistFlying With The Tornado Attack Jets At The Bombing RangeFebruary 11, 2019 — 11 Feb 2019 — A Tornado IDS of the 154° Gruppo...</span><span class="citation-popover-meta">Published: February 11, 2019</span></span></span>
 
-**Capo Teulada**, in the south-west, is a major training area linked to larger manoeuvres. Recent local reporting on Joint Stars 2025 described the Defence Minister attending phases of a multi-domain exercise involving air and missile defence, drones, integrated command and control, and realistic complex scenarios at Capo Teulada. For UFO interpretation, this is a reminder that a modern military exercise is not just a few aircraft in the sky; it can involve ships, ground units, drones, radar-linked activity and temporary closures visible or audible from nearby civilian areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unionesarda.it/en/sardinia/military-exercises-crosetto-at-capo-teulada-safety-is-not-a-given-joint-stars-is-the-future-fdi0fa40" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unionesarda.it">[L&#x27;Unione Sarda.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unionesarda.it</span><span class="citation-popover-title">L&#x27;Unione Sarda.it Military exercises, Crosetto at Capo Teulada: «Safety is not a given. Joint Stars is the future»</span><span class="citation-popover-snippet">L&#x27;Unione Sarda.it Military exercises, Crosetto at Capo Teulada: «Safety is not a given. Joint Stars is the future»</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K6-6AYQYJm8" title="How paradise island Sardinia was poisoned by the world&#x27;s military | Foreign Correspondent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K6-6AYQYJm8" target="_blank" rel="noopener noreferrer">How paradise island Sardinia was poisoned by the world&#x27;s military | Foreign Correspondent</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K6-6AYQYJm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K6-6AYQYJm8">Open on YouTube</a></p></div></div></div>
 
 ## Aircraft, flares, drones and training lights can look stranger than they are
@@ -329,6 +327,8 @@ This does not mean that every temporary closure corresponds to a visible aerial 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PFvJq-cVnYM" title="L&#x27;International Flight Training School di Decimomannu - Video News Aeronautica Militare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PFvJq-cVnYM" target="_blank" rel="noopener noreferrer">L&#x27;International Flight Training School di Decimomannu - Video News Aeronautica Militare</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PFvJq-cVnYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PFvJq-cVnYM">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Salto di Quirra adds rockets, aerospace testing and simulated threats to the picture
 
 Salto di Quirra deserves special attention because it can produce interpretations that go beyond normal aircraft lights. The site has a long aerospace history, including sounding rocket work and later rocket-motor testing. Recent aerospace reporting says the facility played a role in Italy’s early space activity, hosted sounding rocket launches from 1961, and has also been used by Avio for Vega solid rocket motor tests. In 2025, European Spaceflight reported that an Italian commercial launch logistics company had secured approval for small-scale propulsion tests at Salto di Quirra and hoped eventually to support suborbital launches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanspaceflight.com">[European Spaceflight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanspaceflight.com</span><span class="citation-popover-title">European Spaceflight OLM Plans to Offer Commercial Launch Services from Sardinia</span><span class="citation-popover-snippet">European Spaceflight OLM Plans to Offer Commercial Launch Services from Sardinia</span></span></span>
@@ -345,6 +345,8 @@ Proximity is only a starting clue. It becomes persuasive when several details fi
 The opposite is also true. A sighting is not strong simply because a witness says the light was unlike aircraft. Many range-related lights are unlike ordinary civilian aircraft from the point of view of someone who has never watched low-level training, target work or military night operations. A light that appears to hover may be moving towards the witness. A light that seems to accelerate may be changing angle. A “silent” object may be distant, high, downwind, or heard only after the observer has stopped watching.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9AMr_lw2hjU" title="Una docuserie sulla International Flight Training School - Video News Aeronautica Militare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9AMr_lw2hjU" target="_blank" rel="noopener noreferrer">Una docuserie sulla International Flight Training School - Video News Aeronautica Militare</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9AMr_lw2hjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9AMr_lw2hjU">Open on YouTube</a></p></div></div></div>
+
+
 
 ## A practical test for Sardinian “military light” claims
 

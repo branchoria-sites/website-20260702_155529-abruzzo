@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:49'
+date: '2026-07-01 09:38:49'
 parent_title: Umbrian Skies
 parent_permalink: /umbria/
 parent_nav_short_title: Umbrian Skies
@@ -297,8 +297,6 @@ There is also a timing complication. Later accounts of the same night, drawing o
 ## Why aviation witnesses changed the case’s weight
 
 The Terni sighting carries more weight than a single ground-witness story because the official entry ties it to aviation personnel. Pilots and Air Force staff are not infallible, but they are trained to judge aircraft lights, relative motion, altitude cues and traffic risk. That is why UFO cases involving pilots, controllers or military observers are often treated differently from casual sightings: the witnesses may still misidentify a phenomenon, but the baseline observational competence is higher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
-A later report about the 9 March episode gives more texture. It says an Itavia pilot, Luciano Ascione, reported a very bright green light near his aircraft while flying from Ciampino to Treviso, and that air traffic control said no aircraft were shown within a wide surrounding area. The same account says further reports came from aircraft near Ancona, including Malta Airways, Olympic Airways and Air France flights. These later details should be handled carefully because they are secondary reporting, but they help explain why the official case was not a simple “someone saw a light” entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilsud-est.it/attualita/inchiesta/2022/10/31/9-marzo-1978-il-prologo-della-strage-di-ustica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilsud-est.it">[IlSudEst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilsud-est.it</span><span class="citation-popover-title">9 marzo 1978 il prologo della strage di ustica</span><span class="citation-popover-snippet">9 marzo 1978 il prologo della strage di ustica</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xUTbiWF_vqI" title="Ufo: 445 avvistamenti ufficiali in Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xUTbiWF_vqI" target="_blank" rel="noopener noreferrer">Ufo: 445 avvistamenti ufficiali in Italia</a></p><p class="youtube-embed-meta">Channel: QuotidianoNazionale</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xUTbiWF_vqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xUTbiWF_vqI">Open on YouTube</a></p></div></div></div>
 

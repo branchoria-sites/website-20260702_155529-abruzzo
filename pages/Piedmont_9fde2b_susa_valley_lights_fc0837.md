@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:26'
+date: '2026-07-01 09:38:26'
 parent_title: Piedmont UFOs
 parent_permalink: /what-really-happened-in-piedmonts-ufo/
 parent_nav_short_title: Piedmont UFOs
@@ -300,8 +300,6 @@ The Caselle case is the most important reason the Susa Valley belongs in any ser
 
 The problem is that “towards the Susa Valley” is not the same as “over Musinè” or “based inside the mountain”. A line of sight is only a direction. Without reliable triangulation from separated observers, clear altitude estimates, time-synchronised logs and known positions of aircraft and celestial objects, a light seen in that direction can be much nearer or much farther away than it appears. The Caselle case remains interesting because of its aviation setting and radar-visual elements, not because it proves that Musinè was the source or destination of the object.
 
-Later investigation also weakened some of the wilder versions of the story. Russo notes that early accounts mixed good information with errors, exaggerations and even invented details, and that no proper UFO investigation with the main pilots, radar operators and witnesses was conducted at the time. A fuller retrospective investigation began only years later, after declassification work and witness tracing by Paolo Fiorino and CISU.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/id/2174/50-years-ago-1973-turin-mass-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP Check</span></span></span> That does not make the case worthless. It does mean that the Susa Valley link has to be handled carefully, because the most dramatic public versions were shaped by journalism and rumour before the evidence was properly sorted.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kj-wlydnzK4" title="Musiné: Il monte degli UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kj-wlydnzK4" target="_blank" rel="noopener noreferrer">Musiné: Il monte degli UFO</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kj-wlydnzK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kj-wlydnzK4">Open on YouTube</a></p></div></div></div>
 
 ## The 1973 wave made Musinè feel like a meeting point
@@ -321,7 +319,13 @@ The [1978 episode]({{'1978-episode/' | relative_url }}) is more dramatic and mor
 
 The date is important. Italy’s wider 1978 wave was significant enough that the Italian Air Force says Prime Minister Giulio Andreotti designated it as the institutional body for collecting, checking and monitoring UFO reports after that year’s wave. The Air Force describes its role as a technical process aimed at checking correlations with human activity or natural phenomena and protecting flight and national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span> The Musinè close-encounter story belongs to that national atmosphere of heightened attention, but it should not be upgraded merely because 1978 was a busy year.
 
-The best way to read the 1978 Musinè story is as a culturally important case with weak public evidence. It matters because it helped seal the mountain’s reputation. It does not, on the available open sources, prove that the valley is an active UFO zone.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bvfy4ZL9ebE" title="Scalata al Musinè: avventura tra natura e mistero con un finale inaspettato!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bvfy4ZL9ebE" target="_blank" rel="noopener noreferrer">Scalata al Musinè: avventura tra natura e mistero con un finale inaspettato!!</a></p><p class="youtube-embed-meta">Channel: Paolo Lo Cascio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bvfy4ZL9ebE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bvfy4ZL9ebE">Open on YouTube</a></p></div></div></div>
+The best way to read the 1978 Musinè story is as a culturally important case with weak public evidence. It matters because it helped seal the mountain’s reputation. It does not, on the available open sources, prove that the valley is an active UFO zone.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bvfy4ZL9ebE" title="Scalata al Musinè: avventura tra natura e mistero con un finale inaspettato!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bvfy4ZL9ebE" target="_blank" rel="noopener noreferrer">Scalata al Musinè: avventura tra natura e mistero con un finale inaspettato!!</a></p><p class="youtube-embed-meta">Channel: Paolo Lo Cascio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bvfy4ZL9ebE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bvfy4ZL9ebE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The hotspot claim is weaker than the folklore
 
@@ -330,6 +334,8 @@ A real hotspot should survive comparison with ordinary reporting bias. More peop
 That is the central caution for readers. Musinè is a hotspot in the cultural sense: a place where stories gather. It is not clearly a hotspot in the statistical or evidential sense. The mountain has books, articles, local traditions, alleged ancient signs, contactee stories, close-encounter claims and repeated media attention. But the public record highlighted by CISU points to only a few cases that investigators themselves regard as especially interesting, surrounded by a much larger mythology.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MPmOe07FCWY" title="Musinè, the mountain that changed history of humanity - by Luca Paro, Davide Medelin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MPmOe07FCWY" target="_blank" rel="noopener noreferrer">Musinè, the mountain that changed history of humanity - by Luca Paro, Davide Medelin</a></p><p class="youtube-embed-meta">Channel: ON THE ROCKS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MPmOe07FCWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MPmOe07FCWY">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What would count as a real Susa Valley hotspot?
 

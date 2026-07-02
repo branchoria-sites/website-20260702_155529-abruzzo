@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 15:47:26'
+date: '2026-06-30 15:47:26'
 parent_title: Abruzzo UFOs
 parent_permalink: /what-really-happened-in-abruzzos-ufo/
 parent_nav_short_title: Abruzzo UFOs
@@ -291,7 +291,13 @@ image: /assets/images/Abruzzo_4c71bb_air_force_records_78c8d9-overview-social.jp
 ## Introduction
 
 [Abruzzo]({{'what-really-happened-in-abruzzos-ufo/' | relative_url }})’s place in Italy’s official UFO record is real, but it is smaller and more measured than the region’s folklore sometimes suggests. The clearest baseline is the Italian Air Force archive, which records reports that entered an official process rather than every rumour, newspaper story or local anecdote. In the most commonly cited regional count, Abruzzo had 18 Air Force-recorded sightings from 1972 to the end of 2013, placing it eleventh among Italian regions: noticeable, but well behind Lazio with 53 and Tuscany with 43.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilcentro.it/index.php/abruzzo/ufo-diciotto-avvistamenti-in-abruzzo-dal-1972-al-2013-video-1.366865" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilcentro.it">[il Centro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilcentro.it</span><span class="citation-popover-title">ufo diciotto avvistamenti in abruzzo dal 1972 al 2013 video 1.366865</span><span class="citation-popover-snippet">ufo diciotto avvistamenti in abruzzo dal 1972 al 2013 video 1.366865</span></span></span><img src="{{"/assets/images/Abruzzo_4c71bb_air_force_records_78c8d9-overview.webp" | relative_url }}" alt="Overview image for Official Files" loading="eager" decoding="sync" fetchpriority="high">
-That matters because Abruzzo’s UFO reputation is often shaped by vivid coastal and mountain stories, especially memories of the 1978 wave. The official files give a cooler view. They show a regional record concentrated in particular years, especially 1978 and the mid-1990s, but they do not turn “unidentified” into proof of alien craft. The files are best read as evidence of documented unresolved reports, not as confirmation of extraordinary origins.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DQgTdT6KEyI" title="&quot;UFO, i dossier italiani&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer">&quot;UFO, i dossier italiani&quot;</a></p><p class="youtube-embed-meta">Channel: DIFESA ONLINE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DQgTdT6KEyI">Open on YouTube</a></p></div></div></div>
+That matters because Abruzzo’s UFO reputation is often shaped by vivid coastal and mountain stories, especially memories of the 1978 wave. The official files give a cooler view. They show a regional record concentrated in particular years, especially 1978 and the mid-1990s, but they do not turn “unidentified” into proof of alien craft. The files are best read as evidence of documented unresolved reports, not as confirmation of extraordinary origins.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DQgTdT6KEyI" title="&quot;UFO, i dossier italiani&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer">&quot;UFO, i dossier italiani&quot;</a></p><p class="youtube-embed-meta">Channel: DIFESA ONLINE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DQgTdT6KEyI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How sightings entered the Air Force archive
 
@@ -305,8 +311,6 @@ For Abruzzo, this makes the official archive more valuable than ordinary folklor
 The number most often attached to Abruzzo is 18 official sightings from 1972 to 2013. Local reporting based on Air Force-derived data placed Abruzzo eleventh nationally, with Lazio first on 53 sightings, Tuscany second on 43 and Molise last with one. The same report gave a national total of 433 sightings for that 1972–2013 span.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilcentro.it/index.php/abruzzo/ufo-diciotto-avvistamenti-in-abruzzo-dal-1972-al-2013-video-1.366865" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilcentro.it">[il Centro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilcentro.it</span><span class="citation-popover-title">ufo diciotto avvistamenti in abruzzo dal 1972 al 2013 video 1.366865</span><span class="citation-popover-snippet">ufo diciotto avvistamenti in abruzzo dal 1972 al 2013 video 1.366865</span></span></span>
 
 That ranking is useful because it cuts against two easy mistakes. One mistake is to treat Abruzzo as irrelevant because it is not near the top of the Italian table. Eighteen reports is enough to show that the region genuinely appears in the official record. The opposite mistake is to treat Abruzzo as one of Italy’s leading UFO zones simply because its coastal and mountain stories are memorable. On the published count, it is a mid-ranking region, not an outlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abruzzoweb.it/ufo-in-abruzzo-diciotto-gli-avvistamenti-in-cielo-segnalati-dal-1972-al-2013/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abruzzoweb.it">[Abruzzo Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abruzzoweb.it</span><span class="citation-popover-snippet">Open source on abruzzoweb.it.</span></span></span>
-
-The Air Force’s own period tables help explain how the total builds up. For 1972–1990, the regional table lists Abruzzo with nine sightings, while the national total for that period is 208. The same table shows the national boom year clearly: 1978 alone accounts for 69 Italian sightings, which helps explain why that year looms so large in Abruzzo’s local memory as well as in wider Italian UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/INT.Dperiodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare Presentazione standard di Power Point</span><span class="citation-popover-snippet">Aeronautica Militare Presentazione standard di Power Point</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NhZOvhOFBuw" title="UFO Files #7: Invasione UFO in Italia - 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NhZOvhOFBuw" target="_blank" rel="noopener noreferrer">UFO Files #7: Invasione UFO in Italia - 1978</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NhZOvhOFBuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NhZOvhOFBuw">Open on YouTube</a></p></div></div></div>
 
@@ -324,6 +328,8 @@ The Air Force archive is the best starting point for Abruzzo because it filters 
 But the same archive also has limits. Many UFO reports depend on brief visual observation, uncertain distance, uncertain altitude, limited witness information and incomplete environmental data. Even when a case remains “unidentified”, that can simply mean there was not enough evidence to identify it confidently. It is a category of unresolved reporting, not a positive identification of something exotic.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RMa6z1OXjls" title="In Cronaca - Ufo in Adriatico: noi c&#x27;eravamo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RMa6z1OXjls" target="_blank" rel="noopener noreferrer">In Cronaca - Ufo in Adriatico: noi c&#x27;eravamo</a></p><p class="youtube-embed-meta">Channel: Rete8. it</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RMa6z1OXjls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RMa6z1OXjls">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Reading Abruzzo’s official record fairly
 

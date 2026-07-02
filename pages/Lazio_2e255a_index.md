@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lazio-2e255a-index/
 description: Focused pages that expand on What Really Happened in Lazio's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Lazio_2e255a
 parent_title: What Really Happened in Lazio's UFO Files?

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 16:33:07'
+date: '2026-06-30 16:33:07'
 parent_title: Calabria UFOs
 parent_permalink: /what-really-happened-in-calabrias-ufo/
 parent_nav_short_title: Calabria UFOs
@@ -312,7 +312,13 @@ The strongest Calabrian entry in the older Air Force files is the sighting of 12
 
 This is the sort of case that deserves attention, not because it proves anything extraordinary, but because the witness category is better than usual. A civil-aircraft crew is not automatically infallible, but pilots and crews are trained to observe sky conditions, judge altitude and notice flight-safety hazards. The case also has a useful comparison built into the same archive sequence: a separate entry from south of Ponza, at the same time and also reported by a civil-aircraft crew, describes a luminous trail in clear sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-That pairing cuts both ways. It strengthens the idea that something real and visible occurred over a wider area, but it weakens any attempt to treat the Reggio Calabria report as a uniquely local mystery. A luminous trail seen from two separated positions at the same time could point towards a high-altitude atmospheric or re-entry-like event, a meteor, debris, or another transient aerial phenomenon. The Air Force file leaves it unidentified, but the data as published are too short to decide between such possibilities.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CBKYNwC-bjs" title="UFO Crash Retrieval - The Kalahari UAP Incident // 3D CGI Animation / Unreal Engine 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer">UFO Crash Retrieval - The Kalahari UAP Incident // 3D CGI Animation / Unreal Engine 5</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 12.7M &middot; Uploaded: June 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CBKYNwC-bjs">Open on YouTube</a></p></div></div></div>
+That pairing cuts both ways. It strengthens the idea that something real and visible occurred over a wider area, but it weakens any attempt to treat the Reggio Calabria report as a uniquely local mystery. A luminous trail seen from two separated positions at the same time could point towards a high-altitude atmospheric or re-entry-like event, a meteor, debris, or another transient aerial phenomenon. The Air Force file leaves it unidentified, but the data as published are too short to decide between such possibilities.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CBKYNwC-bjs" title="UFO Crash Retrieval - The Kalahari UAP Incident // 3D CGI Animation / Unreal Engine 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer">UFO Crash Retrieval - The Kalahari UAP Incident // 3D CGI Animation / Unreal Engine 5</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 12.7M &middot; Uploaded: June 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CBKYNwC-bjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CBKYNwC-bjs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ### Reggio Calabria, August 1995: a brief citizen report
 
@@ -335,7 +341,13 @@ Later reporting shows that Calabria continued to appear in Italy’s modern offi
 
 The modern context is important because contemporary skies are more cluttered than the skies of earlier Air Force files. Drones, satellite trains, bright re-entries, balloons, aircraft and online amplification can all create short-lived UFO waves. The same Fanpage report noted that some 2021 Italian cases had strong similarities to the Starlink satellite effect, even though they had initially entered the official unidentified category because they were not associated with flight or radiosonde activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fanpage.it/attualita/ufo-tutti-gli-avvistamenti-registrati-dallaeronautica-militare-in-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fanpage.it">[fanpage.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fanpage.it</span><span class="citation-popover-title">Ufo, tutti gli avvistamenti registrati dall&#x27;Aeronautica militare in Italia</span><span class="citation-popover-snippet">Ufo, tutti gli avvistamenti registrati dall&#x27;Aeronautica militare in Italia</span></span></span>
 
-That does not explain the Soveria Mannelli report by itself. It does show why recent Calabrian cases need a stricter evidential standard. A modern sighting is not automatically better documented just because cameras and tracking tools exist; it is better documented only when those tools are actually used and the results are preserved.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
+That does not explain the Soveria Mannelli report by itself. It does show why recent Calabrian cases need a stricter evidential standard. A modern sighting is not automatically better documented just because cameras and tracking tools exist; it is better documented only when those tools are actually used and the results are preserved.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What short archive records can and cannot prove
 
@@ -350,6 +362,8 @@ Second, some cases are more evidentially interesting than others. The 1989 Reggi
 Third, the files are not full investigations in the public sense. They rarely give interviews, maps, raw radar returns, astronomical checks, aircraft-traffic overlays, photographs, chain-of-custody notes or later re-evaluations. That makes them credible as official summaries, but limited as evidence for any stronger interpretation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xx6JpXlwIaQ" title="The Proof Is Out There: Strange Cigar-Shaped UFO SHOCKS Pilot (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xx6JpXlwIaQ" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Strange Cigar-Shaped UFO SHOCKS Pilot (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xx6JpXlwIaQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xx6JpXlwIaQ">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why Calabria’s official files matter
 

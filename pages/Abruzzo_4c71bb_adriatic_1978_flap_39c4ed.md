@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 15:47:26'
+date: '2026-06-30 15:47:26'
 parent_title: Abruzzo UFOs
 parent_permalink: /what-really-happened-in-abruzzos-ufo/
 parent_nav_short_title: Abruzzo UFOs
@@ -302,7 +302,13 @@ For Abruzzo, the 1978 entries in the Air Force archive are specific and more res
 
 A second December cluster appears in the same official archive. On 14 December 1978, Pescara is listed again, this time for a white circular-cap-shaped object seen at about 10:00, moving from south towards north-west at very high altitude. Chieti is listed for the same date at about 02:00, with a white luminous spherical object moving from north to south. Both reports came via the Carabinieri and both were catalogued as unidentified after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-These entries do not prove extraordinary craft. They prove something narrower but important: Abruzzo’s 1978 coastal and inland reports were not only later folklore. Some were recorded in the national Air Force archive with dates, places, shapes, colours, directions, estimated altitudes, weather and reporting channel. At the same time, the archive does not reproduce the most dramatic sea claims in full. The official record is a set of sighting summaries, not a confirmation of boiling water, underwater bases, hostile encounters or a single coherent event.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RMa6z1OXjls" title="In Cronaca - Ufo in Adriatico: noi c&#x27;eravamo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RMa6z1OXjls" target="_blank" rel="noopener noreferrer">In Cronaca - Ufo in Adriatico: noi c&#x27;eravamo</a></p><p class="youtube-embed-meta">Channel: Rete8. it</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RMa6z1OXjls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RMa6z1OXjls">Open on YouTube</a></p></div></div></div>
+These entries do not prove extraordinary craft. They prove something narrower but important: Abruzzo’s 1978 coastal and inland reports were not only later folklore. Some were recorded in the national Air Force archive with dates, places, shapes, colours, directions, estimated altitudes, weather and reporting channel. At the same time, the archive does not reproduce the most dramatic sea claims in full. The official record is a set of sighting summaries, not a confirmation of boiling water, underwater bases, hostile encounters or a single coherent event.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RMa6z1OXjls" title="In Cronaca - Ufo in Adriatico: noi c&#x27;eravamo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RMa6z1OXjls" target="_blank" rel="noopener noreferrer">In Cronaca - Ufo in Adriatico: noi c&#x27;eravamo</a></p><p class="youtube-embed-meta">Channel: Rete8. it</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RMa6z1OXjls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RMa6z1OXjls">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the national 1978 wave matters
 
@@ -317,7 +323,13 @@ One of the most cited operational details is the 9 November 1978 patrol involvin
 
 This is one of the more interesting claims because it involves named maritime personnel and an official-type patrol setting rather than only anonymous public witnesses. But the evidential level is still mixed. The story is largely preserved in later UFO and local-retrospective accounts, not in the easily accessible Air Force archive entries for Abruzzo. Rete8 repeats the CP 2018 episode and names Commander Nello Di Valentino, saying five men saw a red light “similar to a flare” with no radar contact nearby, followed by radar disturbance; but the same article is a retrospective built partly from UFO-commentary material, not a scanned harbour authority log.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rete8.it/cronaca/378quando-gli-ufo-invasero-labruzzo-ottobre-78/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rete8.it">[Rete8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rete8.it</span><span class="citation-popover-title">378quando gli ufo invasero labruzzo ottobre 78</span><span class="citation-popover-snippet">1978: quando gli UFO &quot;invasero&quot; l&#x27;Abruzzo - Rete8...</span></span></span>
 
-The “similar to a flare” wording is especially important. A flare is itself a plausible maritime explanation for a short-lived red light above the sea. The counterargument in UFO retellings is that trained maritime personnel would recognise an ordinary flare and that no vessel or person was found nearby. Both points are relevant, but neither removes the need for the original patrol log, radio transcript, radar maintenance record and weather details. Without those, CP 2018 remains one of the flap’s best lead claims rather than a fully resolved case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DQgTdT6KEyI" title="&quot;UFO, i dossier italiani&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer">&quot;UFO, i dossier italiani&quot;</a></p><p class="youtube-embed-meta">Channel: DIFESA ONLINE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DQgTdT6KEyI">Open on YouTube</a></p></div></div></div>
+The “similar to a flare” wording is especially important. A flare is itself a plausible maritime explanation for a short-lived red light above the sea. The counterargument in UFO retellings is that trained maritime personnel would recognise an ordinary flare and that no vessel or person was found nearby. Both points are relevant, but neither removes the need for the original patrol log, radio transcript, radar maintenance record and weather details. Without those, CP 2018 remains one of the flap’s best lead claims rather than a fully resolved case.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DQgTdT6KEyI" title="&quot;UFO, i dossier italiani&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer">&quot;UFO, i dossier italiani&quot;</a></p><p class="youtube-embed-meta">Channel: DIFESA ONLINE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DQgTdT6KEyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DQgTdT6KEyI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The sightings that became a coastal legend
 
@@ -329,8 +341,6 @@ The same caution applies to the sea-surface claims. “Boiling” water, luminou
 ## How later retellings changed the story
 
 The original 1978 evidence appears to have been fragmented: individual sightings, patrols, emergency calls, fishermen’s memories and press reports. Later retellings made it feel more unified. The phrase “Adriatic Triangle” is the clearest example. It gives the reports a memorable shape, linking Ancona, the Gran Sasso and Pescara into one dramatic zone. That helps readers remember the story, but it can also imply a coherence that the underlying evidence does not prove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rete8.it/cronaca/378quando-gli-ufo-invasero-labruzzo-ottobre-78/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rete8.it">[Rete8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rete8.it</span><span class="citation-popover-title">378quando gli ufo invasero labruzzo ottobre 78</span><span class="citation-popover-snippet">1978: quando gli UFO &quot;invasero&quot; l&#x27;Abruzzo - Rete8...</span></span></span>
-
-Television also changed the tone. Rete8’s article explicitly notes that its video material was taken from *Voyager*, a programme known for popular mystery storytelling. That does not make every witness unreliable, but it does mean modern viewers are often encountering 1978 through a later entertainment frame, where the most visual, frightening and unresolved elements are naturally emphasised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rete8.it/cronaca/378quando-gli-ufo-invasero-labruzzo-ottobre-78/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rete8.it">[Rete8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rete8.it</span><span class="citation-popover-title">378quando gli ufo invasero labruzzo ottobre 78</span><span class="citation-popover-snippet">1978: quando gli UFO &quot;invasero&quot; l&#x27;Abruzzo - Rete8...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oioESMHEDxU" title="UFO in Adriatico - La verità 40 anni dopo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oioESMHEDxU" target="_blank" rel="noopener noreferrer">UFO in Adriatico - La verità 40 anni dopo</a></p><p class="youtube-embed-meta">Channel: Rete8 &middot; Views: 59.3K &middot; Uploaded: April 2018 &middot; Length: 2 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oioESMHEDxU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oioESMHEDxU">Open on YouTube</a></p></div></div></div>
 

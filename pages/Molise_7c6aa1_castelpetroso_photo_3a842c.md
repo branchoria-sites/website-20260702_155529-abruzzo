@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:22'
+date: '2026-07-01 09:38:22'
 parent_title: Molise UFOs
 parent_permalink: /what-really-happened-in-molises-ufo/
 parent_nav_short_title: Molise UFOs
@@ -302,8 +302,6 @@ But the actual evidential core is narrow. The photograph, as reported, did not c
 
 The most important clue in the Castelpetroso report is easy to miss: the article says streaks left by the movement of the stars were visible at the sides of the image. In photographic terms, that points to a long exposure. Star trails are not stars physically racing across the sky; they are the apparent motion of the stars recorded while the Earth rotates and the shutter remains open long enough for points of light to become arcs or streaks. NASA’s Earth Observatory describes long-exposure compilations turning stars into rings and city lights into streaks, while general star-trail photography works by leaving the camera open for minutes or by stacking multiple exposures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/earth/earth-observatory/stars-in-motion-147990/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">stars in motion 147990</span><span class="citation-popover-snippet">stars in motion 147990</span></span></span>
 
-That single fact weakens the “hovering object” reading. In a long exposure, a camera does not record a frozen instant in the way a daylight phone snapshot might. It accumulates light over time. Stars, passing aircraft, insects close to the lens, moving torches, car headlights, illuminated mist, and reflections can all leave forms that were not perceived as discrete objects by a human observer at the scene. A clean-looking beam in the final photograph may represent several seconds or minutes of optical behaviour compressed into one image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Star_trail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Star trail</span><span class="citation-popover-snippet">Star trail</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CeCFwMuh0a4" title="VFX Artists Debunk... REAL UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer">VFX Artists Debunk... REAL UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.5M &middot; Uploaded: July 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CeCFwMuh0a4">Open on YouTube</a></p></div></div></div>
 
 ## Why likely artefacts fit better than a strong UFO case
@@ -328,6 +326,8 @@ For Castelpetroso, the most useful checks would be:<div class="content-enhanceme
 * **A site comparison at the same viewpoint.** A repeat photograph under similar lighting could test whether sanctuary floodlights or nearby lamps create repeatable ghosting.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X3nMwPjL6Ys" title="I Called Ramiro Torrents About THIS Star Trails Shot 🌌(Socotra)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X3nMwPjL6Ys" target="_blank" rel="noopener noreferrer">I Called Ramiro Torrents About THIS Star Trails Shot 🌌(Socotra)</a></p><p class="youtube-embed-meta">Channel: PhotoPills</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X3nMwPjL6Ys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X3nMwPjL6Ys">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Where Castelpetroso sits in Molise’s UFO record
 

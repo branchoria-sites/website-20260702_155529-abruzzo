@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:23'
+date: '2026-07-01 09:38:23'
 parent_title: Molise UFOs
 parent_permalink: /what-really-happened-in-molises-ufo/
 parent_nav_short_title: Molise UFOs
@@ -310,7 +310,13 @@ Astronomy and skywatching organisations regularly warn that ordinary sky objects
 
 Satellites have become a stronger explanation in recent years. Starlink trains, in particular, can appear as a line of bright moving dots shortly after launch, most visible after sunset or before sunrise when the ground is dark but the satellites still reflect sunlight. Space.com’s current guide notes that these trains are often mistaken for UFOs, and a 2024 space-situational-awareness study documented Starlink misidentification by pilots as well as ordinary observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</span></span></span>
 
-That point is useful for Molise even where a specific sighting predates Starlink. The mechanism is the same: a witness sees a bright object moving in an unfamiliar way, has little distance information, and interprets a normal aerospace object as anomalous. For current and future Molise reports, checking satellite passes, aircraft tracks and launch-related visibility windows should be an early step, not an afterthought.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4h6OXRDhS4c" title="What are these STRANGE CHAINS OF LIGHTS in the Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4h6OXRDhS4c" target="_blank" rel="noopener noreferrer">What are these STRANGE CHAINS OF LIGHTS in the Sky?</a></p><p class="youtube-embed-meta">Channel: Something Incredible &middot; Views: 276.5K &middot; Uploaded: August 2020 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4h6OXRDhS4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4h6OXRDhS4c">Open on YouTube</a></p></div></div></div>
+That point is useful for Molise even where a specific sighting predates Starlink. The mechanism is the same: a witness sees a bright object moving in an unfamiliar way, has little distance information, and interprets a normal aerospace object as anomalous. For current and future Molise reports, checking satellite passes, aircraft tracks and launch-related visibility windows should be an early step, not an afterthought.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4h6OXRDhS4c" title="What are these STRANGE CHAINS OF LIGHTS in the Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4h6OXRDhS4c" target="_blank" rel="noopener noreferrer">What are these STRANGE CHAINS OF LIGHTS in the Sky?</a></p><p class="youtube-embed-meta">Channel: Something Incredible &middot; Views: 276.5K &middot; Uploaded: August 2020 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4h6OXRDhS4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4h6OXRDhS4c">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Balloons, lanterns and drones
 
@@ -332,6 +338,8 @@ Local Molise coverage made the regional relevance explicit. Rai’s Molise servi
 That event is useful because it shows the difference between “unusual” and “unidentified”. To an ordinary witness, a bright bolide can be startling: fast, luminous, low-looking, sometimes fragmenting, and unlike a normal shooting star. To a monitoring network, the same event can be timed, triangulated and reconstructed. In other words, the Molise sky can produce genuinely dramatic lights without requiring an exotic craft.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Photography effects and misread images
 
@@ -357,6 +365,8 @@ A practical decision path looks like this:<div class="content-enhancement conten
 5. **Separate “unexplained to the witness” from “unidentified after investigation”.** The first is common and sincere. The second requires failed checks against ordinary causes.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CU1TRVk6yUc" title="Curios Pilot: UAP Investigation Example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer">Curios Pilot: UAP Investigation Example</a></p><p class="youtube-embed-meta">Channel: Philip Giacalone &middot; Views: 47 &middot; Uploaded: May 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CU1TRVk6yUc">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What this means for Molise’s UFO history
 

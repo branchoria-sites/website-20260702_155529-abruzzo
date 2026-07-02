@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:59:17'
+date: '2026-06-30 19:59:17'
 parent_title: Lazio UFOs
 parent_permalink: /what-really-happened-in-lazios-ufo-files/
 parent_nav_short_title: Lazio UFOs
@@ -313,6 +313,8 @@ However, an important limitation remains. Many of the frequently repeated summar
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R2ha1_9mxbo" title="Ditemi se è un ufo - ItaliaSì! 21/04/2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R2ha1_9mxbo" target="_blank" rel="noopener noreferrer">Ditemi se è un ufo - ItaliaSì! 21/04/2019</a></p><p class="youtube-embed-meta">Channel: Rai</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R2ha1_9mxbo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R2ha1_9mxbo">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Police, Carabinieri and formal reporting channels
 
 One of the most distinctive features of Italy's official UFO system is the continuing role of the Carabinieri in receiving reports.
@@ -347,7 +349,15 @@ Yet many factors affecting UFO reports remain unchanged regardless of profession
 
 Modern aviation investigation routinely recognises that even highly experienced pilots can misidentify unfamiliar visual phenomena under difficult conditions. The same principle applies to soldiers, police officers and other professionals.
 
-Consequently, a report from an Air Force member deserves careful attention but should still be evaluated alongside physical evidence, independent witnesses, photographs, radar data and subsequent investigation rather than accepted purely because of the observer's occupation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_gPNriOXS8E" title="1979 - Military Pilot Photographs UFO over Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_gPNriOXS8E" target="_blank" rel="noopener noreferrer">1979 - Military Pilot Photographs UFO over Italy</a></p><p class="youtube-embed-meta">Channel: Tales From Out There</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_gPNriOXS8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_gPNriOXS8E">Open on YouTube</a></p></div></div></div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BIgW5cKuJ1M" title="Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer">Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING</a></p><p class="youtube-embed-meta">Channel: The Conscious movement</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BIgW5cKuJ1M">Open on YouTube</a></p></div></div></div>
+Consequently, a report from an Air Force member deserves careful attention but should still be evaluated alongside physical evidence, independent witnesses, photographs, radar data and subsequent investigation rather than accepted purely because of the observer's occupation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_gPNriOXS8E" title="1979 - Military Pilot Photographs UFO over Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_gPNriOXS8E" target="_blank" rel="noopener noreferrer">1979 - Military Pilot Photographs UFO over Italy</a></p><p class="youtube-embed-meta">Channel: Tales From Out There</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_gPNriOXS8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_gPNriOXS8E">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BIgW5cKuJ1M" title="Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer">Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING</a></p><p class="youtube-embed-meta">Channel: The Conscious movement</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BIgW5cKuJ1M">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The limits of authority as evidence
 

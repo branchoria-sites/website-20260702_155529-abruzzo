@@ -64,7 +64,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -212,13 +212,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:37'
+date: '2026-07-01 09:38:37'
 sibling_links:
 - basename: Aosta_Valley_ccb120
   title: Aosta UFOs
@@ -387,7 +387,13 @@ The Taormina case is usually linked to photographer Giuseppe Grasso, whose image
 
 The doubts are just as important as the claim. Later photographic cataloguing and sceptical discussion have suggested more mundane possibilities, including reflections or staged imagery associated with a balloon report. One UFO photo catalogue summary even argues that the image may involve an indoor lamp reflected in glass, while another source says the case looks less like a clean photograph of objects in the sky and more like a photographic artefact or arranged image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.zyrosite.com/YBg8GXeXaQhGM9Nv/ufoctline-n.-13-m7VMG7j5w0fLgX9x.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.zyrosite.com">[Zyro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.zyrosite.com</span><span class="citation-popover-title">ufoctline n. 13 m7VMG7j5w0f Lg X9x</span><span class="citation-popover-snippet">ufoctline n. 13 m7VMG7j5w0f Lg X9x</span></span></span>
 
-For Sicily’s UFO history, Taormina matters less as evidence of an extraordinary craft than as an example of how early UFO photography travelled through newspapers before modern forensic standards. The case has an attractive setting, a named photographer and period press attention, but the surviving evidential value is weak: the date, image context, shooting conditions and later analysis remain contested.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yEzz6-2dC-U" title="AARO Releases New UAP Video to Public - Reviewed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yEzz6-2dC-U" target="_blank" rel="noopener noreferrer">AARO Releases New UAP Video to Public - Reviewed</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 22.6K &middot; Uploaded: December 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yEzz6-2dC-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yEzz6-2dC-U">Open on YouTube</a></p></div></div></div>
+For Sicily’s UFO history, Taormina matters less as evidence of an extraordinary craft than as an example of how early UFO photography travelled through newspapers before modern forensic standards. The case has an attractive setting, a named photographer and period press attention, but the surviving evidential value is weak: the date, image context, shooting conditions and later analysis remain contested.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yEzz6-2dC-U" title="AARO Releases New UAP Video to Public - Reviewed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yEzz6-2dC-U" target="_blank" rel="noopener noreferrer">AARO Releases New UAP Video to Public - Reviewed</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 22.6K &middot; Uploaded: December 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yEzz6-2dC-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yEzz6-2dC-U">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Canneto di Caronia: Sicily’s strangest UFO-adjacent case
 
@@ -408,7 +414,13 @@ This is exactly the sort of event that would once have become a durable UFO myst
 
 The University of Malta gave the same broad explanation for a similar sky display visible from Malta, identifying it as a Falcon 9 release of Starlink satellites, while Italian reports quoted space specialists who said the timing and appearance were strongly consistent with the rocket stage, even if exact public launch data can sometimes be incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.um.edu.mt/newspoint/news/2024/06/mysterious-shape-night-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: um.edu.mt">[L-Università ta&#x27; Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">um.edu.mt</span><span class="citation-popover-snippet">Open source on edu.mt.</span></span></span>
 
-For Sicily’s UFO record, the 2024 event is valuable because it is a near-perfect modern control case. It looked extraordinary to ordinary observers, spread quickly online, and was described as unidentified in early local reporting. Then cross-checking against space activity made the prosaic explanation much stronger. That does not make witnesses foolish; it shows why eyewitness impressions need timing, trajectory, known launches and independent comparison before a case is treated as unresolved.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tnGoR71YkQM" title="Sicily fire horror" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tnGoR71YkQM" target="_blank" rel="noopener noreferrer">Sicily fire horror</a></p><p class="youtube-embed-meta">Channel: euronews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tnGoR71YkQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tnGoR71YkQM">Open on YouTube</a></p></div></div></div>
+For Sicily’s UFO record, the 2024 event is valuable because it is a near-perfect modern control case. It looked extraordinary to ordinary observers, spread quickly online, and was described as unidentified in early local reporting. Then cross-checking against space activity made the prosaic explanation much stronger. That does not make witnesses foolish; it shows why eyewitness impressions need timing, trajectory, known launches and independent comparison before a case is treated as unresolved.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tnGoR71YkQM" title="Sicily fire horror" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tnGoR71YkQM" target="_blank" rel="noopener noreferrer">Sicily fire horror</a></p><p class="youtube-embed-meta">Channel: euronews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tnGoR71YkQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tnGoR71YkQM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Ustica and the danger of confusing “unidentified” with “alien”
 
@@ -416,7 +428,13 @@ The 1980 Itavia Flight 870 disaster is sometimes pulled into UFO conversations b
 
 This belongs only at the edge of Sicily’s UFO history. It is a major Italian aviation and military mystery with Palermo as the destination and Ustica as the geographic reference point, but the serious debate has centred on military aircraft, a missile, a bomb, radar interpretation, state secrecy and alleged misdirection, not alien visitation. Later reporting and memorial sources describe the long dispute over whether the aircraft was destroyed during an undeclared military air incident; recent summaries of civil judgments have treated the missile or military-aircraft scenario as the most credible line, while other theories have been contested or rejected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fondazionefeltrinelli.it/pubblico/la-lunga-notte-dei-depistaggi-italiani/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondazionefeltrinelli.it">[Fondazione Giangiacomo Feltrinelli]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondazionefeltrinelli.it</span><span class="citation-popover-title">la lunga notte dei depistaggi italiani</span><span class="citation-popover-snippet">la lunga notte dei depistaggi italiani</span></span></span>
 
-The useful UFO-history lesson is linguistic. In radar and aviation contexts, “unidentified object” can mean an aircraft, track or return that has not been matched to a known flight. It should not be converted into a flying-saucer claim without evidence. Ustica is therefore relevant as a warning: Sicily’s military geography produces genuine questions about airspace, but not every unidentified radar element belongs in UFO lore.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v-NTE6U8dwQ" title="NEW Drone / UAP / UFO Sightings EVERYWHERE! Is the Threat REAL?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v-NTE6U8dwQ" target="_blank" rel="noopener noreferrer">NEW Drone / UAP / UFO Sightings EVERYWHERE! Is the Threat REAL?</a></p><p class="youtube-embed-meta">Channel: C.W. Lemoine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v-NTE6U8dwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v-NTE6U8dwQ">Open on YouTube</a></p></div></div></div>
+The useful UFO-history lesson is linguistic. In radar and aviation contexts, “unidentified object” can mean an aircraft, track or return that has not been matched to a known flight. It should not be converted into a flying-saucer claim without evidence. Ustica is therefore relevant as a warning: Sicily’s military geography produces genuine questions about airspace, but not every unidentified radar element belongs in UFO lore.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v-NTE6U8dwQ" title="NEW Drone / UAP / UFO Sightings EVERYWHERE! Is the Threat REAL?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v-NTE6U8dwQ" target="_blank" rel="noopener noreferrer">NEW Drone / UAP / UFO Sightings EVERYWHERE! Is the Threat REAL?</a></p><p class="youtube-embed-meta">Channel: C.W. Lemoine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v-NTE6U8dwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v-NTE6U8dwQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What counts as strong evidence in a Sicilian case?
 

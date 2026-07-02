@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:54'
+date: '2026-07-01 09:38:54'
 parent_title: Aosta UFOs
 parent_permalink: /aosta-valley/
 parent_nav_short_title: Aosta UFOs
@@ -291,7 +291,13 @@ image: /assets/images/Aosta_Valley_ccb120_cosmos_167_reentry_ad4ac1-overview-soc
 ## Introduction
 
 The 18 July 1967 Aosta sky scare is best understood as an explained UFO report rather than a lasting mystery. Local [Aosta Valley]({{'aosta-valley/' | relative_url }}) reporting describes “strange fiery lights” over Aosta and says they were probably fragments of a “Cosmo” carrier or vector. That short note matters because it shows a recurring pattern in regional UFO history: a dramatic, alarming sighting can later fit the behaviour of falling space debris rather than an unknown craft. The detail also needs careful handling. The object often associated with the wider 1967 “Cosmos” explanation is not straightforwardly Cosmos 167 on that date: Cosmos 167 decayed on 25 June 1967, while a technical re-entry catalogue places a Cosmos 169 rocket-body re-entry over Europe on 18 July, including northern Italy and the Alps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.valledaostaglocal.it/2014/03/01/leggi-notizia/argomenti/attualita-2/articolo/ufo-dal-1947-ad-oggi-circa-80-avvistamenti-in-valle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: valledaostaglocal.it">[AostaCronaca+2n2yo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">valledaostaglocal.it</span><span class="citation-popover-title">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span><span class="citation-popover-snippet">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span></span></span><img src="{{"/assets/images/Aosta_Valley_ccb120_cosmos_167_reentry_ad4ac1-overview.webp" | relative_url }}" alt="Overview image for Cosmos Re entry" loading="eager" decoding="sync" fetchpriority="high">
-That correction does not make the Aosta report less useful. It makes it more useful. It turns the case into a small but clear lesson in how UFO archives should be read: witness descriptions, local memory, later summaries and space-object catalogues can point in the same explanatory direction while still disagreeing over the exact object name.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y8VhvQTUk7c" title="¿Es un ovni, es un meteorito...? No, es basura espacial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y8VhvQTUk7c" target="_blank" rel="noopener noreferrer">¿Es un ovni, es un meteorito...? No, es basura espacial</a></p><p class="youtube-embed-meta">Channel: Telemadrid</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y8VhvQTUk7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y8VhvQTUk7c">Open on YouTube</a></p></div></div></div>
+That correction does not make the Aosta report less useful. It makes it more useful. It turns the case into a small but clear lesson in how UFO archives should be read: witness descriptions, local memory, later summaries and space-object catalogues can point in the same explanatory direction while still disagreeing over the exact object name.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y8VhvQTUk7c" title="¿Es un ovni, es un meteorito...? No, es basura espacial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y8VhvQTUk7c" target="_blank" rel="noopener noreferrer">¿Es un ovni, es un meteorito...? No, es basura espacial</a></p><p class="youtube-embed-meta">Channel: Telemadrid</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y8VhvQTUk7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y8VhvQTUk7c">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 18 July 1967 reports over Aosta
 
@@ -312,7 +318,13 @@ A re-entry catalogue compiled by satellite observer Ted Molczan gives the same C
 
 That distinction is not pedantry. In UFO history, exact dates, times and trajectories are what allow a case to be tested. “Cosmo” in a local article may have meant a Soviet Cosmos-series object in a loose sense. “Cosmos 167” may have entered later discussion as a convenient label. But if the reported Aosta date is 18 July, the stronger technical match is Cosmos 169’s rocket body, not Cosmos 167.
 
-The safest wording is therefore: the Aosta 18 July 1967 “fiery lights” were probably caused by Soviet Cosmos-series space debris, most plausibly the Cosmos 169 rocket-body re-entry recorded over Europe that night. Cosmos 167 is relevant as a cautionary name attached to the story, but it is not the best match for the 18 July Aosta event.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kC5BkObM8Ig" title="Fiery lights spotted in skies over Wisconsin believed to be ‘space junk’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kC5BkObM8Ig" target="_blank" rel="noopener noreferrer">Fiery lights spotted in skies over Wisconsin believed to be ‘space junk’</a></p><p class="youtube-embed-meta">Channel: WISN 12 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kC5BkObM8Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kC5BkObM8Ig">Open on YouTube</a></p></div></div></div>
+The safest wording is therefore: the Aosta 18 July 1967 “fiery lights” were probably caused by Soviet Cosmos-series space debris, most plausibly the Cosmos 169 rocket-body re-entry recorded over Europe that night. Cosmos 167 is relevant as a cautionary name attached to the story, but it is not the best match for the 18 July Aosta event.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kC5BkObM8Ig" title="Fiery lights spotted in skies over Wisconsin believed to be ‘space junk’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kC5BkObM8Ig" target="_blank" rel="noopener noreferrer">Fiery lights spotted in skies over Wisconsin believed to be ‘space junk’</a></p><p class="youtube-embed-meta">Channel: WISN 12 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kC5BkObM8Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kC5BkObM8Ig">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How re-entries fool witnesses
 
@@ -335,7 +347,13 @@ Second, the event was not isolated to one valley. The 18 July 1967 Cosmos 169 ro
 
 Third, the Italian local article itself already leans towards an explanation, saying the Aosta lights were probably fragments of a Cosmos-series vector. That matters because the case has not survived chiefly as an unresolved mystery. It has survived as an example of how an originally strange sight can be placed into a known space-age category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.valledaostaglocal.it/2014/03/01/leggi-notizia/argomenti/attualita-2/articolo/ufo-dal-1947-ad-oggi-circa-80-avvistamenti-in-valle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: valledaostaglocal.it">[AostaCronaca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">valledaostaglocal.it</span><span class="citation-popover-title">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span><span class="citation-popover-snippet">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span></span></span>
 
-The remaining weakness is the name. If a page, catalogue or retelling calls the Aosta event “Cosmos 167”, that should be treated as a loose or mistaken label unless it is referring to the separate 25 June 1967 South American re-entry. For Aosta on 18 July, the better match is Cosmos 169 rocket debris.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/95dtPFRS0g4" title="Carl Petrick describes his experience seeing a UFO in 1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=95dtPFRS0g4" target="_blank" rel="noopener noreferrer">Carl Petrick describes his experience seeing a UFO in 1967</a></p><p class="youtube-embed-meta">Channel: Quad-City Times</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=95dtPFRS0g4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=95dtPFRS0g4">Open on YouTube</a></p></div></div></div>
+The remaining weakness is the name. If a page, catalogue or retelling calls the Aosta event “Cosmos 167”, that should be treated as a loose or mistaken label unless it is referring to the separate 25 June 1967 South American re-entry. For Aosta on 18 July, the better match is Cosmos 169 rocket debris.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/95dtPFRS0g4" title="Carl Petrick describes his experience seeing a UFO in 1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=95dtPFRS0g4" target="_blank" rel="noopener noreferrer">Carl Petrick describes his experience seeing a UFO in 1967</a></p><p class="youtube-embed-meta">Channel: Quad-City Times</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=95dtPFRS0g4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=95dtPFRS0g4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What this case teaches Aosta Valley UFO readers
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /molise-7c6aa1-index/
 description: Focused pages that expand on What Really Happened in Molise's UFO Record?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Molise_7c6aa1
 parent_title: What Really Happened in Molise's UFO Record?

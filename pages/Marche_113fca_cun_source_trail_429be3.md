@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:17'
+date: '2026-07-01 09:38:17'
 parent_title: Marche UFOs
 parent_permalink: /what-really-happened-over-marche/
 parent_nav_short_title: Marche UFOs
@@ -300,7 +300,13 @@ The Marche page itself shows why caution is necessary. Some entries already cont
 
 Those internal notes are important because they show that the CUN list is not simply a row of unsolved mysteries. It is a mixed catalogue: some reports are unresolved, some are weakly sourced, some are marked as probably conventional, and some appear to be duplicate or related entries. For example, the page notes that a 1987 Ancona sea case may be the same as the preceding line, and that several late-1988 Jesi, Senigallia and Marzocca entries may belong to a broader end-of-month group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/marche.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span>
 
-This matters for Marche because the region’s 1954 profile can look more impressive when every short line is counted separately. Several towns reporting something at almost the same time could mean a genuine multi-witness regional event. It could also mean a single bright meteor, re-entering debris, aircraft, balloon, or other stimulus seen from different positions and described differently by local witnesses. The catalogue helps identify the cluster; it does not, on its own, settle what caused it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u_3ImaV5PbE" title="Gli UFO esistono? Risponde il Centro Ufologico Nazionale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u_3ImaV5PbE" target="_blank" rel="noopener noreferrer">Gli UFO esistono? Risponde il Centro Ufologico Nazionale</a></p><p class="youtube-embed-meta">Channel: Newsbiella quotidiano</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u_3ImaV5PbE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u_3ImaV5PbE">Open on YouTube</a></p></div></div></div>
+This matters for Marche because the region’s 1954 profile can look more impressive when every short line is counted separately. Several towns reporting something at almost the same time could mean a genuine multi-witness regional event. It could also mean a single bright meteor, re-entering debris, aircraft, balloon, or other stimulus seen from different positions and described differently by local witnesses. The catalogue helps identify the cluster; it does not, on its own, settle what caused it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u_3ImaV5PbE" title="Gli UFO esistono? Risponde il Centro Ufologico Nazionale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u_3ImaV5PbE" target="_blank" rel="noopener noreferrer">Gli UFO esistono? Risponde il Centro Ufologico Nazionale</a></p><p class="youtube-embed-meta">Channel: Newsbiella quotidiano</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u_3ImaV5PbE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u_3ImaV5PbE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 25 October trail: catalogue, press, then interpretation
 
@@ -319,7 +325,15 @@ That distinction changes how Marche entries should be read. Rai News reported th
 
 Official examples also show how spare even institutional records can be. In March 1978, an Air Force archive entry covered multiple localities, including Ancona, with an elongated red and green object reported between about 20:30 and 20:40 by Air Force personnel and civil pilots, then catalogued as OVNI after archival examination. In May 1997, an entry for Porto Potenza Picena was submitted by the regional Marche representative of CISU, another Italian UFO research body, but most descriptive fields were not indicated; it too was catalogued as OVNI after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare+3Aeronautica Militare+3Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-These examples are useful precisely because they are not sensational. They show that “officially unidentified” is not a synonym for extraordinary craft. It often means that the available record, even after checks, did not support a firm conventional identification. For readers following the Marche trail, the official archive is best used as a second filter: it can confirm that some reports reached formal attention, but it may still leave the underlying event ambiguous.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MhP6mrMz_nA" title="L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer">L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?</a></p><p class="youtube-embed-meta">Channel: Football Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MhP6mrMz_nA">Open on YouTube</a></p></div></div></div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iKPz3RuV7pI" title="L&#x27;ondata UFO in Italia del 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer">L&#x27;ondata UFO in Italia del 1954</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iKPz3RuV7pI">Open on YouTube</a></p></div></div></div>
+These examples are useful precisely because they are not sensational. They show that “officially unidentified” is not a synonym for extraordinary craft. It often means that the available record, even after checks, did not support a firm conventional identification. For readers following the Marche trail, the official archive is best used as a second filter: it can confirm that some reports reached formal attention, but it may still leave the underlying event ambiguous.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MhP6mrMz_nA" title="L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer">L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?</a></p><p class="youtube-embed-meta">Channel: Football Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MhP6mrMz_nA">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iKPz3RuV7pI" title="L&#x27;ondata UFO in Italia del 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer">L&#x27;ondata UFO in Italia del 1954</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iKPz3RuV7pI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to cross-check older Marche reports
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:45'
+date: '2026-07-01 09:38:45'
 parent_title: Alpine UFOs
 parent_permalink: /trentino-alto-adige/
 parent_nav_short_title: Alpine UFOs
@@ -320,7 +320,13 @@ The conditions are also worth noting. The sky was recorded as clear, with light 
 
 The “high altitude” and “high speed” descriptors point towards an aerial or astronomical event rather than a nearby ground light. A circular dazzling object moving west to east is at least consistent with several known categories of night-sky events, including a bright meteor, aircraft light at distance, satellite glint, or re-entering debris. None of those explanations is confirmed by the public file, but the recorded behaviour gives a starting point for comparison.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare+2International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-The case is therefore best treated as a documented unresolved sighting, not as a well-corroborated anomaly. Its value is archival: it shows that a report from Trento reached the official national system and remained unidentified after the checks reflected in that system. Its weakness is evidential: the public record does not show enough independent data to test the conclusion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cCRJwIELFuA" title="13 ABC: Spacing Out: Defining the Rare &quot;Fireball Meteor&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cCRJwIELFuA" target="_blank" rel="noopener noreferrer">13 ABC: Spacing Out: Defining the Rare &quot;Fireball Meteor&quot;</a></p><p class="youtube-embed-meta">Channel: UToledo in the News &middot; Views: 511 &middot; Uploaded: November 2024 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cCRJwIELFuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cCRJwIELFuA">Open on YouTube</a></p></div></div></div>
+The case is therefore best treated as a documented unresolved sighting, not as a well-corroborated anomaly. Its value is archival: it shows that a report from Trento reached the official national system and remained unidentified after the checks reflected in that system. Its weakness is evidential: the public record does not show enough independent data to test the conclusion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cCRJwIELFuA" title="13 ABC: Spacing Out: Defining the Rare &quot;Fireball Meteor&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cCRJwIELFuA" target="_blank" rel="noopener noreferrer">13 ABC: Spacing Out: Defining the Rare &quot;Fireball Meteor&quot;</a></p><p class="youtube-embed-meta">Channel: UToledo in the News &middot; Views: 511 &middot; Uploaded: November 2024 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cCRJwIELFuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cCRJwIELFuA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What evidence is missing?
 
@@ -348,7 +354,13 @@ But the public file is not enough to identify the Trento object as a meteor. The
 
 The Moon also complicates sky conditions. On 17 January 1992, the Moon was in a waxing gibbous phase, with sources giving roughly 92–94 per cent illumination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalina.lpl.arizona.edu/moon-phases/month/1992-01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalina.lpl.arizona.edu">[Catalina Sky Survey+2The Sky Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalina.lpl.arizona.edu</span><span class="citation-popover-snippet">Open source on arizona.edu.</span></span></span> A bright Moon does not prevent fireballs from being seen, but it changes the visual environment: ordinary faint objects are harder to see, while a genuinely dazzling object would stand out as unusually bright.
 
-So the meteor explanation is plausible, but unproven. It may be the cleanest natural fit for a fast, high, dazzling object, yet the record lacks the decisive details that would allow a confident reclassification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KFNLzU3GItE" title="Cluster reentry explained: world&#x27;s first targeted reentry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KFNLzU3GItE" target="_blank" rel="noopener noreferrer">Cluster reentry explained: world&#x27;s first targeted reentry</a></p><p class="youtube-embed-meta">Channel: European Space Agency, ESA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KFNLzU3GItE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KFNLzU3GItE">Open on YouTube</a></p></div></div></div>
+So the meteor explanation is plausible, but unproven. It may be the cleanest natural fit for a fast, high, dazzling object, yet the record lacks the decisive details that would allow a confident reclassification.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KFNLzU3GItE" title="Cluster reentry explained: world&#x27;s first targeted reentry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KFNLzU3GItE" target="_blank" rel="noopener noreferrer">Cluster reentry explained: world&#x27;s first targeted reentry</a></p><p class="youtube-embed-meta">Channel: European Space Agency, ESA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KFNLzU3GItE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KFNLzU3GItE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Could it have been aircraft, satellite or space debris?
 
@@ -358,7 +370,13 @@ A satellite is possible in a very broad sense, because satellites can cross the 
 
 A satellite or rocket-body re-entry would fit some “dazzling” reports and can produce spectacular moving lights. Re-entry catalogues show that decaying space objects have repeatedly been misreported as strange aerial events in different countries, and specialist compilations of visually observed re-entries exist precisely because they can generate public UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Satellites Observer Observed re-entries #22.xlsx</span><span class="citation-popover-snippet">Satellites Observer Observed re-entries #22.xlsx</span></span></span> The difficulty for Trento is that a re-entry bright enough to be seen over northern Italy might be expected to leave broader records, multiple witnesses or a known decay time, none of which appears in the public Trento entry.
 
-The safest reading is therefore negative rather than positive: the case has no public evidence that rules aircraft, satellites or debris out in detail, but it also has no public evidence that positively identifies any of them.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EQCkuykE6Mk" title="When Satellites Fall: Hidden Risks Of A Crowded Sky With Jonathan McDowell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EQCkuykE6Mk" target="_blank" rel="noopener noreferrer">When Satellites Fall: Hidden Risks Of A Crowded Sky With Jonathan McDowell</a></p><p class="youtube-embed-meta">Channel: EarthSky</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EQCkuykE6Mk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EQCkuykE6Mk">Open on YouTube</a></p></div></div></div>
+The safest reading is therefore negative rather than positive: the case has no public evidence that rules aircraft, satellites or debris out in detail, but it also has no public evidence that positively identifies any of them.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EQCkuykE6Mk" title="When Satellites Fall: Hidden Risks Of A Crowded Sky With Jonathan McDowell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EQCkuykE6Mk" target="_blank" rel="noopener noreferrer">When Satellites Fall: Hidden Risks Of A Crowded Sky With Jonathan McDowell</a></p><p class="youtube-embed-meta">Channel: EarthSky</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EQCkuykE6Mk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EQCkuykE6Mk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this small file still matters in Trentino-Alto Adige UFO history
 

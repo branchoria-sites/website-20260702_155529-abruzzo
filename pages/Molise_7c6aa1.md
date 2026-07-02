@@ -64,7 +64,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -212,13 +212,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:21'
+date: '2026-07-01 09:38:21'
 sibling_links:
 - basename: Aosta_Valley_ccb120
   title: Aosta UFOs
@@ -399,6 +399,8 @@ This is a useful case because it shows a common escalation path. A sighting or r
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0aUmG7e6O9g" title="Ufo in Molise - 27/07/2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer">Ufo in Molise - 27/07/2014</a></p><p class="youtube-embed-meta">Channel: TeleRegione TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0aUmG7e6O9g">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The 2010–2014 local sightings: many lights, thin follow-up
 
 Molise’s more recent UFO trail is heavily shaped by local media. In June 2010, myNews Termoli carried items about a strange sighting over Termoli’s northern seafront, including a report that young people on the beach had recorded video, and a follow-up linking the Termoli story to other sightings in central and southern Italy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mynews.it/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mynews.it">[myNews Termoli e Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mynews.it</span><span class="citation-popover-title">my News Termoli e Moliseufo &#124; my News Termoli e Molise</span><span class="citation-popover-snippet">my News Termoli e Moliseufo &#124; my News Termoli e Molise</span></span></span>
@@ -424,7 +426,13 @@ The most media-friendly Molise UFO episode of recent years was the Guglionesi st
 
 A local write-up said the Guglionesi sightings dated back to 5 April and involved numerous reports of mysterious spheres of different sizes and colours; it also noted a sceptical response from Antonio Di Pietro, who suggested the lights were simply street lamps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://laterrainmezzo.altervista.org/avvistamenti-ufo-guglionesi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laterrainmezzo.altervista.org">[La terra in mezzo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laterrainmezzo.altervista.org</span><span class="citation-popover-title">La terra in mezzo Avvistamenti UFO a Guglionesi &#124; La terra in mezzo</span><span class="citation-popover-snippet">La terra in mezzo Avvistamenti UFO a Guglionesi &#124; La terra in mezzo</span></span></span>
 
-Guglionesi is a good example of how a UFO story can become a media event without becoming a strong unexplained case. The ingredients were attractive: a small town, repeated reports, lights in the sky, television attention and a sceptical public figure. But the public evidence described in accessible sources does not show radar data, multiple instrument records, recovered physical evidence or a detailed elimination of ordinary light sources. The more restrained conclusion is that Guglionesi became a local UFO talking point, not that it became a landmark unexplained aerial case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rMh88AlbpGU" title="UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer">UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo</a></p><p class="youtube-embed-meta">Channel: Gruppo Tv7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rMh88AlbpGU">Open on YouTube</a></p></div></div></div>
+Guglionesi is a good example of how a UFO story can become a media event without becoming a strong unexplained case. The ingredients were attractive: a small town, repeated reports, lights in the sky, television attention and a sceptical public figure. But the public evidence described in accessible sources does not show radar data, multiple instrument records, recovered physical evidence or a detailed elimination of ordinary light sources. The more restrained conclusion is that Guglionesi became a local UFO talking point, not that it became a landmark unexplained aerial case.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rMh88AlbpGU" title="UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer">UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo</a></p><p class="youtube-embed-meta">Channel: Gruppo Tv7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rMh88AlbpGU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Are there military, airport or radar links in Molise?
 
@@ -432,7 +440,13 @@ The public material found for Molise does not support a strong military-base or 
 
 Molise’s public record, however, is dominated by civilian observations, local press reports and private ufological catalogues. There are coastal sightings near Termoli and Campomarino, inland sightings around Campobasso and Isernia, and hill or mountain reports such as Guardiaregia and Castelpetroso, but the available public evidence does not show a major Molise case with confirmed radar tracking or pilot testimony comparable to the better-known aviation-centred cases elsewhere in Italy.
 
-This absence should not be overread. It does not prove that no such official material exists in archives; it only means that the accessible public record is thin. For readers, the practical takeaway is simple: Molise UFO claims should be graded case by case, with much higher confidence given to reports that include official filing, independent witnesses, time-correlated data and ruled-out ordinary explanations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MAencpsseZY" title="Rituali, tradizioni, luci: in Molise iniziano gli eventi di Natale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MAencpsseZY" target="_blank" rel="noopener noreferrer">Rituali, tradizioni, luci: in Molise iniziano gli eventi di Natale</a></p><p class="youtube-embed-meta">Channel: Telemolise</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MAencpsseZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MAencpsseZY">Open on YouTube</a></p></div></div></div>
+This absence should not be overread. It does not prove that no such official material exists in archives; it only means that the accessible public record is thin. For readers, the practical takeaway is simple: Molise UFO claims should be graded case by case, with much higher confidence given to reports that include official filing, independent witnesses, time-correlated data and ruled-out ordinary explanations.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MAencpsseZY" title="Rituali, tradizioni, luci: in Molise iniziano gli eventi di Natale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MAencpsseZY" target="_blank" rel="noopener noreferrer">Rituali, tradizioni, luci: in Molise iniziano gli eventi di Natale</a></p><p class="youtube-embed-meta">Channel: Telemolise</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MAencpsseZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MAencpsseZY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How strong is the evidence overall?
 

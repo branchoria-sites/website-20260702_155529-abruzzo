@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:49'
+date: '2026-07-01 09:38:49'
 parent_title: Umbrian Skies
 parent_permalink: /umbria/
 parent_nav_short_title: Umbrian Skies
@@ -290,7 +290,6 @@ image: /assets/images/Umbria_d4a7a8_badiale_solar_balloo_eed072-overview-social.
 
 ## Introduction
 
-The Badiale case matters in [Umbria]({{'umbria/' | relative_url }})’s UFO history because it is one of the region’s clearest examples of a dramatic close-range sighting becoming less mysterious after a simple comparison with a real object. The reported 1998 incident near Città di Castello involved two farmers who saw an odd body rise from nearby ground, appear to inflate into a cylinder, reach about two metres high, give off strange reflections and then move away. Later UFO investigators compared the description with a solar-powered plastic toy known as UFO Solar and treated the case as explained rather than unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tuttoggi.info/ufo-in-umbria-4-avvistamenti-in-30-anni-i-lavori-del-25-convegno-nazionale-ufologia-terni-video-e-foto-tuttoggi-info/85047/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuttoggi.info">[Tuttoggi.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuttoggi.info</span><span class="citation-popover-snippet">Open source on tuttoggi.info.</span></span></span><img src="{{"/assets/images/Umbria_d4a7a8_badiale_solar_balloo_eed072-overview.webp" | relative_url }}" alt="Overview image for Badiale" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bg4QK7QHeuA" title="&quot;The Age of Disclosure&quot; director on released UFO files: &quot;We&#x27;re at a major turning point&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bg4QK7QHeuA" target="_blank" rel="noopener noreferrer">&quot;The Age of Disclosure&quot; director on released UFO files: &quot;We&#x27;re at a major turning point&quot;</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 301.1K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bg4QK7QHeuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bg4QK7QHeuA">Open on YouTube</a></p></div></div></div>
 
 ## What the farmers reportedly saw
@@ -314,8 +313,6 @@ The match with Badiale was not based on a vague resemblance to “a balloon”. 
 * **Slow lift-off:** solar balloons do not need engines, helium or a visible flame. As the air inside warms, the object can begin to rise in a way that looks oddly self-propelled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scienceworld.ca/resource/solar-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceworld.ca">[Science World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceworld.ca</span><span class="citation-popover-snippet">Open source on scienceworld.ca.</span></span></span>
 * **Outdoor field setting:** a rural, open area is exactly the kind of place where such an object could be launched, lost, snagged, re-inflated or carried by light wind.</div>
 
-The mechanism is straightforward. A dark plastic envelope absorbs solar energy. The air inside becomes warmer than the surrounding air, expands and becomes less dense. Once the warm air plus the plastic envelope weighs less than the displaced outside air, buoyancy lifts the object. Science World explains the same classroom principle with black bags: when the air inside is heated by sunlight, it becomes hotter and lighter than the air around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scienceworld.ca/resource/solar-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceworld.ca">[Science World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceworld.ca</span><span class="citation-popover-snippet">Open source on scienceworld.ca.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Zit-08rtkE" title="World-changing confession: Doctor describes studying live alien | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer">World-changing confession: Doctor describes studying live alien | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.5M &middot; Uploaded: November 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Zit-08rtkE">Open on YouTube</a></p></div></div></div>
 
 ## Why the explanation is plausible, not just convenient
@@ -336,6 +333,8 @@ Good debunking is not mockery. It is reconstruction. In Badiale, the key questio
 The case also shows why investigators should preserve mundane cases, not throw them away. Explained reports create a comparison library. Once a solar balloon is known to produce a particular pattern — ground-level appearance, swelling form, silent lift, sunlight glare, wind-driven departure — future reports with the same pattern can be assessed more intelligently. That does not automatically explain every Umbrian sighting, but it sharpens the questions asked of later ones.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why explained cases still matter
 

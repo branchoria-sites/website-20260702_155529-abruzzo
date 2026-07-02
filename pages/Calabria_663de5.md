@@ -64,7 +64,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -212,13 +212,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 16:33:06'
+date: '2026-06-30 16:33:06'
 sibling_links:
 - basename: Aosta_Valley_ccb120
   title: Aosta UFOs
@@ -399,7 +399,13 @@ Another short-lived Calabrian report came from Rende, near Cosenza, where ANSA c
 
 This kind of case is common in regional UFO history, and it is easy to misunderstand. Three lights can be significant if there is reliable triangulation, radar correlation, close-range observation, a documented manoeuvre that rules out aircraft, or independent records from trained observers. Without that supporting material, a three-light report sits among many possible explanations: aircraft in approach patterns, satellites, lanterns, drones, balloons, reflections or astronomical objects seen through cloud.
 
-The Rende report still matters because it shows the role of local and wire-service media in keeping regional UFO narratives alive. A brief item can be enough to enter public memory, but not enough to sustain a strong case file.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Y4i4ghAga4" title="Ufo in Calabria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Y4i4ghAga4" target="_blank" rel="noopener noreferrer">Ufo in Calabria</a></p><p class="youtube-embed-meta">Channel: Gigi Gej</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Y4i4ghAga4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Y4i4ghAga4">Open on YouTube</a></p></div></div></div>
+The Rende report still matters because it shows the role of local and wire-service media in keeping regional UFO narratives alive. A brief item can be enough to enter public memory, but not enough to sustain a strong case file.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Y4i4ghAga4" title="Ufo in Calabria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Y4i4ghAga4" target="_blank" rel="noopener noreferrer">Ufo in Calabria</a></p><p class="youtube-embed-meta">Channel: Gigi Gej</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Y4i4ghAga4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Y4i4ghAga4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 2024 “UFO” that was probably not a UFO
 
@@ -420,7 +426,13 @@ Calabria’s UFO record is unusually dependent on private researchers and catalo
 
 Pietro Torre is the key name for Calabria in that tradition. CISU material describes him as the curator of the regional archive and catalogue for Calabria from 2000, linked to the 2007 catalogue and an expanded second edition in 2023. Search-result snippets from CISU and UPIAR indicate that the first edition contained 454 cases and that the second edition expanded the count substantially, reportedly to 1,164 cases. Because the full catalogue itself is a specialist publication rather than a fully reproduced public database, those numbers should be read as catalogue counts, not as confirmed unexplained events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisu.org/ufo-in-calabria-il-catalogo-dei-casi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU - Centro Italiano Studi Ufologici+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">ufo in calabria il catalogo dei casi</span><span class="citation-popover-snippet">ufo in calabria il catalogo dei casi</span></span></span>
 
-This distinction matters. A UFO catalogue is a record of reports and related material. It can include weak cases, explained cases, misidentifications, historical anomalies, folklore-like reports and stronger unresolved episodes. Its value is not that every entry is extraordinary, but that it lets researchers see patterns: years with more reports, common shapes, witness types, coastal concentrations, media influence and repeated explanations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oQP5Jv-D3Ww" title="Watch live: SpaceX Falcon 9 rocket launches 23 Starlink satellites from Cape Canaveral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oQP5Jv-D3Ww" target="_blank" rel="noopener noreferrer">Watch live: SpaceX Falcon 9 rocket launches 23 Starlink satellites from Cape Canaveral</a></p><p class="youtube-embed-meta">Channel: Spaceflight Now</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oQP5Jv-D3Ww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oQP5Jv-D3Ww">Open on YouTube</a></p></div></div></div>
+This distinction matters. A UFO catalogue is a record of reports and related material. It can include weak cases, explained cases, misidentifications, historical anomalies, folklore-like reports and stronger unresolved episodes. Its value is not that every entry is extraordinary, but that it lets researchers see patterns: years with more reports, common shapes, witness types, coastal concentrations, media influence and repeated explanations.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oQP5Jv-D3Ww" title="Watch live: SpaceX Falcon 9 rocket launches 23 Starlink satellites from Cape Canaveral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oQP5Jv-D3Ww" target="_blank" rel="noopener noreferrer">Watch live: SpaceX Falcon 9 rocket launches 23 Starlink satellites from Cape Canaveral</a></p><p class="youtube-embed-meta">Channel: Spaceflight Now</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oQP5Jv-D3Ww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oQP5Jv-D3Ww">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Calabria’s small place in the history of Italian UFO culture
 
@@ -428,7 +440,13 @@ Calabria also has an indirect role in Italian UFO history through Franco Polimen
 
 Polimeni is not important because he made Calabria a UFO hotspot. He is important because he shows how early Italian UFO culture developed through journalism, esoteric currents, contactee ideas and small magazines long before the internet. The same CISU article makes clear that his early UFO interests were mixed with occult and contactee themes, including ideas about mental communication with beings from other worlds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufo.it/wp-content/uploads/2019/04/cieloinsolito9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.it">[UFO.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.it</span><span class="citation-popover-title">CIEL O INSOLITO</span><span class="citation-popover-snippet">CIEL O INSOLITO</span></span></span>
 
-That history helps explain why modern UFO research in Italy often divides between two impulses: the preservation of testimony and the sceptical effort to understand how belief, media and perception shape reports. Calabria’s connection to Polimeni is therefore cultural rather than evidential, but it belongs in any regional history that wants to go beyond a list of lights in the sky.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vaf9lQak2pA" title="Possible UFO over the sea near Scalea, Italy. It hovered half hour then vanished." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vaf9lQak2pA" target="_blank" rel="noopener noreferrer">Possible UFO over the sea near Scalea, Italy. It hovered half hour then vanished.</a></p><p class="youtube-embed-meta">Channel: Michael and Justin - Dare To Dream</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vaf9lQak2pA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vaf9lQak2pA">Open on YouTube</a></p></div></div></div>
+That history helps explain why modern UFO research in Italy often divides between two impulses: the preservation of testimony and the sceptical effort to understand how belief, media and perception shape reports. Calabria’s connection to Polimeni is therefore cultural rather than evidential, but it belongs in any regional history that wants to go beyond a list of lights in the sky.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vaf9lQak2pA" title="Possible UFO over the sea near Scalea, Italy. It hovered half hour then vanished." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vaf9lQak2pA" target="_blank" rel="noopener noreferrer">Possible UFO over the sea near Scalea, Italy. It hovered half hour then vanished.</a></p><p class="youtube-embed-meta">Channel: Michael and Justin - Dare To Dream</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vaf9lQak2pA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vaf9lQak2pA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Recurring explanations in Calabrian cases
 

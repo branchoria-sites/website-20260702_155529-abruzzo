@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 17:21:23'
+date: '2026-06-30 17:21:23'
 parent_title: Campania UFOs
 parent_permalink: /why-campania-keeps-appearing-in-ufo/
 parent_nav_short_title: Campania UFOs
@@ -310,6 +310,8 @@ These entries are important because they are official records, not just rumours.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NGrpGC7aQak" title="METEOR MELTDOWN OVER THE USA ☄️ What&#x27;s Really Happening?!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NGrpGC7aQak" target="_blank" rel="noopener noreferrer">METEOR MELTDOWN OVER THE USA ☄️ What&#x27;s Really Happening?!</a></p><p class="youtube-embed-meta">Channel: Stefan Burns &middot; Views: 390.4K &middot; Uploaded: March 2026 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NGrpGC7aQak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NGrpGC7aQak">Open on YouTube</a></p></div></div></div>
 
+
+
 ## How sea horizons change what people think they saw
 
 The horizon is not just a line. It is a zone where distance, weather and light can mislead the eye. When air layers differ in temperature and density, light can bend. The World Meteorological Organization describes mirages as the result of light rays curving through air layers with changing refractive index, caused by temperature and density differences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cloudatlas.wmo.int/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">Open source on wmo.int.</span></span></span>
@@ -329,8 +331,6 @@ Aircraft are a frequent candidate when the report involves red, green, white or 
 
 Ships can be just as deceptive. A vessel moving directly towards or away from the observer may seem fixed. A turn can make one light disappear and another appear. Port, ferry and cruise traffic around Naples makes this especially relevant, because many observers are looking across water where marine lights are expected but not always recognised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://naplesport.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naplesport.org">[Naples Port]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naplesport.org</span><span class="citation-popover-snippet">Open source on naplesport.org.</span></span></span>
 
-Meteors and fireballs are different. They usually produce short-lived streaks, sometimes with vivid colours. The American Meteor Society notes that meteor colour reports are complicated by speed, brightness and human colour perception, with red, orange and blue all reported in different circumstances. A bright fireball over the sea can trigger many simultaneous reports because it is visible across a wide area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.9K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
 
 ## The 2009 Naples light wave and the lantern problem
@@ -341,7 +341,13 @@ CISU Campania’s description is valuable because it shows the social pattern as
 
 The later sceptical interpretation centred on sky lanterns. In comments attached to the same article, Giorgio Russolillo of CISU Campania stated that, in his view, the overwhelming majority of such reports were attributable to the lanterns that had become widely used from 2009 onwards across Campania and Italy. He also applied that explanation cautiously to some Ischia reports while rejecting claims about a secret military base as doubtful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gialli.it/ufo-a-napoli-ecco-la-verita-del-cisu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gialli.it">[Gialli]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gialli.it</span><span class="citation-popover-title">Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo &#124; Gialli.it</span><span class="citation-popover-snippet">Esclusivo, Ufo nel cielo di Napoli Vi raccontiamo cosa sta accadendo &#124; Gialli.it</span></span></span>
 
-This does not mean every 2009 witness saw the same object or that every later orange light was a lantern. It does show how a coastal flap can grow. Warm evenings, social gatherings, seafront viewpoints, mobile phones, local media and repeated online sharing can turn a cluster of weakly documented light reports into a regional UFO story. The interesting point is not that witnesses were “wrong”; it is that the reporting environment amplified ambiguous lights faster than careful identification could catch up.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y6Euxa6-ndk" title="Mirages - how they work! From simple water on the road to spectacular illusions." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y6Euxa6-ndk" target="_blank" rel="noopener noreferrer">Mirages - how they work! From simple water on the road to spectacular illusions.</a></p><p class="youtube-embed-meta">Channel: Electromagnetic Videos &middot; Views: 8.3K &middot; Uploaded: September 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y6Euxa6-ndk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y6Euxa6-ndk">Open on YouTube</a></p></div></div></div>
+This does not mean every 2009 witness saw the same object or that every later orange light was a lantern. It does show how a coastal flap can grow. Warm evenings, social gatherings, seafront viewpoints, mobile phones, local media and repeated online sharing can turn a cluster of weakly documented light reports into a regional UFO story. The interesting point is not that witnesses were “wrong”; it is that the reporting environment amplified ambiguous lights faster than careful identification could catch up.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y6Euxa6-ndk" title="Mirages - how they work! From simple water on the road to spectacular illusions." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y6Euxa6-ndk" target="_blank" rel="noopener noreferrer">Mirages - how they work! From simple water on the road to spectacular illusions.</a></p><p class="youtube-embed-meta">Channel: Electromagnetic Videos &middot; Views: 8.3K &middot; Uploaded: September 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y6Euxa6-ndk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y6Euxa6-ndk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What coastal witnesses need to record
 

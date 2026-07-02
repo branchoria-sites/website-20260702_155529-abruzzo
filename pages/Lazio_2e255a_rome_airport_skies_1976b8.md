@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:59:17'
+date: '2026-06-30 19:59:17'
 parent_title: Lazio UFOs
 parent_permalink: /what-really-happened-in-lazios-ufo-files/
 parent_nav_short_title: Lazio UFOs
@@ -324,7 +324,13 @@ Pratica di Mare, south-west of Rome near Pomezia, is central to Lazio’s aviati
 
 That makes Pratica di Mare especially attractive in UFO retellings, but also especially easy to overstate. “Radar at Pratica di Mare” sounds decisive, yet radar evidence is only as good as the surviving data and the interpretation attached to it. A radar return can reflect aircraft, weather, anomalous propagation, birds, clutter, equipment behaviour or a real object not yet identified. For the 1954 case, the public sources establish the claim that radar detection formed part of the story; they do not provide enough technical material to treat the radar element as independently verified proof.
 
-Pratica di Mare also complicates modern sightings around the southern Roman coast. Reports from Ostia, Torvaianica, Pomezia and the coastal strip may be framed by witnesses as “near Rome” or “near the airport”, but the aviation context may include Fiumicino traffic, military activity, helicopters, local fireworks, drones, beach events and weather effects over the sea. The setting makes such reports worth checking; it does not make them self-proving.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BIgW5cKuJ1M" title="Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer">Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING</a></p><p class="youtube-embed-meta">Channel: The Conscious movement</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BIgW5cKuJ1M">Open on YouTube</a></p></div></div></div>
+Pratica di Mare also complicates modern sightings around the southern Roman coast. Reports from Ostia, Torvaianica, Pomezia and the coastal strip may be framed by witnesses as “near Rome” or “near the airport”, but the aviation context may include Fiumicino traffic, military activity, helicopters, local fireworks, drones, beach events and weather effects over the sea. The setting makes such reports worth checking; it does not make them self-proving.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BIgW5cKuJ1M" title="Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer">Cigar UFO 1979 (Italian military pilot and radar detection) VERY CREDIBLE SIGHTING</a></p><p class="youtube-embed-meta">Channel: The Conscious movement</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BIgW5cKuJ1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BIgW5cKuJ1M">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What controlled airspace can clarify
 
@@ -359,7 +365,13 @@ The **14 December 1972 Alitalia AZ 122 report** is quieter but cleaner in some r
 
 The **6 January 1997 Fiumicino green-trail report** is especially useful for explaining doubt. Air Force personnel made the report, which gives it some weight, but the file itself notes a simultaneous presumed firework rocket from a Roman-coast beach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span> This is exactly how many airport UFO cases should be read: the interesting part is not only that a case stayed unidentified, but also that the official record preserved a possible ordinary explanation.
 
-Together, these cases show that Lazio’s airport skies produce a spectrum rather than a single answer. Some reports are intriguing but under-documented; some are well-framed but still unresolved; some remain officially unidentified while containing plausible conventional leads.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-RGCMa-IIc" title="✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer">✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹</a></p><p class="youtube-embed-meta">Channel: EU Drone Port™</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-RGCMa-IIc">Open on YouTube</a></p></div></div></div>
+Together, these cases show that Lazio’s airport skies produce a spectrum rather than a single answer. Some reports are intriguing but under-documented; some are well-framed but still unresolved; some remain officially unidentified while containing plausible conventional leads.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-RGCMa-IIc" title="✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer">✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹</a></p><p class="youtube-embed-meta">Channel: EU Drone Port™</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-RGCMa-IIc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why “officially unidentified” is not the same as “extraordinary”
 
@@ -368,6 +380,8 @@ Italy’s Air Force role is often misunderstood. The Air Force explains that, af
 That is a careful administrative category, not a claim of alien technology. Around Rome’s airports, this distinction matters even more because the sky is full of human causes. A report can remain unidentified because the data were incomplete, because the event was brief, because records were not preserved, because a witness estimate was wrong, or because a normal source could not be confirmed after the fact.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TyV-FFU1BQg" title="Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer">Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel &middot; Views: 121.7K &middot; Uploaded: July 2022 &middot; Length: 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TyV-FFU1BQg">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How Rome airport sightings fit into Lazio’s wider UFO history
 

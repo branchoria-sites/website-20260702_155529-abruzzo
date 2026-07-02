@@ -64,7 +64,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -212,13 +212,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:05:35'
+date: '2026-06-30 19:05:35'
 sibling_links:
 - basename: Aosta_Valley_ccb120
   title: Aosta UFOs
@@ -389,7 +389,13 @@ The same article also shows why these cases are difficult. The claims included f
 
 A separate 2014 Messaggero Veneto report, covering an Udine event about Italian Air Force UFO archives, said the region had produced 15 documented reports and named regional cases including Gonars in 2012 and Pordenone cases, especially Caneva. The article also stressed a sober point made by the book’s authors: the Italian Air Force archive contains reports ranging from potentially interesting aviation cases to much more ordinary misidentifications, including lanterns and fireworks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.messaggeroveneto.it/cultura-e-spettacoli/incontri-ravvicinati-in-friuli-in-15-dicono-di-aver-visto-ufo-e3kfstfw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: messaggeroveneto.it">[Messaggero Veneto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">messaggeroveneto.it</span><span class="citation-popover-snippet">Open source on messaggeroveneto.it.</span></span></span>
 
-That is a good guide to the whole region. The presence of Aviano makes some cases more intriguing, but it also makes over-reading easy. A sighting near a military base is not automatically a military encounter, and a lack of public explanation is not the same as evidence of a secret aircraft or alien craft.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
+That is a good guide to the whole region. The presence of Aviano makes some cases more intriguing, but it also makes over-reading easy. A sighting near a military base is not automatically a military encounter, and a lack of public explanation is not the same as evidence of a secret aircraft or alien craft.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 1999 Aviano conjunction case shows how “unidentified” can still have a clue
 
@@ -414,8 +420,6 @@ Friuli-Venezia Giulia’s cases share [explanations]({{'explanations-54fcb5/' | 
 
 **Aircraft and military traffic** are unavoidable in a region with Aviano and Trieste Airport. Aircraft lights can appear to hover when moving towards or away from a witness, and formation lights can seem stranger than a single aircraft. Trieste Airport’s history and Aviano’s role make aviation checks essential before treating any report as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://triesteairport.it/en/corporate/lazienda/aeroporto-fvg/storia2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: triesteairport.it">[triesteairport.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">triesteairport.it</span><span class="citation-popover-snippet">Open source on triesteairport.it.</span></span></span>
 
-**Lanterns, balloons and low-tech airborne objects** remain plausible for many “red globe” or slow-moving light reports, even when witnesses sincerely reject that explanation. Fire and rescue guidance in the UK, for example, notes that sky lanterns can drift unpredictably and be mistaken for other things; that does not solve any specific Friuli case, but it explains why investigators should test the possibility carefully before dismissing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://humbersidefire.gov.uk/your-safety/safety-in-the-home-advice/flying-lanterns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humbersidefire.gov.uk">[Humberside Fire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humbersidefire.gov.uk</span><span class="citation-popover-snippet">Open source on humbersidefire.gov.uk.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ## What is strongest, weakest and still worth checking
@@ -424,7 +428,13 @@ The strongest Friuli-Venezia Giulia UFO material is not the most dramatic-soundi
 
 The weakest material is the kind that circulates as mystery folklore without enough primary evidence: anonymous videos, cropped photographs, stories of beings or craft with no recoverable documentation, and reports where the only public source is a promotional or entertainment framing. Such stories may still be part of the region’s UFO culture, but they cannot carry the same evidential weight as official files or well-documented multi-witness cases.
 
-The most promising unresolved path is archival, not speculative. For the region’s better-known names — Caneva, Gonars, Pordenone, Cordenons, Aviano, Campoformido and Ronchi dei Legionari — the key questions are practical: is there an Air Force entry, a Carabinieri report, radar or flight-log data, original photographs, weather information, astronomical reconstruction, or a later correction? Without those, a case can remain interesting but thin.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uohz6wtw8sU" title="LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer">LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia</a></p><p class="youtube-embed-meta">Channel: Monster Movie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uohz6wtw8sU">Open on YouTube</a></p></div></div></div>
+The most promising unresolved path is archival, not speculative. For the region’s better-known names — Caneva, Gonars, Pordenone, Cordenons, Aviano, Campoformido and Ronchi dei Legionari — the key questions are practical: is there an Air Force entry, a Carabinieri report, radar or flight-log data, original photographs, weather information, astronomical reconstruction, or a later correction? Without those, a case can remain interesting but thin.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uohz6wtw8sU" title="LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer">LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia</a></p><p class="youtube-embed-meta">Channel: Monster Movie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uohz6wtw8sU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Friuli-Venezia Giulia’s UFO history fairly
 

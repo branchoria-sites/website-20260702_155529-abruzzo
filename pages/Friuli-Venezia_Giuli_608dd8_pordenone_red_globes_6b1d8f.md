@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:05:39'
+date: '2026-06-30 19:05:39'
 parent_title: Friuli UFOs
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFOs
@@ -306,8 +306,6 @@ The best-known official entry came on 26 June 2011. At 22:26, private citizens r
 
 The reports became memorable because they repeated a few simple visual features: round or circular lights, warm colours, evening skies, and movement across the Pordenone foothill view. In a national list published by Avvenire from Italian Air Force data for 2010–2013, the same sequence stands out: Cordenons in late 2010; three amber-orange circular objects at Burrida di Pordenone in April 2011; red-orange and red objects at Pinzano and Pordenone in May; and the orange-to-intense-red sphere at Pordenone in June.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.avvenire.it/agora/scienza/gli-avvistamenti-tra-il-2010-e-il-2013_14789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avvenire.it">[Avvenire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avvenire.it</span><span class="citation-popover-title">gli avvistamenti tra il 2010 e il 2013 14789</span><span class="citation-popover-snippet">gli avvistamenti tra il 2010 e il 2013 14789</span></span></span>
 
-Local media then gave the pattern a narrative life. Messaggero Veneto described “red globes” seen over Pordenone and Cordenons as part of increasing UFO sightings in the foothill area and Pordenone, framing the unresolved question as either unknown aerial objects, tricks, mirages or other prosaic causes. That wording is important: the article did not settle the case, but it shows how the colour-and-place combination entered local memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.messaggeroveneto.it/cronaca/avvistamenti-ufo-in-aumento-nella-pedemontana-e-a-pordenone-fv0d0knx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: messaggeroveneto.it">[Messaggero Veneto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">messaggeroveneto.it</span><span class="citation-popover-snippet">Open source on messaggeroveneto.it.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zmBtaeTYvmE" title="UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer">UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion</a></p><p class="youtube-embed-meta">Channel: Dolph C. Volker &middot; Views: 34.0K &middot; Uploaded: December 2013 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zmBtaeTYvmE">Open on YouTube</a></p></div></div></div>
 
 ## Photographs, witnesses and missing technical data
@@ -326,8 +324,6 @@ The most common sceptical explanation for orange-red spheres in this period is s
 Lanterns are not a lazy explanation in themselves. They can appear as red, orange or amber globes; they can drift in groups; they can seem to change speed when winds vary; and they are relevant to aviation safety. Rome airport guidance, citing Italian civil aviation rules, notes that launching Chinese lanterns and similar objects that may interfere with air traffic is governed by ENAC circulars and requires authorisation for relevant events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adr.it/web/aeroporti-di-roma-en/safety-and-territory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adr.it">[Aeroporti di Roma]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adr.it</span><span class="citation-popover-title">Aeroporti di Roma Safety and territory</span><span class="citation-popover-snippet">Aeroporti di Roma Safety and territory</span></span></span>
 
 However, the lantern explanation is uneven across the Pordenone set. It is more plausible for the 20 April Burrida report of three amber-orange circular lights moving at constant speed and at low apparent altitude. It is harder to apply confidently to the 21 May Pordenone report if the stated speed of more than 1,000 kilometres per hour is even approximately right. But that “if” is the problem: without a measured distance and size, the speed estimate could be dramatically inflated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
-Aircraft are another rival explanation, especially in a region where the Aviano base makes aircraft activity part of local life. Yet the public Air Force summaries say the checked data did not allow association with known flight activity or radiosondes for the specific 2011 entries. That is a meaningful negative finding, but still not a complete exclusion of every possible aircraft, drone, flare, lantern, balloon, reflection or informal launch not captured in the checked records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare+3Aeronautica Militare+3Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XAqiEIDbwz4" title="A caccia di UFO appostamento notturno Artegna Gemona" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XAqiEIDbwz4" target="_blank" rel="noopener noreferrer">A caccia di UFO appostamento notturno Artegna Gemona</a></p><p class="youtube-embed-meta">Channel: Pietro Asara Knives &amp; Urbex</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XAqiEIDbwz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XAqiEIDbwz4">Open on YouTube</a></p></div></div></div>
 

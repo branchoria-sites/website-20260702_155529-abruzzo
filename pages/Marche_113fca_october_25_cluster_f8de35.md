@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:19'
+date: '2026-07-01 09:38:19'
 parent_title: Marche UFOs
 parent_permalink: /what-really-happened-over-marche/
 parent_nav_short_title: Marche UFOs
@@ -310,7 +310,13 @@ Other descriptions lean more towards the classic 1950s flying-saucer vocabulary.
 
 Those differences are not surprising. A bright object crossing a dawn sky can be described differently depending on distance, horizon angle, cloud, expectation and the witness’s vocabulary. A luminous head plus trail may become a “disc”, “cigar”, “torpedo”, “cylinder” or “sphere”, especially in 1954, when Italian newspapers were already primed by flying-saucer stories. The broader 1954 UFO wave was genuinely international in reporting terms: one study using UFOCAT data says October 1954 was the worldwide peak month, with 1,150 reports, and that Europe, Africa and Asia all had monthly maxima in October.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/2261290/The_Worldwide_UFO_Wave_of_1954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Worldwide UFO Wave of 1954</span><span class="citation-popover-snippet">The Worldwide UFO Wave of 1954</span></span></span>
 
-The Marche cluster therefore sits at the meeting point of two things: a likely real sky event and a cultural moment in which strange sky events were rapidly translated into flying-saucer language. This is why the case should not be dismissed as “nothing happened”, but it should also not be inflated into proof that many structured craft crossed the region.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 4.4K &middot; Uploaded: August 2025 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
+The Marche cluster therefore sits at the meeting point of two things: a likely real sky event and a cultural moment in which strange sky events were rapidly translated into flying-saucer language. This is why the case should not be dismissed as “nothing happened”, but it should also not be inflated into proof that many structured craft crossed the region.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 4.4K &middot; Uploaded: August 2025 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Meteor, aircraft or multiple events?
 
@@ -328,6 +334,8 @@ The 06:20 concentration is the case’s central clue. In UFO catalogues, multipl
 That matters for Marche because the region’s [1954 wave]({{'1954-wave/' | relative_url }}) is often remembered as a dense run of “cigars”, discs and luminous objects. The 25 October morning shows why density alone is not enough. A single bright meteor can generate dozens of reports; a newspaper headline can turn a regional sighting into a local flap; a later catalogue can preserve each town as a separate entry even if the physical cause was one event.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6mFlEELdVmE" title="Gli ufo nelle Marche" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6mFlEELdVmE" target="_blank" rel="noopener noreferrer">Gli ufo nelle Marche</a></p><p class="youtube-embed-meta">Channel: Tv Centro Marche</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6mFlEELdVmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6mFlEELdVmE">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Where Colcerasa fits, and why it should not drive the explanation
 

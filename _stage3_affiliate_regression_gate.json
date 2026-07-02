@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T15:49:49",
+  "generated_at": "2026-07-02T19:40:32",
   "passed": true,
   "baseline": {
     "article_pages": 240,
-    "amazon_specific_pages": 220,
+    "amazon_specific_pages": 216,
     "amazon_fallback_pages": 0,
     "ebay_specific_pages": 220,
     "ebay_fallback_pages": 0,
@@ -369,7 +369,7 @@
         "ebay_fallback": false
       },
       "Campania_5acc6a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -837,7 +837,7 @@
         "ebay_fallback": false
       },
       "Marche_113fca_close_encounter_clai_d675e7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -903,7 +903,7 @@
         "ebay_fallback": false
       },
       "Molise_7c6aa1_molise_1978_wave_c0fffa": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1155,7 +1155,7 @@
         "ebay_fallback": false
       },
       "Sicily_77b465_taormina_1954_photos_6b8ada": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1452,7 +1452,7 @@
   },
   "current": {
     "article_pages": 240,
-    "amazon_specific_pages": 220,
+    "amazon_specific_pages": 216,
     "amazon_fallback_pages": 0,
     "ebay_specific_pages": 220,
     "ebay_fallback_pages": 0,
@@ -1818,7 +1818,7 @@
         "ebay_fallback": false
       },
       "Campania_5acc6a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2286,7 +2286,7 @@
         "ebay_fallback": false
       },
       "Marche_113fca_close_encounter_clai_d675e7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2352,7 +2352,7 @@
         "ebay_fallback": false
       },
       "Molise_7c6aa1_molise_1978_wave_c0fffa": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2604,7 +2604,7 @@
         "ebay_fallback": false
       },
       "Sicily_77b465_taormina_1954_photos_6b8ada": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false

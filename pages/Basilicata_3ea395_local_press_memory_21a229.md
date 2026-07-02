@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 15:47:42'
+date: '2026-06-30 15:47:42'
 parent_title: Basilicata UFOs
 parent_permalink: /what-really-happened-in-basilicatas-ufo/
 parent_nav_short_title: Basilicata UFOs
@@ -328,7 +328,13 @@ The 2018 regional round-up gave several examples. It said that on 13 May 2000, i
 
 The same report added more vivid details for 2009 and 2010. At Acerenza, on 30 June 2009, a 30-year-old woman reportedly filmed a light moving jerkily in a clear sky. Between Potenza and Vaglio on 26 July 2009, guests at a graduation party reportedly noticed a strange luminous object, and a girl filming the party shifted the camera towards it as it moved in a zigzag pattern and then disappeared after a bright flash. At Pisticci on 29 July 2009, a man reportedly photographed an object moving at high speed near the cemetery and the Calanchi.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.montescaglioso.net/node/35015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: montescaglioso.net">[montescaglioso.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">montescaglioso.net</span><span class="citation-popover-title">La Basilicata e gli Ufo una storia di 70 anni &#124; Montescaglioso.net</span><span class="citation-popover-snippet">La Basilicata e gli Ufo una storia di 70 anni &#124; Montescaglioso.net</span></span></span>
 
-These details do not settle the cases. In fact, they highlight the problem: a “zigzagging light” can be compelling to witnesses but hard to assess without the original video, time stamps, direction, exposure settings, and comparison with aircraft, satellites, lanterns, drones or camera artefacts. Still, the press made the reports locally memorable by giving them human texture.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybDQGcZjJWI" title="UFO Sightings Terrify Italy | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer">UFO Sightings Terrify Italy | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 444.1K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybDQGcZjJWI">Open on YouTube</a></p></div></div></div>
+These details do not settle the cases. In fact, they highlight the problem: a “zigzagging light” can be compelling to witnesses but hard to assess without the original video, time stamps, direction, exposure settings, and comparison with aircraft, satellites, lanterns, drones or camera artefacts. Still, the press made the reports locally memorable by giving them human texture.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybDQGcZjJWI" title="UFO Sightings Terrify Italy | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer">UFO Sightings Terrify Italy | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 444.1K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybDQGcZjJWI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Montescaglioso shows how a small report can prolong a case
 
@@ -366,6 +372,8 @@ Several recurring media habits can inflate weak cases:
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PT164VTzNik" title="UFO Hunters of Italy | Mass Sightings and Real Testimonies | UFO Hunters: The Italian Ufologists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PT164VTzNik" target="_blank" rel="noopener noreferrer">UFO Hunters of Italy | Mass Sightings and Real Testimonies | UFO Hunters: The Italian Ufologists</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 6.3K &middot; Uploaded: July 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PT164VTzNik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PT164VTzNik">Open on YouTube</a></p></div></div></div>
 
+
+
 ## What later local coverage adds to the record
 
 Local press coverage has continued to shape the Basilicata UFO memory after the older cases. In 2019, La Gazzetta del Mezzogiorno reported a mysterious sighting in the Potenza area, saying that reports were “raining in” after an event in the sky. The same search result snippet noted other bolides intercepted that summer, including one over the Adriatic and another in north-eastern Italy, placing the local excitement within a broader pattern of bright atmospheric events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/potenza/1175871/basilicata-misterioso-avvistamento-nei-cieli-del-potentino-piovono-segnalazioni.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">Basilicata, misterioso avvistamento nei cieli del Potentino</span><span class="citation-popover-snippet">Basilicata, misterioso avvistamento nei cieli del Potentino</span></span></span>
@@ -374,7 +382,13 @@ In 2024, PugliaLive covered the ninth interregional CUN meeting for Puglia and B
 
 This later coverage is useful because it shows the tradition did not end with the classic newspaper era. The mechanism has changed: older reports relied on eyewitness statements and local articles; newer ones often involve phone videos, social media sharing, regional online outlets and conference summaries by UFO organisations. But the memory process is similar. A brief sighting becomes durable when it is named, localised, grouped with older cases and revisited by journalists or investigators.
 
-It also shows a calmer reality than the most dramatic versions of UFO culture suggest. A single catalogued Basilicata case in 2023 is not evidence of a major wave. It is evidence that the region remains on the map for enthusiasts and local media, but at a low and sporadic level.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ovhlvWRkJew" title="TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ovhlvWRkJew">Open on YouTube</a></p></div></div></div>
+It also shows a calmer reality than the most dramatic versions of UFO culture suggest. A single catalogued Basilicata case in 2023 is not evidence of a major wave. It is evidence that the region remains on the map for enthusiasts and local media, but at a low and sporadic level.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ovhlvWRkJew" title="TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - CICLO UFO, STRANI AVVISTAMENTI IN PUGLIA E LUCANIA E NOVITÀ SULL&#x27; UFO DI MARSIGLIA</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ovhlvWRkJew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ovhlvWRkJew">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Basilicata’s press-shaped UFO memory
 

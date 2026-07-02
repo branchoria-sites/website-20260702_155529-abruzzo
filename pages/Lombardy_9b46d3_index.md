@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lombardy-9b46d3-index/
 description: Focused pages that expand on What Really Happened in Lombardy's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Lombardy_9b46d3
 parent_title: What Really Happened in Lombardy's UFO...

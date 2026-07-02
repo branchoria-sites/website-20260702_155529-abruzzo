@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /aosta-valley-ccb120-index/
 description: Focused pages that expand on Aosta Valley.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Aosta_Valley_ccb120
 parent_title: Aosta Valley

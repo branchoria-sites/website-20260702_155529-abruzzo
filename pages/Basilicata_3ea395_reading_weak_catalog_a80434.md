@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 15:47:48'
+date: '2026-06-30 15:47:48'
 parent_title: Basilicata UFOs
 parent_permalink: /what-really-happened-in-basilicatas-ufo/
 parent_nav_short_title: Basilicata UFOs
@@ -331,8 +331,6 @@ For Basilicata, the most common weaknesses are likely to be these:<div class="co
 * **No original media.** A claim that an object was photographed is far stronger if the image, metadata and circumstances are available.
 * **No documented elimination of alternatives.** A case is not strong merely because no explanation is printed beside it.</div>
 
-The Italian Air Force reporting form shows how much detail a serious report needs. It asks witnesses to mark where the object appeared at the start and end of the sighting, and to provide information such as height, movement and other observation details. That structure is revealing: official investigators need geometry, timing and context, not just a dramatic description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/ModuloUFO-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica MilitareModulo di segnalazione OVNIA questo scopo procedere così: puntare il dito in alto verso la zona di cielo ove era l&#x27;og...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q8u1GHHz2Ko" title="Brazil UFO Flap Solved! (Starlink Again)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q8u1GHHz2Ko" target="_blank" rel="noopener noreferrer">Brazil UFO Flap Solved! (Starlink Again)</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 17.5K &middot; Uploaded: November 2022 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q8u1GHHz2Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q8u1GHHz2Ko">Open on YouTube</a></p></div></div></div>
 
 ## The official record is a brake on exaggeration
@@ -372,7 +370,13 @@ These have enough detail to test: exact time, direction, duration, witness posit
 
 These are cases where later information points strongly to meteors, aircraft, satellites, lanterns, drones or astronomical objects. The 2009 southern Italy fireball is the best Basilicata-linked example: historically memorable, visually dramatic, but much less mysterious once read as a bolide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://centroufologicotaranto.wordpress.com/2010/03/05/anno-2009-per-laeronautica-italiana-dodici-avvistamenti-di-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologicotaranto.wordpress.com">[CUT - Centro Ufologico Taranto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologicotaranto.wordpress.com</span><span class="citation-popover-title">anno 2009 per laeronautica italiana dodici avvistamenti di ufo</span><span class="citation-popover-snippet">anno 2009 per laeronautica italiana dodici avvistamenti di ufo</span></span></span>
 
-This method avoids two opposite errors. It does not erase weak cases from history, but it also does not let them masquerade as strong evidence.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fj6jaFzzZGc" title="The fireball Ontarians saw in the sky was actually a meteor | Your Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fj6jaFzzZGc" target="_blank" rel="noopener noreferrer">The fireball Ontarians saw in the sky was actually a meteor | Your Morning</a></p><p class="youtube-embed-meta">Channel: CTV Your Morning &middot; Views: 516 &middot; Uploaded: July 2019 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fj6jaFzzZGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fj6jaFzzZGc">Open on YouTube</a></p></div></div></div>
+This method avoids two opposite errors. It does not erase weak cases from history, but it also does not let them masquerade as strong evidence.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fj6jaFzzZGc" title="The fireball Ontarians saw in the sky was actually a meteor | Your Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fj6jaFzzZGc" target="_blank" rel="noopener noreferrer">The fireball Ontarians saw in the sky was actually a meteor | Your Morning</a></p><p class="youtube-embed-meta">Channel: CTV Your Morning &middot; Views: 516 &middot; Uploaded: July 2019 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fj6jaFzzZGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fj6jaFzzZGc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why witness sincerity is not enough
 
@@ -406,6 +410,8 @@ Third, ask whether there are independent records. Local newspaper coverage, Air 
 Fourth, ask whether ordinary explanations were actually checked. A case is not strong because an article fails to mention Venus, aircraft, drones, satellites, balloons, lanterns or meteors. It is stronger only when those explanations have been considered and found inadequate.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RztlNNX0ZEA" title="UFO Sightings Throughout History: Real or Fake? A Critical Look at the Historical Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RztlNNX0ZEA" target="_blank" rel="noopener noreferrer">UFO Sightings Throughout History: Real or Fake? A Critical Look at the Historical Evidence</a></p><p class="youtube-embed-meta">Channel: 15 Minute Discourse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RztlNNX0ZEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RztlNNX0ZEA">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What a strong Basilicata case would need
 

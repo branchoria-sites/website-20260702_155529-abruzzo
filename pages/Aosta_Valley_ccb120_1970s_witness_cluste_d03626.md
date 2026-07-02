@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:54'
+date: '2026-07-01 09:38:54'
 parent_title: Aosta UFOs
 parent_permalink: /aosta-valley/
 parent_nav_short_title: Aosta UFOs
@@ -312,7 +312,13 @@ That setting helps explain both the appeal and the uncertainty of the report. Mo
 
 Several ordinary explanations remain possible in principle, though none can be assigned confidently from the published summary alone. A bright astronomical object can appear to hover or shift when seen through broken cloud or from a moving viewpoint. Aircraft lights can seem to change direction over mountain terrain. Lenticular clouds are also a recurring source of “saucer-like” reports in mountain regions: the UK Met Office explains that they form when air moves over hills or mountains, creating standing waves in which water vapour condenses into smooth, lens-shaped clouds often mistaken for UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
-The Rutor case therefore matters less as a solved mystery than as a classic example of Aosta Valley’s UFO problem: the landscape makes the report memorable, but the same landscape also multiplies possible misreadings. With no public primary file to inspect, the responsible classification is “insufficiently documented”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qelZ_6Nv0Cs" title="Mystery Fireball Streaks Over Mexico City, Identified As Bolide | World DNA | WION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qelZ_6Nv0Cs" target="_blank" rel="noopener noreferrer">Mystery Fireball Streaks Over Mexico City, Identified As Bolide | World DNA | WION</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 22.9K &middot; Uploaded: April 2025 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qelZ_6Nv0Cs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qelZ_6Nv0Cs">Open on YouTube</a></p></div></div></div>
+The Rutor case therefore matters less as a solved mystery than as a classic example of Aosta Valley’s UFO problem: the landscape makes the report memorable, but the same landscape also multiplies possible misreadings. With no public primary file to inspect, the responsible classification is “insufficiently documented”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qelZ_6Nv0Cs" title="Mystery Fireball Streaks Over Mexico City, Identified As Bolide | World DNA | WION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qelZ_6Nv0Cs" target="_blank" rel="noopener noreferrer">Mystery Fireball Streaks Over Mexico City, Identified As Bolide | World DNA | WION</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 22.9K &middot; Uploaded: April 2025 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qelZ_6Nv0Cs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qelZ_6Nv0Cs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Rhêmes-Notre-Dame campsite objects
 
@@ -338,7 +344,13 @@ What group testimony can do here is narrower but still useful:<div class="conten
 * **It identifies what needs checking.** Direction, time, object shape, duration, weather and possible aircraft activity are the obvious next questions.
 * **It does not prove extraordinary origin.** Multiple witnesses can share the same mistaken interpretation, especially when the stimulus is distant, unfamiliar or seen in difficult terrain.</div>
 
-This is the key lesson for readers. A group sighting is not automatically weak, but it is not automatically decisive either. It becomes persuasive only when the witness accounts are sufficiently independent, detailed and testable.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MolJsMP-bSs" title="Giuseppe e Serena Saudin - I volti di Rhêmes-Notre-Dame" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MolJsMP-bSs" target="_blank" rel="noopener noreferrer">Giuseppe e Serena Saudin - I volti di Rhêmes-Notre-Dame</a></p><p class="youtube-embed-meta">Channel: FondGrandParadis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MolJsMP-bSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MolJsMP-bSs">Open on YouTube</a></p></div></div></div>
+This is the key lesson for readers. A group sighting is not automatically weak, but it is not automatically decisive either. It becomes persuasive only when the witness accounts are sufficiently independent, detailed and testable.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MolJsMP-bSs" title="Giuseppe e Serena Saudin - I volti di Rhêmes-Notre-Dame" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MolJsMP-bSs" target="_blank" rel="noopener noreferrer">Giuseppe e Serena Saudin - I volti di Rhêmes-Notre-Dame</a></p><p class="youtube-embed-meta">Channel: FondGrandParadis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MolJsMP-bSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MolJsMP-bSs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Alpine settings produce memorable but difficult reports
 
@@ -357,7 +369,13 @@ They also show why Aosta Valley’s UFO numbers can look inconsistent. Local rep
 
 That gap is not necessarily suspicious. It reflects different categories of evidence. Local memory may include press stories, enthusiast catalogues, oral accounts and weakly documented sightings. Official Air Force material is narrower, especially where reports enter through formal channels and undergo checks for known technical or natural causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica MilitareOVNI - Aeronautica Militare - Ministero della DifesaSegnalazioni O.V.N.I., Oggetti Volanti Non Identificati. In quest...</span></span></span> The 1977 and 1979 clusters are best read with that distinction in mind.
 
-Their lasting value is not that they prove a hidden Alpine phenomenon. It is that they reveal how Aosta Valley’s UFO history was built: small groups of witnesses, dramatic mountain scenery, brief descriptions that outlast the original documentation, and a persistent tension between local wonder and evidential caution.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xfmjXR-_PjY" title="Ghiacciaio del RUTOR (2° parte, Testa del Rutor dal rif. Deffeyes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xfmjXR-_PjY" target="_blank" rel="noopener noreferrer">Ghiacciaio del RUTOR (2° parte, Testa del Rutor dal rif. Deffeyes)</a></p><p class="youtube-embed-meta">Channel: Avventure Montane</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xfmjXR-_PjY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xfmjXR-_PjY">Open on YouTube</a></p></div></div></div>
+Their lasting value is not that they prove a hidden Alpine phenomenon. It is that they reveal how Aosta Valley’s UFO history was built: small groups of witnesses, dramatic mountain scenery, brief descriptions that outlast the original documentation, and a persistent tension between local wonder and evidential caution.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xfmjXR-_PjY" title="Ghiacciaio del RUTOR (2° parte, Testa del Rutor dal rif. Deffeyes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xfmjXR-_PjY" target="_blank" rel="noopener noreferrer">Ghiacciaio del RUTOR (2° parte, Testa del Rutor dal rif. Deffeyes)</a></p><p class="youtube-embed-meta">Channel: Avventure Montane</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xfmjXR-_PjY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xfmjXR-_PjY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The fairest assessment
 

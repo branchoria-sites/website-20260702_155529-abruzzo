@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:59'
+date: '2026-07-01 09:38:59'
 parent_title: Veneto UFOs
 parent_permalink: /what-really-happened-in-venetos-ufo/
 parent_nav_short_title: Veneto UFOs
@@ -318,7 +318,13 @@ The 1991–2000 archive gives two further Veneto cases close together in 1993. M
 
 Valeggio sul Mincio, in the province of Verona, follows later that year, on 23 July 1993: a private citizen reported an oval yellow object around 00:30, moving irregularly at an estimated height of about 100 metres. The entry again ends with the standard classification formula saying the event was catalogued as an unidentified flying object on the basis of the archive review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-These examples show why Veneto’s Air Force material should be read carefully. The entries are not all of the same evidential weight. Abano Terme involved Air Force personnel; Monselice and Valeggio were private-citizen reports. Some entries include distinctive shapes and movements; others are simply lights. The official category is the same, but the underlying evidential strength can differ sharply.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aFpQUVjmiq8" title="SHAPE-SHIFTING UFO IN ITALY | The Proof is Out There (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aFpQUVjmiq8" target="_blank" rel="noopener noreferrer">SHAPE-SHIFTING UFO IN ITALY | The Proof is Out There (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aFpQUVjmiq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aFpQUVjmiq8">Open on YouTube</a></p></div></div></div>
+These examples show why Veneto’s Air Force material should be read carefully. The entries are not all of the same evidential weight. Abano Terme involved Air Force personnel; Monselice and Valeggio were private-citizen reports. Some entries include distinctive shapes and movements; others are simply lights. The official category is the same, but the underlying evidential strength can differ sharply.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aFpQUVjmiq8" title="SHAPE-SHIFTING UFO IN ITALY | The Proof is Out There (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aFpQUVjmiq8" target="_blank" rel="noopener noreferrer">SHAPE-SHIFTING UFO IN ITALY | The Proof is Out There (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aFpQUVjmiq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aFpQUVjmiq8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 2016 Veneto cluster
 
@@ -341,7 +347,13 @@ A useful way to read the files is to separate three questions:<div class="conten
 
 * **Was something reported?** In these cases, yes: the Air Force archive or Air Force-derived reporting records the report.
 * **Was it identified?** In the public entries discussed here, no clear technical or natural explanation is listed.
-* **Does that prove an extraordinary craft?** No. It shows an unresolved report, not a confirmed origin.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zk6hdjMN6bM" title="Unexplainable UFO Spotted Above Italy (S2) | The Proof Is Out There | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zk6hdjMN6bM" target="_blank" rel="noopener noreferrer">Unexplainable UFO Spotted Above Italy (S2) | The Proof Is Out There | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zk6hdjMN6bM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zk6hdjMN6bM">Open on YouTube</a></p></div></div></div>
+* **Does that prove an extraordinary craft?** No. It shows an unresolved report, not a confirmed origin.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zk6hdjMN6bM" title="Unexplainable UFO Spotted Above Italy (S2) | The Proof Is Out There | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zk6hdjMN6bM" target="_blank" rel="noopener noreferrer">Unexplainable UFO Spotted Above Italy (S2) | The Proof Is Out There | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zk6hdjMN6bM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zk6hdjMN6bM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the procedure adds to Veneto UFO history
 
@@ -349,7 +361,13 @@ The Air Force procedure gives Veneto UFO history a firmer spine than local legen
 
 That does not make the archive perfect. The public records are summaries, not full investigative case files. They often do not show exactly which checks were performed, what alternative explanations were considered, or why one explanation was rejected. They also include cases from different witness types and evidence levels under the same “unidentified” label. A report by Air Force personnel, a private citizen, a pilot or a police officer may all appear in the same table format, even though readers would naturally weigh them differently.
 
-For Veneto, the best use of the official files is therefore comparative rather than sensational. They help identify which regional cases were formally processed, where they occurred, what was reported, and whether they remained unidentified in the Air Force’s public archive. They also help prevent a common error: confusing an official unresolved entry with official confirmation of aliens, secret craft or a cover-up.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nmt6DtQbEOU" title="UFO Files of the Italian Air Force - Dr. Roberto Pinotti / Disclosure Project Testimony Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nmt6DtQbEOU" target="_blank" rel="noopener noreferrer">UFO Files of the Italian Air Force - Dr. Roberto Pinotti / Disclosure Project Testimony Archive</a></p><p class="youtube-embed-meta">Channel: Abundance of Energy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nmt6DtQbEOU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nmt6DtQbEOU">Open on YouTube</a></p></div></div></div>
+For Veneto, the best use of the official files is therefore comparative rather than sensational. They help identify which regional cases were formally processed, where they occurred, what was reported, and whether they remained unidentified in the Air Force’s public archive. They also help prevent a common error: confusing an official unresolved entry with official confirmation of aliens, secret craft or a cover-up.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nmt6DtQbEOU" title="UFO Files of the Italian Air Force - Dr. Roberto Pinotti / Disclosure Project Testimony Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nmt6DtQbEOU" target="_blank" rel="noopener noreferrer">UFO Files of the Italian Air Force - Dr. Roberto Pinotti / Disclosure Project Testimony Archive</a></p><p class="youtube-embed-meta">Channel: Abundance of Energy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nmt6DtQbEOU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nmt6DtQbEOU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Veneto Air Force files responsibly
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:18'
+date: '2026-07-01 09:38:18'
 parent_title: Marche UFOs
 parent_permalink: /what-really-happened-over-marche/
 parent_nav_short_title: Marche UFOs
@@ -308,7 +308,13 @@ Il Martino, drawing on a 2015 print article, gives a similar version: water colu
 
 There was also a tragic maritime episode folded into the legend: the deaths of brothers Gianfranco and Vittorio De Fulgentiis after their boat sank off the San Benedetto del Tronto area in October 1978. Later local writing is careful enough to admit that citizens may have been influenced by the wider atmosphere of sightings and may have interpreted events “not properly pertinent” through a mysterious lens. That point matters: a real death at sea can become part of a UFO legend without the UFO explanation becoming stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilmartino.it/2016/02/martinsicuro-1978-la-scomparsa-dei-fratelli-de-fulgentiis-gianfranco-e-vittorio-resta-un-caso-ancora-aperto-e-pieno-di-mistero/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilmartino.it">[ilmartino.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilmartino.it</span><span class="citation-popover-snippet">Open source on ilmartino.it.</span></span></span>
 
-The strongest cautious conclusion is that coastal fear and unusual sea stories were real parts of the later memory of 1978. The weaker conclusion would be to treat every dramatic detail as verified. The available online retellings often repeat one another, use phrases such as “it seems” or “it was said”, and rarely provide the underlying harbour records, meteorological logs, radar plots, photographs or named contemporaneous witness statements that would let a reader separate observation from embellishment.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rL9iRi4wy2I" title="Extensive methane gas leakage from the deepest seabed of the Baltic Sea discovered | WION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rL9iRi4wy2I" target="_blank" rel="noopener noreferrer">Extensive methane gas leakage from the deepest seabed of the Baltic Sea discovered | WION</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rL9iRi4wy2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rL9iRi4wy2I">Open on YouTube</a></p></div></div></div>
+The strongest cautious conclusion is that coastal fear and unusual sea stories were real parts of the later memory of 1978. The weaker conclusion would be to treat every dramatic detail as verified. The available online retellings often repeat one another, use phrases such as “it seems” or “it was said”, and rarely provide the underlying harbour records, meteorological logs, radar plots, photographs or named contemporaneous witness statements that would let a reader separate observation from embellishment.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rL9iRi4wy2I" title="Extensive methane gas leakage from the deepest seabed of the Baltic Sea discovered | WION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rL9iRi4wy2I" target="_blank" rel="noopener noreferrer">Extensive methane gas leakage from the deepest seabed of the Baltic Sea discovered | WION</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rL9iRi4wy2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rL9iRi4wy2I">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the official archive can actually confirm
 
@@ -329,7 +335,13 @@ Il Martino’s 2015 article is useful because it shows the layering process in o
 
 Rete8’s version is more restrained but still shows how the case grew: water columns, boiling sea, orange lights over the Gran Sasso, an alleged power-station disturbance at Pietracamela, harbour patrols, scientists arriving, and competing [explanations]({{'explanations-24ae81/' | relative_url }}) ranging from exaggeration to gas bubbles. It explicitly acknowledges that some of what happened may have involved exaggeration and imagination, while other parts were not easily explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rete8.it/cronaca/378quando-gli-ufo-invasero-labruzzo-ottobre-78/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rete8.it">[Rete8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rete8.it</span><span class="citation-popover-title">378quando gli ufo invasero labruzzo ottobre 78</span><span class="citation-popover-snippet">378quando gli ufo invasero labruzzo ottobre 78</span></span></span>
 
-For a reader trying to judge the story, this matters more than it may first appear. A legend can preserve real witness memories and still become unreliable in its grand architecture. The “triangle” label itself may be a later organising device: memorable, searchable and narratively satisfying, but not necessarily how the original reports were investigated.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a4diYmIU0QM" title="ORTONA, PESCARA UFO 78 -- CP 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a4diYmIU0QM" target="_blank" rel="noopener noreferrer">ORTONA, PESCARA UFO 78 -- CP 2018</a></p><p class="youtube-embed-meta">Channel: Mario Paolini</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a4diYmIU0QM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a4diYmIU0QM">Open on YouTube</a></p></div></div></div>
+For a reader trying to judge the story, this matters more than it may first appear. A legend can preserve real witness memories and still become unreliable in its grand architecture. The “triangle” label itself may be a later organising device: memorable, searchable and narratively satisfying, but not necessarily how the original reports were investigated.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a4diYmIU0QM" title="ORTONA, PESCARA UFO 78 -- CP 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a4diYmIU0QM" target="_blank" rel="noopener noreferrer">ORTONA, PESCARA UFO 78 -- CP 2018</a></p><p class="youtube-embed-meta">Channel: Mario Paolini</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a4diYmIU0QM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a4diYmIU0QM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The gas-bubble explanation is plausible but not a full answer
 
@@ -337,7 +349,13 @@ One recurring explanation is that at least some sea phenomena were caused by gas
 
 The same study is particularly relevant to Marche because one of its central Adriatic study areas was about 60 kilometres offshore from Mount Conero, near Ancona, and it describes gas plumes up to 70 metres high in the water column associated with seabed pockmarks in that area. That does not prove that the 1978 reports were gas seeps, but it does show that the sea off Marche is not an inert backdrop: it has real geological processes capable of producing bubbles, plumes and sonar-visible anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/20/5/1504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
-This explanation has limits. Gas plumes could help explain boiling-looking water, bubble streams, surface disturbance or sonar returns. They do not automatically explain coloured lights in the sky, objects reported by pilots, or luminous bodies moving from sea to air. Those may have other explanations: aircraft, meteors, flares, reflections, atmospheric mirage, misperceived lights on or near the horizon, military activity, or simply reports too vague to resolve. The useful sceptical position is not “gas explains everything”, but “gas makes some of the maritime details less extraordinary than they sound”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yCB0qqz7AvQ" title="PODCAST - DISCLOSURE ITALIANA - I REGISTRI OVNI DELL&#x27;AERONAUTICA MILITARE ITALIANA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yCB0qqz7AvQ" target="_blank" rel="noopener noreferrer">PODCAST - DISCLOSURE ITALIANA - I REGISTRI OVNI DELL&#x27;AERONAUTICA MILITARE ITALIANA</a></p><p class="youtube-embed-meta">Channel: Daniele Cataldi</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yCB0qqz7AvQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yCB0qqz7AvQ">Open on YouTube</a></p></div></div></div>
+This explanation has limits. Gas plumes could help explain boiling-looking water, bubble streams, surface disturbance or sonar returns. They do not automatically explain coloured lights in the sky, objects reported by pilots, or luminous bodies moving from sea to air. Those may have other explanations: aircraft, meteors, flares, reflections, atmospheric mirage, misperceived lights on or near the horizon, military activity, or simply reports too vague to resolve. The useful sceptical position is not “gas explains everything”, but “gas makes some of the maritime details less extraordinary than they sound”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yCB0qqz7AvQ" title="PODCAST - DISCLOSURE ITALIANA - I REGISTRI OVNI DELL&#x27;AERONAUTICA MILITARE ITALIANA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yCB0qqz7AvQ" target="_blank" rel="noopener noreferrer">PODCAST - DISCLOSURE ITALIANA - I REGISTRI OVNI DELL&#x27;AERONAUTICA MILITARE ITALIANA</a></p><p class="youtube-embed-meta">Channel: Daniele Cataldi</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yCB0qqz7AvQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yCB0qqz7AvQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Where the evidence becomes thin
 

@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /emilia-romagna-e1c904-index/
 description: Focused pages that expand on What Really Happened in Emilia Romagna's
   UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Emilia-Romagna_e1c904
 parent_title: What Really Happened in Emilia Romagna's UFO...

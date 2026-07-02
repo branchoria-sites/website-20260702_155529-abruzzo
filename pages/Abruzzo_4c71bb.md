@@ -64,7 +64,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -212,13 +212,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 15:45:45'
+date: '2026-06-30 15:45:45'
 sibling_links:
 - basename: Aosta_Valley_ccb120
   title: Aosta UFOs
@@ -389,7 +389,13 @@ The coastal stories are the most vivid. Retrospectives describe claims of lights
 
 The problem is that the coastal narrative often blends several kinds of material: official sightings, press accounts, fishermen’s stories, later ufological interpretation, and unverified claims. That does not make the whole story worthless, but it means it should be read in layers. The strongest layer is the official record of specific dated sightings at Pescara, Giulianova and Chieti. The weaker layer is the broader “triangle” mythology, especially when it claims hidden battles, secret tests or repeated underwater craft without documentary support.
 
-A balanced regional history should therefore treat the Adriatic cases as a genuine flap in the reporting sense: many people were looking, many reports circulated, and some reached official channels. It should not treat the flap as proof of a single cause.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7fY6c_siNnE" title="TRA LE RIGHE - UFO FILMATI TRA PUGLIA E ABRUZZO: QUELLO CHE EMERGE È INSPIEGABILE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7fY6c_siNnE" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - UFO FILMATI TRA PUGLIA E ABRUZZO: QUELLO CHE EMERGE È INSPIEGABILE</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7fY6c_siNnE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7fY6c_siNnE">Open on YouTube</a></p></div></div></div>
+A balanced regional history should therefore treat the Adriatic cases as a genuine flap in the reporting sense: many people were looking, many reports circulated, and some reached official channels. It should not treat the flap as proof of a single cause.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7fY6c_siNnE" title="TRA LE RIGHE - UFO FILMATI TRA PUGLIA E ABRUZZO: QUELLO CHE EMERGE È INSPIEGABILE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7fY6c_siNnE" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - UFO FILMATI TRA PUGLIA E ABRUZZO: QUELLO CHE EMERGE È INSPIEGABILE</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7fY6c_siNnE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7fY6c_siNnE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Gran Sasso and the mountain cases
 
@@ -420,13 +426,17 @@ Abruzzo also has its own local ufological infrastructure. In 2021, L’Aquila Bl
 
 This matters because regional UFO history is often preserved outside official systems. Local investigators may collect witness statements, photographs and timelines that never reach the Air Force. At the same time, such archives vary in quality: the best entries preserve original dates, locations, witness numbers, weather, direction of travel, camera metadata and follow-up checks; the weakest entries simply repeat a striking claim.
 
-For readers, the practical rule is simple: a local archive is useful when it helps reconstruct what was actually reported, but it should not be treated as independent confirmation unless it supplies verifiable supporting evidence.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f1Df6NF8BXA" title="Ufo in Abruzzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f1Df6NF8BXA" target="_blank" rel="noopener noreferrer">Ufo in Abruzzo</a></p><p class="youtube-embed-meta">Channel: ilGerme</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f1Df6NF8BXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f1Df6NF8BXA">Open on YouTube</a></p></div></div></div>
+For readers, the practical rule is simple: a local archive is useful when it helps reconstruct what was actually reported, but it should not be treated as independent confirmation unless it supplies verifiable supporting evidence.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f1Df6NF8BXA" title="Ufo in Abruzzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f1Df6NF8BXA" target="_blank" rel="noopener noreferrer">Ufo in Abruzzo</a></p><p class="youtube-embed-meta">Channel: ilGerme</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f1Df6NF8BXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f1Df6NF8BXA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What sceptics can explain — and what remains open
 
 Abruzzo’s UFO record contains several recurring explanations that do not require exotic causes. Some are obvious: aircraft approaching or leaving Pescara airport, helicopters, drones, planets, satellites, balloons and distant lights distorted by weather or terrain. Others are more regional: mountain-wave clouds near the Gran Sasso, atmospheric refraction over the Adriatic, and the difficulty of judging distance and altitude over sea or mountains.
-
-The Air Force’s own process points in this direction. Its current UFO page says reports are investigated to identify possible correlation with human activity or natural phenomena, and only if no technical or natural justification is found are they classified as unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span> That is a conservative administrative category, not a claim of alien origin.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGzMKH6fboI" title="Cronaca | Torna la nebbia: ancora in tilt l&#x27;Aeroporto d&#x27;Abruzzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGzMKH6fboI" target="_blank" rel="noopener noreferrer">Cronaca | Torna la nebbia: ancora in tilt l&#x27;Aeroporto d&#x27;Abruzzo</a></p><p class="youtube-embed-meta">Channel: SUPER J</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGzMKH6fboI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGzMKH6fboI">Open on YouTube</a></p></div></div></div>
 

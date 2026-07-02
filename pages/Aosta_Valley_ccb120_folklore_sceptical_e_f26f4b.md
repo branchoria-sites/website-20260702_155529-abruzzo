@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:55'
+date: '2026-07-01 09:38:55'
 parent_title: Aosta UFOs
 parent_permalink: /aosta-valley/
 parent_nav_short_title: Aosta UFOs
@@ -306,7 +306,13 @@ The sceptical follow-up is what makes the case especially useful. A later accoun
 
 That does not make the original witnesses foolish. It shows how a real observation can change shape as it passes through distance, optics, television framing and expectation. The same CISU-linked account argued that the strange changes in the Rai footage were probably caused by filming conditions rather than by the object physically transforming, and that the object’s position was likely over French territory near Lanslebourg at high altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reccom.org/quando-la-rai-insegui-un-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reccom.org">[Reccom Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reccom.org</span><span class="citation-popover-title">Magazine Quando la RAI inseguì un UFO</span><span class="citation-popover-snippet">Magazine Quando la RAI inseguì un UFO</span></span></span>
 
-The 1985 case matters because it became better, not worse, when sceptics investigated it. It did not simply dissolve into “nothing happened”. Something was seen by many people. But the strongest later explanation made it look less like a controlled craft and more like a high-altitude balloon-like object interpreted under difficult viewing conditions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7IIVtHgJVqU" title="What We Know About UFOs (It’s Stranger Than You Think) | Jesse Michels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer">What We Know About UFOs (It’s Stranger Than You Think) | Jesse Michels</a></p><p class="youtube-embed-meta">Channel: André Duqum &middot; Views: 393.9K &middot; Uploaded: January 2026 &middot; Length: 2 hours 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7IIVtHgJVqU">Open on YouTube</a></p></div></div></div>
+The 1985 case matters because it became better, not worse, when sceptics investigated it. It did not simply dissolve into “nothing happened”. Something was seen by many people. But the strongest later explanation made it look less like a controlled craft and more like a high-altitude balloon-like object interpreted under difficult viewing conditions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7IIVtHgJVqU" title="What We Know About UFOs (It’s Stranger Than You Think) | Jesse Michels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer">What We Know About UFOs (It’s Stranger Than You Think) | Jesse Michels</a></p><p class="youtube-embed-meta">Channel: André Duqum &middot; Views: 393.9K &middot; Uploaded: January 2026 &middot; Length: 2 hours 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7IIVtHgJVqU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How sceptics revisit dramatic claims
 
@@ -327,7 +333,13 @@ This is close to the wider modern UAP position. NASA defines UAP as observations
 
 The distinction matters for Aosta Valley because a small number of unresolved cases can look more meaningful than they are. A case may remain unresolved because the sighting was brief, the direction was estimated badly, radar coverage was incomplete, the witness had no photograph, or the object was reported too late for weather and flight data to be checked properly. None of that proves a mundane explanation. It simply means the case is not strong enough to carry an extraordinary one.
 
-A fair reading uses three categories. Some reports are **explained**, such as the 2022 Starlink train. Some are **plausibly explained**, such as the 1985 Rai case if the balloon-like reconstruction is accepted. Some remain **unresolved but weak**, meaning the available record does not allow a confident answer. That last category is important, but it should not be inflated into proof.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jv_PYCiGHk0" title="UFOs and the Crisis of Reality | Aliens, Myth, Psyops or Something Stranger?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jv_PYCiGHk0" target="_blank" rel="noopener noreferrer">UFOs and the Crisis of Reality | Aliens, Myth, Psyops or Something Stranger?</a></p><p class="youtube-embed-meta">Channel: James Cunliffe &middot; Views: 1.1K &middot; Uploaded: April 2026 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jv_PYCiGHk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jv_PYCiGHk0">Open on YouTube</a></p></div></div></div>
+A fair reading uses three categories. Some reports are **explained**, such as the 2022 Starlink train. Some are **plausibly explained**, such as the 1985 Rai case if the balloon-like reconstruction is accepted. Some remain **unresolved but weak**, meaning the available record does not allow a confident answer. That last category is important, but it should not be inflated into proof.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jv_PYCiGHk0" title="UFOs and the Crisis of Reality | Aliens, Myth, Psyops or Something Stranger?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jv_PYCiGHk0" target="_blank" rel="noopener noreferrer">UFOs and the Crisis of Reality | Aliens, Myth, Psyops or Something Stranger?</a></p><p class="youtube-embed-meta">Channel: James Cunliffe &middot; Views: 1.1K &middot; Uploaded: April 2026 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jv_PYCiGHk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jv_PYCiGHk0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Aosta’s mountain setting shapes misinterpretation
 
@@ -335,7 +347,13 @@ Aosta Valley’s geography helps UFO stories form and helps sceptics explain the
 
 The same landscape also encourages dramatic framing. Mont Blanc has long carried legends, spiritual associations and a sense of danger. La Stampa’s 2014 article linked UFO talk around the massif with older stories of the “cursed” mountain, a 1950s apocalyptic episode at Courmayeur, and a 2012 report of a fiery disc near the Boccalatte refuge that may have been a balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lastampa.it/aosta/2014/08/25/news/il-monte-bianco-dei-misteri-tra-ufo-e-falsi-profeti-1.35626657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lastampa.it">[La Stampa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lastampa.it</span><span class="citation-popover-title">La Stampa Il Monte Bianco dei misteri, tra Ufo e falsi profeti</span><span class="citation-popover-snippet">La Stampa Il Monte Bianco dei misteri, tra Ufo e falsi profeti</span></span></span>
 
-That does not mean witnesses are inventing things. It means that place affects interpretation. A light over a motorway is often read as traffic, aircraft or industry. A light over Mont Blanc, seen in cold air and broken cloud, is easier to remember as an omen, mystery or visitation. Folklore gives the event emotional staying power; scepticism asks whether the mountain made an ordinary object look extraordinary.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PlFOufpGArY" title="Alien science would be very different to Earth science | Ideas For Our Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PlFOufpGArY" target="_blank" rel="noopener noreferrer">Alien science would be very different to Earth science | Ideas For Our Time</a></p><p class="youtube-embed-meta">Channel: The Institute of Art and Ideas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PlFOufpGArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PlFOufpGArY">Open on YouTube</a></p></div></div></div>
+That does not mean witnesses are inventing things. It means that place affects interpretation. A light over a motorway is often read as traffic, aircraft or industry. A light over Mont Blanc, seen in cold air and broken cloud, is easier to remember as an omen, mystery or visitation. Folklore gives the event emotional staying power; scepticism asks whether the mountain made an ordinary object look extraordinary.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PlFOufpGArY" title="Alien science would be very different to Earth science | Ideas For Our Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PlFOufpGArY" target="_blank" rel="noopener noreferrer">Alien science would be very different to Earth science | Ideas For Our Time</a></p><p class="youtube-embed-meta">Channel: The Institute of Art and Ideas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PlFOufpGArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PlFOufpGArY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read unresolved Aosta cases fairly
 

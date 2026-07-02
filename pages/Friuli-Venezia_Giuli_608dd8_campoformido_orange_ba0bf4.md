@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:05:37'
+date: '2026-06-30 19:05:37'
 parent_title: Friuli UFOs
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFOs
@@ -306,8 +306,6 @@ The most concrete detail in the Campoformido entry is the movement: from the sou
 
 The estimated altitude of about 500 metres is also weaker than it may first appear. Unless an object’s size or distance is known, altitude estimates for lights in the night sky can be highly uncertain. A small light nearby and a large bright object much farther away can look similar. The Air Force witnesses may have been more practised than ordinary observers, but the archive entry does not tell us what visual reference they used to judge height.
 
-The weather note, however, is useful. Mostly clear skies reduce some obvious [explanations]({{'explanations-54fcb5/' | relative_url }}), such as a light diffused through low cloud or a hidden aircraft intermittently masked by overcast. They also make astronomical and atmospheric possibilities easier to consider, because sky visibility was apparently good. The date is especially notable: 12–13 August falls at the annual peak period of the Perseid meteor shower, one of the most active showers of the year. NASA describes the Perseids as producing swift, bright meteors, often with visible wakes of light and colour, while the European Space Agency notes that the shower peaks around 12 August under clear skies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Perseid meteor shower</span><span class="citation-popover-snippet">Science Perseid meteor shower</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aFpQUVjmiq8" title="SHAPE-SHIFTING UFO IN ITALY | The Proof is Out There (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aFpQUVjmiq8" target="_blank" rel="noopener noreferrer">SHAPE-SHIFTING UFO IN ITALY | The Proof is Out There (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aFpQUVjmiq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aFpQUVjmiq8">Open on YouTube</a></p></div></div></div>
 
 ## Why Air Force witnesses mattered
@@ -325,7 +323,13 @@ The brevity of the Campoformido record is part of the case. Some UFO stories gro
 
 The Air Force archive around the same period shows why this matters. A July 1974 report from Pavia, also involving an orange-red object, was not left mysterious: the archive says contemporary Air Force checks found it was probably a civil aircraft preparing to land at nearby Linate airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span> The contrast is useful. It shows that not every orange aerial object in the archive was simply filed as unexplained. When a likely aircraft explanation was available, the record could say so.
 
-Campoformido, by contrast, remained catalogued as unidentified in the archive. That does not make it stronger than the Pavia case in a dramatic sense; it may simply mean the file lacked enough data to identify the object. But it does mean the official record did not preserve a conventional explanation equivalent to the Linate aircraft conclusion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
+Campoformido, by contrast, remained catalogued as unidentified in the archive. That does not make it stronger than the Pavia case in a dramatic sense; it may simply mean the file lacked enough data to identify the object. But it does mean the official record did not preserve a conventional explanation equivalent to the Linate aircraft conclusion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Plausible explanations and what they would need to fit
 
@@ -344,7 +348,13 @@ Later publicly accessible discussion appears to have added little of substance t
 
 For a reader, this weakens any grand claim. A case supported mainly by one brief official table entry cannot bear the weight of elaborate conclusions. At the same time, the absence of later embellishment can make the original record cleaner. Campoformido is best treated as a documented unresolved sighting, not as a landmark encounter.
 
-Within Friuli-Venezia Giulia’s UFO history, its role is therefore narrow but useful. It sits alongside other official regional entries, such as aviation-linked reports around Udine, Ronchi dei Legionari and later military-adjacent areas, as evidence that the region appears in formal Italian UFO records. It does not prove an exotic object over Campoformido. It does show how a simple orange sphere, seen by Air Force personnel and not conclusively identified in the available file, could become part of the official UFO archive.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uohz6wtw8sU" title="LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer">LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia</a></p><p class="youtube-embed-meta">Channel: Monster Movie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uohz6wtw8sU">Open on YouTube</a></p></div></div></div>
+Within Friuli-Venezia Giulia’s UFO history, its role is therefore narrow but useful. It sits alongside other official regional entries, such as aviation-linked reports around Udine, Ronchi dei Legionari and later military-adjacent areas, as evidence that the region appears in formal Italian UFO records. It does not prove an exotic object over Campoformido. It does show how a simple orange sphere, seen by Air Force personnel and not conclusively identified in the available file, could become part of the official UFO archive.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uohz6wtw8sU" title="LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer">LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia</a></p><p class="youtube-embed-meta">Channel: Monster Movie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uohz6wtw8sU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Best assessment
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:43'
+date: '2026-07-01 09:38:43'
 parent_title: Tuscan Skies
 parent_permalink: /what-really-happened-in-tuscanys-ufo/
 parent_nav_short_title: Tuscan Skies
@@ -290,7 +290,6 @@ image: /assets/images/Tuscany_2685d2_gorgona_coastal_case_d2563b-overview-social
 
 ## Introduction
 
-Gorgona matters in [Tuscany]({{'what-really-happened-in-tuscanys-ufo/' | relative_url }})’s UFO history because it shifts the setting from the famous Florence sky to the harder-to-check world of sea reports, island isolation and restricted coastal space. The central story is the 22 June 1979 “Rainbow II” incident, in which witnesses on a motor yacht reportedly saw a dark cylindrical object rise from the sea near Gorgona, disappear, and disturb the water around the boat. It is often described in UFO literature as one of Italy’s stronger underwater-object cases, but the evidence is uneven: the story rests mainly on later ufological reporting, a reported maritime warning, and witness claims rather than a preserved official case file with photographs, measurements and independent technical analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crprato.it/sito/index.php?Itemid=68&amp;catid=34%3Aavvistamenti&amp;id=40%3Aanno-1979&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crprato.it">[Centro Ricerche Prato]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crprato.it</span><span class="citation-popover-snippet">Open source on crprato.it.</span></span></span><img src="{{"/assets/images/Tuscany_2685d2_gorgona_coastal_case_d2563b-overview.webp" | relative_url }}" alt="Overview image for Gorgona" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lxisdXGUqyw" title="The Friendship Case: Italy’s Shocking UFO Encounter and Alien Friendship! | Ninjas Are Butterflies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lxisdXGUqyw" target="_blank" rel="noopener noreferrer">The Friendship Case: Italy’s Shocking UFO Encounter and Alien Friendship! | Ninjas Are Butterflies</a></p><p class="youtube-embed-meta">Channel: Ninjas Are Butterflies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lxisdXGUqyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lxisdXGUqyw">Open on YouTube</a></p></div></div></div>
 
 ## Why Gorgona Appears In UFO Rankings
@@ -316,7 +315,13 @@ The most careful reading is therefore layered:<div class="content-enhancement co
 
 * **What is reasonably grounded:** a UFO tradition exists around Gorgona; the Rainbow II story is repeatedly cited in Italian and international UFO catalogues; and a maritime warning is reported in secondary sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crprato.it/sito/index.php?Itemid=68&amp;catid=34%3Aavvistamenti&amp;id=40%3Aanno-1979&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crprato.it">[Centro Ricerche Prato]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crprato.it</span><span class="citation-popover-snippet">Open source on crprato.it.</span></span></span>
 * **What remains weak:** no easily verifiable official technical file, preserved physical sample, confirmed radiation report or publicly available harbour-authority document has surfaced in the sources most accessible to general readers.
-* **What remains possible:** the original observation may have involved a real unidentified floating or semi-submerged object, later expanded by retelling into a stronger underwater UFO case.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MhP6mrMz_nA" title="L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer">L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?</a></p><p class="youtube-embed-meta">Channel: Football Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MhP6mrMz_nA">Open on YouTube</a></p></div></div></div>
+* **What remains possible:** the original observation may have involved a real unidentified floating or semi-submerged object, later expanded by retelling into a stronger underwater UFO case.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MhP6mrMz_nA" title="L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer">L&#x27;&#x27;avvistamento di Firenze: UFO allo stadio negli anni 50?</a></p><p class="youtube-embed-meta">Channel: Football Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MhP6mrMz_nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MhP6mrMz_nA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Coastal Context Changes Interpretation
 
@@ -338,6 +343,8 @@ First, Tuscany’s UFO history is not only urban and inland. The Livorno coast, 
 Second, the sea encourages “high-strangeness” storytelling. A light in the sky becomes a UFO; a dark object in the sea can become an unidentified submerged object. The Gorgona narrative includes emergence, submergence, heat, noise, waves and alleged physical traces, which makes it memorable. But each added feature increases the need for documentation. Without original records and recoverable evidence, the impressive shape of the story should not be mistaken for proof.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/izDuIxZRwZc" title="USOs - Creepiest &quot;Unidentified Submerged Objects&quot; You&#x27;ve Never Heard Of" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=izDuIxZRwZc" target="_blank" rel="noopener noreferrer">USOs - Creepiest &quot;Unidentified Submerged Objects&quot; You&#x27;ve Never Heard Of</a></p><p class="youtube-embed-meta">Channel: The Last Bacon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=izDuIxZRwZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=izDuIxZRwZc">Open on YouTube</a></p></div></div></div>
+
+
 
 ## A Balanced Assessment
 

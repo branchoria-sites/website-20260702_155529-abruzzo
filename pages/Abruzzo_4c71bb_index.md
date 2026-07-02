@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /abruzzo-4c71bb-index/
 description: Focused pages that expand on What Really Happened in Abruzzo's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Abruzzo_4c71bb
 parent_title: What Really Happened in Abruzzo's UFO...

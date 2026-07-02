@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /umbria-d4a7a8-index/
 description: Focused pages that expand on Umbria.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Umbria_d4a7a8
 parent_title: Umbria

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 20:44:13'
+date: '2026-06-30 20:44:13'
 parent_title: Liguria UFOs
 parent_permalink: /what-really-happened-in-ligurias-ufo/
 parent_nav_short_title: Liguria UFOs
@@ -304,7 +304,13 @@ The most useful way to understand the “wave around Torriglia” is to look at 
 
 These entries are valuable because they are dated, geographically close and preserved in an official archive. They show that Liguria did not merely inherit a national UFO mood from newspapers; it produced multiple reports that entered the state record. Yet the entries are also sparse. They do not contain photographs, radar confirmation, physical samples or a detailed chain of investigation in the public version. Their value is archival anchoring, not conclusive explanation.
 
-The pattern is suggestive but uneven. Cicagna and Scoffera are in the eastern Genoese hinterland, closer to the Torriglia story-world; Masone is further west, inland from the Genoa–Voltri side of the region. The reports differ in weather, shape and witness type. One is a low bright object in clear sky, one is an oval light in rain and fog, and one is a high, stationary triangular light seen by law-enforcement personnel. That mixture supports the existence of a reporting cluster, but it does not support a single simple object moving across Liguria.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/viEOt1tfPbs" title="#gmg Gli alieni a Torriglia: la storia di Zanfretta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=viEOt1tfPbs" target="_blank" rel="noopener noreferrer">#gmg Gli alieni a Torriglia: la storia di Zanfretta</a></p><p class="youtube-embed-meta">Channel: Goodmorning Genova</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=viEOt1tfPbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=viEOt1tfPbs">Open on YouTube</a></p></div></div></div>
+The pattern is suggestive but uneven. Cicagna and Scoffera are in the eastern Genoese hinterland, closer to the Torriglia story-world; Masone is further west, inland from the Genoa–Voltri side of the region. The reports differ in weather, shape and witness type. One is a low bright object in clear sky, one is an oval light in rain and fog, and one is a high, stationary triangular light seen by law-enforcement personnel. That mixture supports the existence of a reporting cluster, but it does not support a single simple object moving across Liguria.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/viEOt1tfPbs" title="#gmg Gli alieni a Torriglia: la storia di Zanfretta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=viEOt1tfPbs" target="_blank" rel="noopener noreferrer">#gmg Gli alieni a Torriglia: la storia di Zanfretta</a></p><p class="youtube-embed-meta">Channel: Goodmorning Genova</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=viEOt1tfPbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=viEOt1tfPbs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How the Italian wave changed official handling
 
@@ -331,7 +337,13 @@ But clustering cannot, by itself, prove that all witnesses saw the same object o
 
 The strongest sceptical reading is not that every witness was mistaken in the same way. It is that a wave can be made from several different ingredients: astronomical objects, aircraft, weather effects, misjudged distances, poor visibility, local rumours, press attention and genuinely puzzling observations that remain unresolved because the record is thin. Il Tascabile’s discussion of critical ufology makes the same point in broader terms: many sightings can be traced to natural, astronomical, meteorological or artificial causes, while a small residue remains unexplained without becoming proof of extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iltascabile.com/scienze/dischi-volanti-italia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iltascabile.com">[Il Tascabile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iltascabile.com</span><span class="citation-popover-title">Il Tascabile Dischi volanti sull’Italia</span><span class="citation-popover-snippet">Il Tascabile Dischi volanti sull’Italia</span></span></span>
 
-This is why the late-1978 Ligurian wave is best treated as a case family. The Zanfretta episode is the cultural anchor; the official entries are the documentary frame; the national wave is the wider pressure system. Each part matters, but none should be allowed to swallow the others.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/INzyIzoxq5A" title="Ep.6 – UFO: i segreti del Pentagono con Roberto Pinotti | Cine Ciclope Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=INzyIzoxq5A" target="_blank" rel="noopener noreferrer">Ep.6 – UFO: i segreti del Pentagono con Roberto Pinotti | Cine Ciclope Podcast</a></p><p class="youtube-embed-meta">Channel: Ciclope film &middot; Views: 24.9K &middot; Uploaded: May 2026 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=INzyIzoxq5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=INzyIzoxq5A">Open on YouTube</a></p></div></div></div>
+This is why the late-1978 Ligurian wave is best treated as a case family. The Zanfretta episode is the cultural anchor; the official entries are the documentary frame; the national wave is the wider pressure system. Each part matters, but none should be allowed to swallow the others.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/INzyIzoxq5A" title="Ep.6 – UFO: i segreti del Pentagono con Roberto Pinotti | Cine Ciclope Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=INzyIzoxq5A" target="_blank" rel="noopener noreferrer">Ep.6 – UFO: i segreti del Pentagono con Roberto Pinotti | Cine Ciclope Podcast</a></p><p class="youtube-embed-meta">Channel: Ciclope film &middot; Views: 24.9K &middot; Uploaded: May 2026 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=INzyIzoxq5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=INzyIzoxq5A">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Zanfretta effect on later Ligurian memory
 
@@ -340,6 +352,8 @@ Torriglia’s later identity was shaped by the case. Il Secolo XIX reported in 2
 That afterlife is important evidence of cultural impact, not of the original cause. Once a case becomes a local landmark, new sightings are no longer interpreted in a neutral landscape. They are interpreted in “Zanfretta country”. A light over the hills is not just a light; it is a possible continuation of a famous story. That can preserve witness memory, but it can also harden uncertain details into folklore.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u3xUsLeVemk" title="HALF DESTINATION - CISU CENTRO ITALIANO STUDI UFOLOGICI CONDUCE MAURIZIO MAGENES REGIA ROBERTO LENA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u3xUsLeVemk" target="_blank" rel="noopener noreferrer">HALF DESTINATION - CISU CENTRO ITALIANO STUDI UFOLOGICI CONDUCE MAURIZIO MAGENES REGIA ROBERTO LENA</a></p><p class="youtube-embed-meta">Channel: Arizona Tv &middot; Views: 1.5K &middot; Uploaded: March 2024 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u3xUsLeVemk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u3xUsLeVemk">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How strong is the evidence today?
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sardinia-83a1a0-index/
 description: Focused pages that expand on What Makes Sardinia's UFO Record So Unusual?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Sardinia_83a1a0
 parent_title: What Makes Sardinia's UFO Record So Unusual?

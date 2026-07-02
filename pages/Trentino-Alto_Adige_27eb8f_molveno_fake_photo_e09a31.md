@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:46'
+date: '2026-07-01 09:38:46'
 parent_title: Alpine UFOs
 parent_permalink: /trentino-alto-adige/
 parent_nav_short_title: Alpine UFOs
@@ -317,7 +317,13 @@ The Molveno story also used familiar credibility props:
 
 This is why the episode is more than a trivial prank. It shows how a fabricated UFO claim can borrow the surface features of journalism without doing journalism. UNESCO’s handbook on journalism, fake news and disinformation treats verification and source scrutiny as central to resisting false information online, and the Molveno case is a small local example of exactly that problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/journalism-fake-news-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">Journalism, Fake News &amp; Disinformation &#124; UNESCO</span><span class="citation-popover-snippet">Journalism, Fake News &amp; Disinformation &#124; UNESCO</span></span></span>
 
-The fake-newspaper mechanism is especially risky for regional UFO history. Local UFO stories are often preserved through newspaper clippings, community memory and later online retellings. If a false article is copied into blogs, image galleries or social posts without the correction, it can become detached from its original debunking. Years later, readers may find only the picture and the claim, not the explanation that the source was fake.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ygrPYDu8v7g" title="LAKE MOLVENO | LAGO DI MOLVENO | Trentino | Dolomites | Summer in Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ygrPYDu8v7g" target="_blank" rel="noopener noreferrer">LAKE MOLVENO | LAGO DI MOLVENO | Trentino | Dolomites | Summer in Italy</a></p><p class="youtube-embed-meta">Channel: Karichlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ygrPYDu8v7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ygrPYDu8v7g">Open on YouTube</a></p></div></div></div>
+The fake-newspaper mechanism is especially risky for regional UFO history. Local UFO stories are often preserved through newspaper clippings, community memory and later online retellings. If a false article is copied into blogs, image galleries or social posts without the correction, it can become detached from its original debunking. Years later, readers may find only the picture and the claim, not the explanation that the source was fake.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ygrPYDu8v7g" title="LAKE MOLVENO | LAGO DI MOLVENO | Trentino | Dolomites | Summer in Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ygrPYDu8v7g" target="_blank" rel="noopener noreferrer">LAKE MOLVENO | LAGO DI MOLVENO | Trentino | Dolomites | Summer in Italy</a></p><p class="youtube-embed-meta">Channel: Karichlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ygrPYDu8v7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ygrPYDu8v7g">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this was not a serious sighting
 
@@ -340,8 +346,6 @@ The Molveno episode gives readers a practical checklist for any future UFO claim
 
 **Ask whether a formal report exists.** For Italian UFO claims, the Air Force process provides a useful benchmark: a report can be submitted through the Carabinieri, after which checks may look for human activity or natural phenomena before any unresolved classification is made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span> Absence from that process does not automatically prove a story false, but it does mean the claim should not be treated like an official unresolved case.
 
-**Watch for invented human detail.** A fake witness name, age and dramatic quote can make a story feel reported. In the Molveno item, local coverage specifically flagged the presence of a supposed local witness in the false text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.giornaletrentino.it/cronaca/trento/dilaga-sul-web-la-foto-dell-ufo-sopra-il-lago-ma-%C3%A8-falsa-1.992265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: giornaletrentino.it">[Trentino]</a><span class="citation-popover" role="note"><span class="citation-popover-source">giornaletrentino.it</span><span class="citation-popover-title">Trentino Dilaga sul web la foto dell’Ufo sopra il lago. Ma è falsa</span><span class="citation-popover-snippet">TrentinoDilaga sul web la foto dell’Ufo sopra il lago. Ma è falsa - Trento - Trentino...</span></span></span> That is a reminder that “a witness said” is not enough unless the witness can be independently identified, contacted or corroborated.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WHvuhzLKxOY" title="How fake news is presented | English - Making the News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WHvuhzLKxOY" target="_blank" rel="noopener noreferrer">How fake news is presented | English - Making the News</a></p><p class="youtube-embed-meta">Channel: BBC Bitesize for Teachers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WHvuhzLKxOY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WHvuhzLKxOY">Open on YouTube</a></p></div></div></div>
 
 ## What Molveno teaches about regional UFO folklore
@@ -350,7 +354,13 @@ The Molveno photo is a cautionary case for the whole Trentino-Alto Adige UFO bra
 
 Its lesson is not that all local UFO reports are fake. That would be too broad and unfair. The better lesson is that the evidential ladder matters. At one end are official reports with dates, witness channels and technical checks. In the middle are local sightings that may be sincere but poorly documented. At the other end are fabricated stories using invented witnesses and imitation news branding. Molveno is valuable because it marks that far end clearly.
 
-It also warns against a common mistake in UFO folklore: preserving the exciting claim and losing the correction. A fake photo can outlive the article that debunked it. A reposted image can become “that UFO over Lake Molveno” long after the fake-news site behind it is forgotten. For a public-facing regional history, the responsible approach is to include the case, but to label it accurately: not an unexplained Molveno sighting, not a hidden Alpine encounter, but a debunked viral fake that shows how easily local scenery can be recruited into UFO mythology.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HiX6XYpZ5AU" title="How to use reverse image search to verify stories on your phone | Training video with Laura Garcia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HiX6XYpZ5AU" target="_blank" rel="noopener noreferrer">How to use reverse image search to verify stories on your phone | Training video with Laura Garcia</a></p><p class="youtube-embed-meta">Channel: First Draft</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HiX6XYpZ5AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HiX6XYpZ5AU">Open on YouTube</a></p></div></div></div>
+It also warns against a common mistake in UFO folklore: preserving the exciting claim and losing the correction. A fake photo can outlive the article that debunked it. A reposted image can become “that UFO over Lake Molveno” long after the fake-news site behind it is forgotten. For a public-facing regional history, the responsible approach is to include the case, but to label it accurately: not an unexplained Molveno sighting, not a hidden Alpine encounter, but a debunked viral fake that shows how easily local scenery can be recruited into UFO mythology.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HiX6XYpZ5AU" title="How to use reverse image search to verify stories on your phone | Training video with Laura Garcia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HiX6XYpZ5AU" target="_blank" rel="noopener noreferrer">How to use reverse image search to verify stories on your phone | Training video with Laura Garcia</a></p><p class="youtube-embed-meta">Channel: First Draft</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HiX6XYpZ5AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HiX6XYpZ5AU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The bottom line for the Molveno photo
 

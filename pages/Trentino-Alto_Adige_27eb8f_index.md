@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /trentino-alto-adige-27eb8f-index/
 description: Focused pages that expand on Trentino Alto Adige.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Trentino-Alto_Adige_27eb8f
 parent_title: Trentino Alto Adige

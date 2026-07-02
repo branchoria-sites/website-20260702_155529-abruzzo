@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:59:14'
+date: '2026-06-30 19:59:14'
 parent_title: Friuli UFOs
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFOs
@@ -336,7 +336,13 @@ A second example is the 12–13 August 1974 [Campoformido]({{'campoformido/' | r
 
 A later Friuli entry appears in August 1992 at Maiano, in the hamlet of San Tommaso, where a private citizen reported a circular yellow luminous object, stationary, high in the sky, under clear conditions. The archive again lists it as catalogued as an unidentified flying object after examination of the data on file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-These entries should be read carefully. The Ronchi case is more evidentially interesting than the Maiano entry because it involves aviation and military witnesses and a more dynamic description. The Maiano report is weaker as a case because the recorded description is sparse: a high, stationary, yellow circular light under a clear sky could fit several ordinary possibilities if no further data survive. Both are “unidentified” in the archive, but they are not equally strong.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+These entries should be read carefully. The Ronchi case is more evidentially interesting than the Maiano entry because it involves aviation and military witnesses and a more dynamic description. The Maiano report is weaker as a case because the recorded description is sparse: a high, stationary, yellow circular light under a clear sky could fit several ordinary possibilities if no further data survive. Both are “unidentified” in the archive, but they are not equally strong.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why “Unidentified” Is Not the Same as “Extraordinary”
 
@@ -364,13 +370,17 @@ Friuli’s UFO history has also been shaped by local and national UFO groups, pr
 
 These sources help explain why Aviano and Pordenone became recurring names in local UFO discussion. They do not automatically establish the strength of each case. Some entries are brief, second-hand, or framed in the language of UFO lore rather than formal investigation. Their value is often historical: they show what circulated, what places acquired reputations, and how military proximity shaped public imagination.
 
-This is also where respectful scepticism matters most. A local witness may have had a real experience; a later UFO catalogue may summarise it in a way that makes it sound more dramatic; a newspaper may then repeat the legend because it is memorable. None of those steps requires bad faith. But each step can add distance from the original observation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MioQLLOBFE" title="Every Mysterious UFO Encounter Explained in 13 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer">Every Mysterious UFO Encounter Explained in 13 Minutes</a></p><p class="youtube-embed-meta">Channel: The Interpreter &middot; Views: 17.6K &middot; Uploaded: December 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MioQLLOBFE">Open on YouTube</a></p></div></div></div>
+This is also where respectful scepticism matters most. A local witness may have had a real experience; a later UFO catalogue may summarise it in a way that makes it sound more dramatic; a newspaper may then repeat the legend because it is memorable. None of those steps requires bad faith. But each step can add distance from the original observation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MioQLLOBFE" title="Every Mysterious UFO Encounter Explained in 13 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer">Every Mysterious UFO Encounter Explained in 13 Minutes</a></p><p class="youtube-embed-meta">Channel: The Interpreter &middot; Views: 17.6K &middot; Uploaded: December 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MioQLLOBFE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Best Explanations Are Often Boring, But Not Insulting
 
 The most common error in UFO discussion is treating ordinary explanations as insults. Saying that a witness may have seen an aircraft, planet, balloon or meteor is not the same as saying they lied. In many cases it is the most respectful answer, because it assumes they saw something real and tries to identify it.
-
-A good investigation starts with the witness’s account, not against it. It asks where the person was standing, what direction they faced, what the weather was like, whether they were indoors or outdoors, how long the object remained visible, whether it made sound, whether other people saw it independently, and whether there are records of flights, astronomical objects or meteor events at the same time. These are the same kinds of details the Air Force asks for in its reporting form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/ModuloUFO-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
 

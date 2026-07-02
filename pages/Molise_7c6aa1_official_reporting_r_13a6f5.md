@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:23'
+date: '2026-07-01 09:38:23'
 parent_title: Molise UFOs
 parent_permalink: /what-really-happened-in-molises-ufo/
 parent_nav_short_title: Molise UFOs
@@ -310,7 +310,13 @@ That level of detail is not bureaucratic padding. It is what makes a report test
 
 The form also tells the witness to complete only what they remember with certainty, and to add original or copied supporting material such as film or photographs. After completion, it must be handed to a Carabinieri station, which forwards it to the Air Force General Security Department.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/ModuloUFO-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-This matters especially in Molise because many public reports are small-town accounts with limited documentation. A sighting discussed in a local bar, posted online, or reported in [local press]({{'local-press-1ba079/' | relative_url }}) can be culturally significant without being strong evidence. The official form turns a memory into a structured statement. It does not guarantee identification, but it gives investigators something firmer than a headline.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.2K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
+This matters especially in Molise because many public reports are small-town accounts with limited documentation. A sighting discussed in a local bar, posted online, or reported in [local press]({{'local-press-1ba079/' | relative_url }}) can be culturally significant without being strong evidence. The official form turns a memory into a structured statement. It does not guarantee identification, but it gives investigators something firmer than a headline.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.2K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Carabinieri stage adds
 
@@ -334,7 +340,13 @@ This is the core of how a Molise report would be handled. The question is not �
 
 The Air Force’s public archive also shows the kind of data it preserves in case summaries: location, date, time, shape, colour, speed, direction of movement, altitude or weather, source of the report, and the outcome of checks. Historical files repeatedly use language stating that, based on archive examination or data collected through Air Force bodies, no correlation was found with known activity or phenomena, so the event was catalogued as OVNI.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-That archive style is useful but limited. It helps readers see that a case was formally recorded. It usually does not provide the full witness interview, raw radar data, photographs, or every eliminated explanation. For Molise researchers, the public archive is therefore a starting point, not a complete investigation file.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4boxqGD9Xaw" title="Disclosure with Josh | UFO Sightings &amp; The Truth Behind Government Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4boxqGD9Xaw" target="_blank" rel="noopener noreferrer">Disclosure with Josh | UFO Sightings &amp; The Truth Behind Government Disclosure</a></p><p class="youtube-embed-meta">Channel: Gaia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4boxqGD9Xaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4boxqGD9Xaw">Open on YouTube</a></p></div></div></div>
+That archive style is useful but limited. It helps readers see that a case was formally recorded. It usually does not provide the full witness interview, raw radar data, photographs, or every eliminated explanation. For Molise researchers, the public archive is therefore a starting point, not a complete investigation file.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4boxqGD9Xaw" title="Disclosure with Josh | UFO Sightings &amp; The Truth Behind Government Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4boxqGD9Xaw" target="_blank" rel="noopener noreferrer">Disclosure with Josh | UFO Sightings &amp; The Truth Behind Government Disclosure</a></p><p class="youtube-embed-meta">Channel: Gaia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4boxqGD9Xaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4boxqGD9Xaw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Molise’s official footprint looks smaller than its local folklore
 
@@ -360,6 +372,8 @@ General Berti made this boundary explicit in the 2015 INAF interview: the Air Fo
 That distinction is especially helpful in Molise, where thin evidence can easily become over-interpreted. A light seen over a mountain or coastal skyline may be genuinely unidentified to the witness. It may remain unidentified in a press story because nobody checked aircraft, weather, astronomy or camera data. It may remain unidentified after official checks because the evidence was too limited or because no known correlation was found. Those are three different levels of uncertainty.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why the official route matters for Molise readers
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:53'
+date: '2026-07-01 09:38:53'
 parent_title: Aosta UFOs
 parent_permalink: /aosta-valley/
 parent_nav_short_title: Aosta UFOs
@@ -291,7 +291,13 @@ image: /assets/images/Aosta_Valley_ccb120_aosta_photo_claims_0190a5-overview-soc
 ## Introduction
 
 [Aosta Valley]({{'aosta-valley/' | relative_url }})’s most interesting UFO photographs are not strong proof of extraordinary craft; they are useful case studies in why photographs can make a sighting memorable while still leaving the core question unresolved. The two examples that matter most for this page are the 12 July 2013 La Thuile iPhone report, in which a mother and daughter on holiday reportedly photographed a silent unidentified object, and the much thinner 1987 Aosta reference to a “lenticular” UFO photograph. Both sit inside a wider regional record that local reporting has described as more than 80 sightings since 1947, but official Italian Air Force records are more selective and treat an object as unidentified only after checks fail to find a technical or natural explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.valledaostaglocal.it/2014/03/01/leggi-notizia/argomenti/attualita-2/articolo/ufo-dal-1947-ad-oggi-circa-80-avvistamenti-in-valle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: valledaostaglocal.it">[AostaCronaca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">valledaostaglocal.it</span><span class="citation-popover-title">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span><span class="citation-popover-snippet">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span></span></span><img src="{{"/assets/images/Aosta_Valley_ccb120_aosta_photo_claims_0190a5-overview.webp" | relative_url }}" alt="Overview image for Photo Claims" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters. A photograph may show something real in the sky, but without original files, exact location, time, weather, camera metadata, witness sequence, and independent corroboration, it usually cannot establish distance, size, speed or cause. In Aosta Valley, where mountains, weather, aircraft routes, bright meteors, optical effects and saucer-shaped cloud forms can all complicate interpretation, the photo claims are best read as evidence to examine rather than proof to accept.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0s8n03Xlqyw" title="How Lenticular Clouds Form to Look Like UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0s8n03Xlqyw" target="_blank" rel="noopener noreferrer">How Lenticular Clouds Form to Look Like UFOs</a></p><p class="youtube-embed-meta">Channel: Popular Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0s8n03Xlqyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0s8n03Xlqyw">Open on YouTube</a></p></div></div></div>
+That distinction matters. A photograph may show something real in the sky, but without original files, exact location, time, weather, camera metadata, witness sequence, and independent corroboration, it usually cannot establish distance, size, speed or cause. In Aosta Valley, where mountains, weather, aircraft routes, bright meteors, optical effects and saucer-shaped cloud forms can all complicate interpretation, the photo claims are best read as evidence to examine rather than proof to accept.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0s8n03Xlqyw" title="How Lenticular Clouds Form to Look Like UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0s8n03Xlqyw" target="_blank" rel="noopener noreferrer">How Lenticular Clouds Form to Look Like UFOs</a></p><p class="youtube-embed-meta">Channel: Popular Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0s8n03Xlqyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0s8n03Xlqyw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The La Thuile iPhone report
 
@@ -312,7 +318,13 @@ That wording is important because “lenticular” has two possible meanings for
 
 That does not prove the 1987 Aosta photograph was a cloud. The surviving public description is too short for that. It does mean the phrase “lenticular UFO” should not be treated as stronger than it is. In an Alpine region, a lens-shaped object in a photograph immediately raises a natural comparison with lenticular cloud forms, especially if there is no record of movement, duration, multiple angles, radar correlation, or independent witnesses.
 
-The 1987 reference therefore matters less as a dramatic incident and more as a cautionary entry in Aosta Valley’s photo record. It shows how a visual label can carry the whole case. If later researchers could locate the original photograph, publication history, witness description and weather data, the case might become easier to assess. Without that material, it remains a reported image with an obvious natural comparison rather than a robust unresolved event.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qzpb8k-S7A0" title="Mum and daughter share mysterious footage of what they are convinced is a UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qzpb8k-S7A0" target="_blank" rel="noopener noreferrer">Mum and daughter share mysterious footage of what they are convinced is a UFO</a></p><p class="youtube-embed-meta">Channel: SWNS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qzpb8k-S7A0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qzpb8k-S7A0">Open on YouTube</a></p></div></div></div>
+The 1987 reference therefore matters less as a dramatic incident and more as a cautionary entry in Aosta Valley’s photo record. It shows how a visual label can carry the whole case. If later researchers could locate the original photograph, publication history, witness description and weather data, the case might become easier to assess. Without that material, it remains a reported image with an obvious natural comparison rather than a robust unresolved event.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qzpb8k-S7A0" title="Mum and daughter share mysterious footage of what they are convinced is a UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qzpb8k-S7A0" target="_blank" rel="noopener noreferrer">Mum and daughter share mysterious footage of what they are convinced is a UFO</a></p><p class="youtube-embed-meta">Channel: SWNS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qzpb8k-S7A0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qzpb8k-S7A0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why single UFO photographs are usually weak evidence
 
@@ -340,7 +352,13 @@ The region also has serious astronomical infrastructure, which helps explain why
 
 That scientific context is useful for UFO interpretation because many striking sky events have ordinary astronomical or atmospheric causes. The Aosta Valley observatory participates in asteroid and bolide work, including PRISMA, an Italian network of all-sky cameras designed to observe bright meteors, reconstruct their orbits and help identify possible meteorite fall areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oavda.it/portfolio-view/asteroidi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oavda.it">[Valle d&#x27;Aosta Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oavda.it</span><span class="citation-popover-title">Valle d&#x27;Aosta Observatory Progetto Asteroidi e bolidi</span><span class="citation-popover-snippet">Valle d&#x27;Aosta Observatory Progetto Asteroidi e bolidi</span></span></span>
 
-The contrast is clear. A phone photograph captures what one person’s camera saw from one position at one moment. A calibrated sky-monitoring network aims to record the whole sky systematically and compare data between stations. For Aosta Valley’s UFO history, this does not dismiss witnesses; it raises the evidential standard. The more a claim depends on a single image, the more cautious the conclusion should be.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UDrwS6mOsdg" title="TRA LE RIGHE - UFO IN PIENO GIORNO, FOTO E VIDEO DAL SUD ITALIA. COSA ACCADE?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UDrwS6mOsdg" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - UFO IN PIENO GIORNO, FOTO E VIDEO DAL SUD ITALIA. COSA ACCADE?</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UDrwS6mOsdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UDrwS6mOsdg">Open on YouTube</a></p></div></div></div>
+The contrast is clear. A phone photograph captures what one person’s camera saw from one position at one moment. A calibrated sky-monitoring network aims to record the whole sky systematically and compare data between stations. For Aosta Valley’s UFO history, this does not dismiss witnesses; it raises the evidential standard. The more a claim depends on a single image, the more cautious the conclusion should be.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UDrwS6mOsdg" title="TRA LE RIGHE - UFO IN PIENO GIORNO, FOTO E VIDEO DAL SUD ITALIA. COSA ACCADE?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UDrwS6mOsdg" target="_blank" rel="noopener noreferrer">TRA LE RIGHE - UFO IN PIENO GIORNO, FOTO E VIDEO DAL SUD ITALIA. COSA ACCADE?</a></p><p class="youtube-embed-meta">Channel: Antenna Sud - canale 14</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UDrwS6mOsdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UDrwS6mOsdg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the photos can and cannot prove
 

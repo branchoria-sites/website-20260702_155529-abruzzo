@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:23'
+date: '2026-07-01 09:38:23'
 parent_title: Molise UFOs
 parent_permalink: /what-really-happened-in-molises-ufo/
 parent_nav_short_title: Molise UFOs
@@ -308,7 +308,13 @@ That matters because UFO cases often change as they pass from one person to anot
 
 The delay also matters. The article itself noted that the story had apparently stayed “closed in a drawer” for at least five months, perhaps because people feared not being believed. That is a humanly understandable reason for silence, but it leaves investigators with a cold trail. By the time the story reached the public, weather records, aircraft movements, local events, possible lantern releases, road works, emergency activity or temporary lighting would have been harder to check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://primopianomolise.it/attualita/8466/ufo-terza-segnalazione-in-tre-giorni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primopianomolise.it">[PrimoPiano Molise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primopianomolise.it</span><span class="citation-popover-title">Primo Piano Molise Ufo, terza segnalazione in tre giorni &#124; Primo Piano Molise</span><span class="citation-popover-snippet">Primo Piano Molise Ufo, terza segnalazione in tre giorni &#124; Primo Piano Molise</span></span></span>
 
-The report mentions the possibility that photographs or video might exist, but does not present any. It also says other people may have seen the sphere, but does not name them or provide separate statements. That leaves the Roccaravindola account in an awkward middle position: more detailed than a database row, but not documented enough to stand as a robust unresolved case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RmwukR8_4v8" title="4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer">4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 325.8K &middot; Uploaded: July 2022 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RmwukR8_4v8">Open on YouTube</a></p></div></div></div>
+The report mentions the possibility that photographs or video might exist, but does not present any. It also says other people may have seen the sphere, but does not name them or provide separate statements. That leaves the Roccaravindola account in an awkward middle position: more detailed than a database row, but not documented enough to stand as a robust unresolved case.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RmwukR8_4v8" title="4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer">4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 325.8K &middot; Uploaded: July 2022 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RmwukR8_4v8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The rotating multicoloured object claim
 
@@ -337,7 +343,13 @@ No single [ordinary explanation]({{'explanations-d7031a/' | relative_url }}) can
 
 **Lanterns or small illuminated airborne objects** cannot be ruled out. Sky lanterns are sometimes marketed under names associated with “UFO” imagery, and fire-safety bodies have noted that lantern sightings can be mistaken for distress flares or UFOs. Lanterns usually produce warm orange or reddish lights rather than complex rotating multicolour displays, so they are not a perfect fit, but they remain part of the normal explanation set for slow, silent night lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://economie.fgov.be/en/themes/consumer-protection/security-products-and-services/chinese-lanterns-some-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economie.fgov.be">[FPS Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economie.fgov.be</span><span class="citation-popover-snippet">Open source on fgov.be.</span></span></span>
 
-**Misjudged distance and motion** may be the most important factor. The account says the object was about 100 metres away, but without a known object size that estimate is weak. At night, a distant light can seem close if it is bright, low on the horizon, or seen against dark terrain. A moving car can also make fixed lights appear to shift, rotate or travel in relation to the road, mountains and buildings.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
+**Misjudged distance and motion** may be the most important factor. The account says the object was about 100 metres away, but without a known object size that estimate is weak. At night, a distant light can seem close if it is bright, low on the horizon, or seen against dark terrain. A moving car can also make fixed lights appear to shift, rotate or travel in relation to the road, mountains and buildings.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Was it officially investigated?
 
@@ -346,6 +358,8 @@ There is no clear public evidence that the Roccaravindola account became an offi
 That [official route]({{'official-route/' | relative_url }}) matters because it shows what would have strengthened Roccaravindola: a timely written report, direct witness details, a precise location, corroborating observers, any images with metadata, and checks against air traffic or local activity. The public newspaper account does not show that such a process happened.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F9Vmsk6CcmI" title="More Weird UFO Files Just Released: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer">More Weird UFO Files Just Released: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains &middot; Views: 152.0K &middot; Uploaded: May 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F9Vmsk6CcmI">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How strong is the Roccaravindola report?
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:54'
+date: '2026-07-01 09:38:54'
 parent_title: Aosta UFOs
 parent_permalink: /aosta-valley/
 parent_nav_short_title: Aosta UFOs
@@ -284,7 +284,6 @@ image: /assets/images/Aosta_Valley_ccb120_1947_luminous_trail_129984-overview-so
 
 ## Introduction
 
-[Aosta Valley]({{'aosta-valley/' | relative_url }})’s 1947 luminous trail is one of the region’s earliest unusual sky stories, but it is also one of its thinnest. The basic claim is simple: in August 1947, a large bright trail crossed the sky from Pont-Saint-Martin towards Mont Blanc, moving east to west, and was reportedly seen by several technicians from the Cogne works in Aosta. That account matters because it places Aosta Valley inside the first year of modern UFO culture, soon after the “flying saucer” idea entered public language. It does not, however, amount to a well-documented UFO case. The surviving public evidence appears to be retrospective local reporting rather than a contemporary investigation, a dated witness statement, photographs, radar data, or an official Italian file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.valledaostaglocal.it/2014/03/01/leggi-notizia/argomenti/attualita-2/articolo/ufo-dal-1947-ad-oggi-circa-80-avvistamenti-in-valle.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: valledaostaglocal.it">[AostaCronaca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">valledaostaglocal.it</span><span class="citation-popover-title">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span><span class="citation-popover-snippet">ufo dal 1947 ad oggi circa 80 avvistamenti in valle</span></span></span><img src="{{"/assets/images/Aosta_Valley_ccb120_1947_luminous_trail_129984-overview.webp" | relative_url }}" alt="Overview image for 1947 Trail" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer">Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 5.1K &middot; Uploaded: June 2019 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdXNAOxs6mo">Open on YouTube</a></p></div></div></div>
 
 ## The reported Pont-Saint-Martin to Mont Blanc path
@@ -306,7 +305,13 @@ The wider official history also helps to keep the Aosta claim in proportion. A U
 
 Italy’s formal structure came much later. The Italian Air Force says that after the 1978 wave of UFO reports, Prime Minister Giulio Andreotti designated the Air Force as the institutional body for collecting, checking and monitoring UFO reports. Today, reports are submitted through the Carabinieri and assessed for possible human or natural causes; only after checks fail to find a technical or natural explanation is an episode classified as an unidentified flying object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
 
-That creates an important distinction for the 1947 Aosta trail. It predates Italy’s modern official reporting system by more than thirty years. The absence of a known official Italian Air Force case file from 1947 is therefore not surprising, but it also means the claim cannot be treated like later formally logged cases. It belongs more to local memory and regional UFO chronology than to the documented official record.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
+That creates an important distinction for the 1947 Aosta trail. It predates Italy’s modern official reporting system by more than thirty years. The absence of a known official Italian Air Force case file from 1947 is therefore not surprising, but it also means the claim cannot be treated like later formally logged cases. It belongs more to local memory and regional UFO chronology than to the documented official record.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What a luminous trail could have been
 
@@ -328,6 +333,8 @@ This makes the case vulnerable to several ordinary problems in UFO history. Retr
 The case is also hard to compare with later Aosta Valley reports. Later regional stories, including the 1985 Rai-filmed Aosta sighting and other post-1970s accounts, sit in a media environment with cameras, aviation awareness, satellites, formal UFO procedures and sceptical follow-up. The 1947 trail sits before that framework. It is closer to a remembered sky omen than to a modern case file.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What the 1947 trail adds to Aosta Valley’s UFO record
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:05:37'
+date: '2026-06-30 19:05:37'
 parent_title: Friuli UFOs
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFOs
@@ -328,7 +328,13 @@ The most useful reading is not that the Pordenone area is automatically mysterio
 * **Local investigator networks:** repeated public meetings, books and press stories can encourage further reports.
 * **Weak photographic evidence:** small objects, distant lights and compressed video often look more dramatic after enlargement than they did to the naked eye.</div>
 
-None of this dismisses every witness. It simply explains why “near Aviano” is not a shortcut to “highly anomalous”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.9K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
+None of this dismisses every witness. It simply explains why “near Aviano” is not a shortcut to “highly anomalous”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.9K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 2010–2012 Pordenone reports and why they are stronger than rumours
 
@@ -351,7 +357,13 @@ Those details are exactly why the video should be treated with caution. A strong
 
 Sceptical discussion has also raised specific problems. Metabunk contributors identified the setting as a real place but argued that the object’s movement could resemble a small model suspended from above, while others warned that many circulated versions are low-quality, processed, interlaced or altered enough that motion blur and stabilisation artefacts are unsafe grounds for firm claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/italian-flying-saucer-video.14189/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Italian flying saucer video &#124; Metabunk</span><span class="citation-popover-snippet">Italian flying saucer video &#124; Metabunk</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/italian-flying-saucer-video.14189/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Italian flying saucer video &#124; Metabunk</span><span class="citation-popover-snippet">Italian flying saucer video &#124; Metabunk</span></span></span> Another Metabunk contributor cited a reported 2004 newspaper quotation in which Chiumiento himself was said to doubt the film, partly because the disc appeared too cleanly separated from the background and lacked a visible shadow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/italian-flying-saucer-video.14189/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Italian flying saucer video &#124; Metabunk</span><span class="citation-popover-snippet">Italian flying saucer video &#124; Metabunk</span></span></span>
 
-The fairest assessment is that the video remains culturally important but evidentially weak. It shows how Aviano’s name can keep a case alive long after the basic verification path has broken down. Without the original recording and a documented witness chain, the clip cannot carry the weight often placed on it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uohz6wtw8sU" title="LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer">LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia</a></p><p class="youtube-embed-meta">Channel: Monster Movie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uohz6wtw8sU">Open on YouTube</a></p></div></div></div>
+The fairest assessment is that the video remains culturally important but evidentially weak. It shows how Aviano’s name can keep a case alive long after the basic verification path has broken down. Without the original recording and a documented witness chain, the clip cannot carry the weight often placed on it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uohz6wtw8sU" title="LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer">LA CREATURA DI MORTEGLIANO (Friuli-Venezia Giulia) - Bestiario d&#x27;Italia</a></p><p class="youtube-embed-meta">Channel: Monster Movie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uohz6wtw8sU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uohz6wtw8sU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Military presence is evidence and complication at the same time
 
@@ -361,7 +373,13 @@ But Aviano also shows the opposite problem. Military presence multiplies plausib
 
 Drones add another layer. Italy’s drone environment is regulated, and operators are told to check authorised areas before flying; ENAC’s English guidance points non-EU operators to the D-Flight system before operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enac.gov.it/en/safety-security/uas-drones/are-you-pilot-holding-certificate-issued-iaw-with-non-eu-country/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enac.gov.it">[enac.gov.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enac.gov.it</span><span class="citation-popover-snippet">Open source on enac.gov.it.</span></span></span> But regulation does not mean every light is immediately identifiable to a witness. A distant drone or model aircraft can hover, pivot or reverse in ways that fixed-wing aircraft cannot, while still appearing only as a bright point in the sky. AP’s reporting on drone confusion notes that lights alone often make distance very hard to judge and that drones can stop abruptly, pivot and reverse direction, unlike most aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane? Experts help explain the differences</span><span class="citation-popover-snippet">AP News Is that a drone or a plane? Experts help explain the differences</span></span></span>
 
-This is why Aviano proximity should be treated as a question, not an answer. It should prompt investigators to ask for flight activity, NOTAMs, training schedules where public, radar correlation, drone restrictions, weather, astronomy and witness geometry. It should not be used as a dramatic substitute for that work.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XAqiEIDbwz4" title="A caccia di UFO appostamento notturno Artegna Gemona" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XAqiEIDbwz4" target="_blank" rel="noopener noreferrer">A caccia di UFO appostamento notturno Artegna Gemona</a></p><p class="youtube-embed-meta">Channel: Pietro Asara Knives &amp; Urbex</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XAqiEIDbwz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XAqiEIDbwz4">Open on YouTube</a></p></div></div></div>
+This is why Aviano proximity should be treated as a question, not an answer. It should prompt investigators to ask for flight activity, NOTAMs, training schedules where public, radar correlation, drone restrictions, weather, astronomy and witness geometry. It should not be used as a dramatic substitute for that work.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XAqiEIDbwz4" title="A caccia di UFO appostamento notturno Artegna Gemona" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XAqiEIDbwz4" target="_blank" rel="noopener noreferrer">A caccia di UFO appostamento notturno Artegna Gemona</a></p><p class="youtube-embed-meta">Channel: Pietro Asara Knives &amp; Urbex</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XAqiEIDbwz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XAqiEIDbwz4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to avoid over-reading base proximity
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:33'
+date: '2026-07-01 09:38:33'
 parent_title: Sardinia UFOs
 parent_permalink: /what-makes-sardinias-ufo-record-so/
 parent_nav_short_title: Sardinia UFOs
@@ -285,7 +285,13 @@ image: /assets/images/Sardinia_83a1a0_cagliari_porto_canal_a34ed6-overview-socia
 ## Introduction
 
 The Cagliari Porto Canale lights are a useful small case in [Sardinia]({{'what-makes-sardinias-ufo-record-so/' | relative_url }})’s UFO record because the most important fact is not the dramatic description, but the missing evidence. Witnesses reported two fixed red spheres followed by four or five intermittent yellow-green lights over the Porto Canale area of Cagliari on a Friday evening in November 2022. The lights were said to be low, moving one after another, and arranged in a “serpent” pattern. Attempts to photograph or film them reportedly failed because a bright harbour light overwhelmed the view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sardegnalive.net/in-sardegna/un-altro-avvistamento-a-cagliari-strane-luci-sul-porto-canale-sclyccq0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sardegnalive.net">[Sardegna Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sardegnalive.net</span><span class="citation-popover-title">Sardegna Live Un altro avvistamento a Cagliari?</span><span class="citation-popover-snippet">“Strane luci sul porto...November 13, 2022 — 13 Nov 2022 — “Due sfere rosse seguite da quattro o cinque sfere gialloverdi luminose &quot;che...</span><span class="citation-popover-meta">Published: November 13, 2022</span></span></span><img src="{{"/assets/images/Sardinia_83a1a0_cagliari_porto_canal_a34ed6-overview.webp" | relative_url }}" alt="Overview image for Porto Canale" loading="eager" decoding="sync" fetchpriority="high">
-That leaves the case in a familiar but uncomfortable category: memorable to those who saw it, interesting to local UFO investigators, but weak as public evidence. The setting matters. Porto Canale is an industrial and maritime environment, not an empty sky over open countryside. Ships, harbour lighting, navigation lights, drones, aircraft and possible military traffic all sit close to the witness description, especially when no usable image, radar trace, official report or independent technical reconstruction has emerged.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/btJdI7OI8oI" title="AVVISTAMENTO UFO IN PROVINCIA DI CAGLIARI !!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=btJdI7OI8oI" target="_blank" rel="noopener noreferrer">AVVISTAMENTO UFO IN PROVINCIA DI CAGLIARI !!</a></p><p class="youtube-embed-meta">Channel: non cielo dicono Official</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=btJdI7OI8oI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=btJdI7OI8oI">Open on YouTube</a></p></div></div></div>
+That leaves the case in a familiar but uncomfortable category: memorable to those who saw it, interesting to local UFO investigators, but weak as public evidence. The setting matters. Porto Canale is an industrial and maritime environment, not an empty sky over open countryside. Ships, harbour lighting, navigation lights, drones, aircraft and possible military traffic all sit close to the witness description, especially when no usable image, radar trace, official report or independent technical reconstruction has emerged.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/btJdI7OI8oI" title="AVVISTAMENTO UFO IN PROVINCIA DI CAGLIARI !!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=btJdI7OI8oI" target="_blank" rel="noopener noreferrer">AVVISTAMENTO UFO IN PROVINCIA DI CAGLIARI !!</a></p><p class="youtube-embed-meta">Channel: non cielo dicono Official</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=btJdI7OI8oI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=btJdI7OI8oI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The red and yellow-green spheres report
 
@@ -312,7 +318,13 @@ Cagliari’s port is a significant Mediterranean seaport, divided between the hi
 
 The colours also matter. Red and green are not unusual colours in maritime settings. Vessel navigation lights commonly use red and green to indicate port and starboard sides, and official boating guidance describes how these lights help observers judge a vessel’s direction at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/navigation-marks-lights-and-sounds/vessels-at-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsw.gov.au">[NSW Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsw.gov.au</span><span class="citation-popover-title">NSW Government Identifying vessels at night</span><span class="citation-popover-snippet">NSW Government Identifying vessels at night</span></span></span> Other harbour and vessel lights can be white, yellow, red or green depending on purpose and viewing angle. A distant vessel, harbour vehicle, crane light, buoy, reflection or moving light seen through glare can appear as separate coloured “spheres”, particularly when the observer lacks a fixed reference point.
 
-That does not mean the Porto Canale witnesses saw a ship. The reported “low altitude” and “different heights” push the account towards airborne explanations. But the port setting makes it unsafe to read coloured lights as inherently anomalous. In this case, the lighthouse or harbour-light problem is not a minor footnote. It is the reason the case remains a story rather than a testable visual record.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/elfaYwouHGo" title="UFO: un mistero aperto?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=elfaYwouHGo" target="_blank" rel="noopener noreferrer">UFO: un mistero aperto?</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=elfaYwouHGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=elfaYwouHGo">Open on YouTube</a></p></div></div></div>
+That does not mean the Porto Canale witnesses saw a ship. The reported “low altitude” and “different heights” push the account towards airborne explanations. But the port setting makes it unsafe to read coloured lights as inherently anomalous. In this case, the lighthouse or harbour-light problem is not a minor footnote. It is the reason the case remains a story rather than a testable visual record.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/elfaYwouHGo" title="UFO: un mistero aperto?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=elfaYwouHGo" target="_blank" rel="noopener noreferrer">UFO: un mistero aperto?</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=elfaYwouHGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=elfaYwouHGo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Drones and military explanations
 
@@ -337,7 +349,13 @@ Second, the failed recording removes a check on colour and motion. Phone cameras
 
 Third, the bright harbour light is both an obstacle and a clue. If glare blocked the camera, it may also have affected the witness view. A strong light source can reduce dark adaptation, wash out faint points and make moving lights appear more isolated or dramatic than they would from a darker vantage point.
 
-This is why the Porto Canale case matters within Sardinia’s regional UFO history. It is a clean example of a common modern pattern: a striking night-light report in a technologically dense setting, publicly circulated through local media, but deprived of the very evidence that would make it testable.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-RGCMa-IIc" title="✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer">✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹</a></p><p class="youtube-embed-meta">Channel: EU Drone Port™</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-RGCMa-IIc">Open on YouTube</a></p></div></div></div>
+This is why the Porto Canale case matters within Sardinia’s regional UFO history. It is a clean example of a common modern pattern: a striking night-light report in a technologically dense setting, publicly circulated through local media, but deprived of the very evidence that would make it testable.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-RGCMa-IIc" title="✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer">✈️ How to Fly Drones in Italy | Geographic Zones, Authorisations &amp; D-Flight Guide 🇮🇹</a></p><p class="youtube-embed-meta">Channel: EU Drone Port™</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-RGCMa-IIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-RGCMa-IIc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read the case within Sardinia’s UFO history
 

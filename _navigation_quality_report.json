@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T14:49:46.404096Z",
+  "generated_at_utc": "2026-07-02T18:40:29.718694Z",
   "summary": {
     "total_pages_with_permalink": 240,
     "visible_pages": 220,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 895,
+    "inline_internal_edge_count": 876,
     "inline_internal_target_page_count": 220,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
     "visible_pages_with_inline_outbound_links": 219,
-    "average_inline_inbound_links_per_visible_page": 4.07,
+    "average_inline_inbound_links_per_visible_page": 3.98,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -34,7 +34,7 @@
       },
       {
         "basename": "Abruzzo_4c71bb_gran_sasso_visual_tr_435a21",
-        "title": "Gran Sasso",
+        "title": "Why Gran Sasso Makes Sightings Stranger",
         "permalink": "/gran-sasso/",
         "inline_inbound_count": 11
       },
@@ -70,7 +70,7 @@
       },
       {
         "basename": "Campania_5acc6a_ordinary_explanation_a805d0",
-        "title": "Explanations",
+        "title": "What Usually Explains Campania UFO Reports?",
         "permalink": "/explanations-e21d0c/",
         "inline_inbound_count": 11
       },
@@ -87,12 +87,6 @@
         "inline_inbound_count": 11
       },
       {
-        "basename": "Friuli-Venezia_Giuli_608dd8_friuli_ufo_explanati_cc281a",
-        "title": "Explanations",
-        "permalink": "/explanations-54fcb5/",
-        "inline_inbound_count": 11
-      },
-      {
         "basename": "Lazio_2e255a",
         "title": "What Really Happened in Lazio's UFO Files?",
         "permalink": "/what-really-happened-in-lazios-ufo-files/",
@@ -106,7 +100,7 @@
       },
       {
         "basename": "Liguria_5b11e3_witness_credibility_c6d46d",
-        "title": "Witnesses",
+        "title": "Do Official Witnesses Make UFO Cases Stronger?",
         "permalink": "/witnesses/",
         "inline_inbound_count": 11
       },
@@ -124,7 +118,7 @@
       },
       {
         "basename": "Marche_113fca_adriatic_triangle_d09026",
-        "title": "Adriatic",
+        "title": "How Solid Is The Adriatic Triangle Story?",
         "permalink": "/adriatic/",
         "inline_inbound_count": 11
       },
@@ -159,12 +153,6 @@
         "inline_inbound_count": 11
       },
       {
-        "basename": "Tuscany_2685d2",
-        "title": "What Really Happened In Tuscany's UFO Skies?",
-        "permalink": "/what-really-happened-in-tuscanys-ufo/",
-        "inline_inbound_count": 11
-      },
-      {
         "basename": "Veneto_862600",
         "title": "What Really Happened in Veneto's UFO Files?",
         "permalink": "/what-really-happened-in-venetos-ufo/",
@@ -172,38 +160,38 @@
       },
       {
         "basename": "Basilicata_3ea395_potenza_early_report_7f20b6",
-        "title": "Potenza",
+        "title": "Why Potenza Became Basilicata's UFO Starting Point",
         "permalink": "/potenza/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Friuli-Venezia_Giuli_608dd8_aviano_military_sigh_704771",
-        "title": "Aviano",
+        "title": "Do Aviano Sightings Really Change the Evidence?",
         "permalink": "/aviano/",
         "inline_inbound_count": 10
       },
       {
-        "basename": "Lazio_2e255a_ciampino_1954_b0d173",
-        "title": "Ciampino 1954",
-        "permalink": "/ciampino-1954/",
-        "inline_inbound_count": 10
-      },
-      {
-        "basename": "Molise_7c6aa1_ordinary_explanation_a805d0",
-        "title": "Explanations",
-        "permalink": "/explanations-d7031a/",
+        "basename": "Friuli-Venezia_Giuli_608dd8_friuli_ufo_explanati_cc281a",
+        "title": "What Could Friuli's UFOs Have Been?",
+        "permalink": "/explanations-54fcb5/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Piedmont_9fde2b_caselle_1973_5fc4e6",
-        "title": "Caselle 1973",
+        "title": "Was Caselle Piedmont's Strongest UFO Case?",
         "permalink": "/caselle-1973/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Piedmont_9fde2b_susa_valley_lights_fc0837",
-        "title": "Susa Valley",
+        "title": "Is the Susa Valley Really a UFO Hotspot?",
         "permalink": "/susa-valley/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Tuscany_2685d2",
+        "title": "What Really Happened In Tuscany's UFO Skies?",
+        "permalink": "/what-really-happened-in-tuscanys-ufo/",
         "inline_inbound_count": 10
       },
       {
@@ -214,57 +202,69 @@
       },
       {
         "basename": "Umbria_d4a7a8_common_umbrian_expla_4c317e",
-        "title": "Explanations",
+        "title": "What Ordinary Things Look Like UFOs in Umbria?",
         "permalink": "/explanations-614a80/",
         "inline_inbound_count": 10
       },
       {
-        "basename": "Umbria_d4a7a8_umbrian_aviation_clu_278697",
-        "title": "Aviation",
-        "permalink": "/aviation/",
-        "inline_inbound_count": 10
-      },
-      {
         "basename": "Abruzzo_4c71bb_adriatic_triangle_me_4a2124",
-        "title": "Adriatic Triangle",
+        "title": "How Did the Adriatic Triangle Grow?",
         "permalink": "/adriatic-triangle/",
         "inline_inbound_count": 9
       },
       {
-        "basename": "Basilicata_3ea395_matera_space_backdro_5d9c75",
-        "title": "Matera",
-        "permalink": "/matera/",
-        "inline_inbound_count": 9
-      },
-      {
-        "basename": "Campania_5acc6a_naples_1978_wave_f77898",
-        "title": "1978 Wave",
-        "permalink": "/1978-wave/",
-        "inline_inbound_count": 9
-      },
-      {
         "basename": "Campania_5acc6a_naples_air_traffic_ea6034",
-        "title": "Air Traffic",
+        "title": "When Are UFOs Really Aircraft Lights?",
         "permalink": "/air-traffic/",
         "inline_inbound_count": 9
       },
       {
+        "basename": "Lazio_2e255a_ciampino_1954_b0d173",
+        "title": "Did Ciampino Really Become a UFO Case?",
+        "permalink": "/ciampino-1954/",
+        "inline_inbound_count": 9
+      },
+      {
         "basename": "Lazio_2e255a_common_explanations_72fcca",
-        "title": "Explanations",
+        "title": "What Else Could Lazio Witnesses Have Seen?",
         "permalink": "/explanations-31cadb/",
         "inline_inbound_count": 9
       },
       {
         "basename": "Marche_113fca_ordinary_sky_explana_5c53fe",
-        "title": "Explanations",
+        "title": "Could Ordinary Sky Events Explain Marche UFOs?",
         "permalink": "/explanations-24ae81/",
         "inline_inbound_count": 9
       },
       {
         "basename": "Molise_7c6aa1_local_press_coverage_f034a6",
-        "title": "Local Press",
+        "title": "How Did Local Press Shape Molise UFOs?",
         "permalink": "/local-press-1ba079/",
         "inline_inbound_count": 9
+      },
+      {
+        "basename": "Molise_7c6aa1_ordinary_explanation_a805d0",
+        "title": "What Else Could Molise Witnesses Have Seen?",
+        "permalink": "/explanations-d7031a/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Basilicata_3ea395_matera_space_backdro_5d9c75",
+        "title": "Did Matera's Space Role Shape UFO Reports?",
+        "permalink": "/matera/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Campania_5acc6a_naples_1978_wave_f77898",
+        "title": "Why Did Naples Stand Out in 1978?",
+        "permalink": "/1978-wave/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Friuli-Venezia_Giuli_608dd8_campoformido_orange_ba0bf4",
+        "title": "The Orange Sphere Over Campoformido",
+        "permalink": "/campoformido/",
+        "inline_inbound_count": 8
       }
     ],
     "unresolved_inline_internal_targets": [],

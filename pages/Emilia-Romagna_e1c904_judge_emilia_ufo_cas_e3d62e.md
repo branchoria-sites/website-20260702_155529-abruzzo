@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:05:35'
+date: '2026-06-30 19:05:35'
 parent_title: Emilia Romagna UFOs
 parent_permalink: /what-really-happened-in-emilia/
 parent_nav_short_title: Emilia Romagna UFOs
@@ -330,7 +330,13 @@ A third red flag is **single-source certainty**. A local article, a paranormal b
 
 Modern reports need special care because many “UFO waves” now begin online. In Bologna in 2021, local reporting described strange lights in the sky that prompted UFO talk, but checks pointed to Starlink satellites. Another Bologna report in February 2021 described cross-checking against satellite data, especially Starlink, after strange lights were seen. Rimini had a similar pattern in December 2024: a “train” of lights seen around 18:29 was reported as curious and UFO-like, then identified as Starlink satellites. Corriere dello Sport+2Il Resto del Carlino<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.corrieredellosport.it/news/attualit/cronaca/2021/05/07-81467898/bologna_pioggia_di_avvistamenti_ufo_sui_social_cosa_sta_succedendo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: corrieredellosport.it">[corrieredellosport.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">corrieredellosport.it</span><span class="citation-popover-title">Corriere dello Sport Bologna, pioggia di &quot;avvistamenti Ufo&quot; sui social: cosa sta</span><span class="citation-popover-snippet">Corriere dello Sport Bologna, pioggia di &quot;avvistamenti Ufo&quot; sui social: cosa sta</span></span></span>
 
-Those cases are valuable because they show what a weak unresolved claim looks like before investigation. The witnesses may have been honest, the sight may have been striking, and the first reaction may have been wonder. But once timing, formation and movement were checked, the mystery weakened.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A34bhG2H4b0" title="GEN. S.A. GIULIO MAININI Emergenza con F 104 G e l&#x27; inseguimento di un UFO parte 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A34bhG2H4b0" target="_blank" rel="noopener noreferrer">GEN. S.A. GIULIO MAININI Emergenza con F 104 G e l&#x27; inseguimento di un UFO parte 2</a></p><p class="youtube-embed-meta">Channel: RONIN FILM PRODUCTION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A34bhG2H4b0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A34bhG2H4b0">Open on YouTube</a></p></div></div></div>
+Those cases are valuable because they show what a weak unresolved claim looks like before investigation. The witnesses may have been honest, the sight may have been striking, and the first reaction may have been wonder. But once timing, formation and movement were checked, the mystery weakened.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A34bhG2H4b0" title="GEN. S.A. GIULIO MAININI Emergenza con F 104 G e l&#x27; inseguimento di un UFO parte 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A34bhG2H4b0" target="_blank" rel="noopener noreferrer">GEN. S.A. GIULIO MAININI Emergenza con F 104 G e l&#x27; inseguimento di un UFO parte 2</a></p><p class="youtube-embed-meta">Channel: RONIN FILM PRODUCTION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A34bhG2H4b0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A34bhG2H4b0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Use the Emilia-Romagna Setting, But Do Not Overread It
 
@@ -369,7 +375,13 @@ Readers do not need specialist training to sort cases into broad evidence levels
 
 **Explained case with historical value:** The original report sounded extraordinary but later became a useful lesson in misidentification or sky phenomena. The Lugo bolide is a strong example of a spectacular Emilia-Romagna sky event that can help readers understand why brightness, shock, public surprise and wide visibility do not automatically equal UFO mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/1998A%26A...337L...5F/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">Astrophysics Data Systemreanalysis of a case study</span><span class="citation-popover-snippet">Astrophysics Data Systemreanalysis of a case study</span></span></span>
 
-This scale is not meant to shut down curiosity. It protects it. A strong case should not be buried among weak anecdotes, and a weak case should not be inflated until it appears stronger than it is.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pIHDmZioGeE" title="Authentic Photographs of an Alien - The Caponi Case | Full Aliens Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pIHDmZioGeE" target="_blank" rel="noopener noreferrer">Authentic Photographs of an Alien - The Caponi Case | Full Aliens Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pIHDmZioGeE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pIHDmZioGeE">Open on YouTube</a></p></div></div></div>
+This scale is not meant to shut down curiosity. It protects it. A strong case should not be buried among weak anecdotes, and a weak case should not be inflated until it appears stronger than it is.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pIHDmZioGeE" title="Authentic Photographs of an Alien - The Caponi Case | Full Aliens Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pIHDmZioGeE" target="_blank" rel="noopener noreferrer">Authentic Photographs of an Alien - The Caponi Case | Full Aliens Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pIHDmZioGeE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pIHDmZioGeE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How “Unresolved” Differs From “Unexplained Forever”
 
@@ -381,7 +393,13 @@ A case can also move in the other direction: from weak to more interesting if ne
 
 GEIPAN’s approach is useful again because it allows cases to be revisited if new information is supplied. That principle should apply to Emilia-Romagna’s UFO history too. A case should not be treated as “unexplained forever” just because it once defeated a quick explanation. Nor should it be forced into a tidy solution when the data is genuinely insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The fairest wording is often the most precise: “unidentified after available checks”, “not identifiable from the surviving information”, “probably explained by satellites”, “consistent with a meteor”, or “still unresolved but weakly documented”. These phrases may be less dramatic than “mystery solved” or “alien proof”, but they tell the reader much more.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iKPz3RuV7pI" title="L&#x27;ondata UFO in Italia del 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer">L&#x27;ondata UFO in Italia del 1954</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iKPz3RuV7pI">Open on YouTube</a></p></div></div></div>
+The fairest wording is often the most precise: “unidentified after available checks”, “not identifiable from the surviving information”, “probably explained by satellites”, “consistent with a meteor”, or “still unresolved but weakly documented”. These phrases may be less dramatic than “mystery solved” or “alien proof”, but they tell the reader much more.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iKPz3RuV7pI" title="L&#x27;ondata UFO in Italia del 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer">L&#x27;ondata UFO in Italia del 1954</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iKPz3RuV7pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iKPz3RuV7pI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Questions to Ask Before Calling a Case Important
 

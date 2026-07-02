@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:05:36'
+date: '2026-06-30 19:05:36'
 parent_title: Friuli UFOs
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFOs
@@ -326,6 +326,8 @@ This case is less dramatic than Ronchi but still important. It is a named Friuli
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKj53p0AToA" title="Ufo a Udine: alieno sulla Napoleonica, dibattito con Chiumiento" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKj53p0AToA" target="_blank" rel="noopener noreferrer">Ufo a Udine: alieno sulla Napoleonica, dibattito con Chiumiento</a></p><p class="youtube-embed-meta">Channel: Il Gazzettino</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKj53p0AToA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKj53p0AToA">Open on YouTube</a></p></div></div></div>
 
+
+
 ### Cordenons, 30 December 2010
 
 The later Friuli entries are more clustered around the Pordenone area. The official 2010 Air Force file includes Cordenons, in the province of Pordenone, on 30 December 2010 at 05:55 local time. The object is described as flat, white and stationary towards the south-east, at about 600 metres, under a slightly veiled sky. The report came from private citizens. The Air Force finding says the data gathered from the relevant Air Force bodies did not allow the event to be associated with known flight or radiosonde activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">OVNI 2010</span><span class="citation-popover-snippet">OVNI 2010</span></span></span>
@@ -361,7 +363,13 @@ First, “unidentified” is a status of the investigation, not the identity of 
 
 Second, the archive can include stronger and weaker reports under the same broad label. Ronchi dei Legionari involved an aircraft commander and Air Force personnel; Cordenons involved private citizens seeing a stationary white object before dawn. Both can be officially unresolved, but they do not carry the same evidential weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-Third, the Air Force files are not built to answer every UFO question a reader may have. They do not usually publish full witness interviews, raw radar data, photographs, chain-of-custody records, or detailed sceptical reconstructions. They are administrative summaries. Their strength is consistency and official provenance; their weakness is compression.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AMq39w2siBY" title="Ufo, cosa sappiamo veramente? Indagini, studi, miti e verità" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AMq39w2siBY" target="_blank" rel="noopener noreferrer">Ufo, cosa sappiamo veramente? Indagini, studi, miti e verità</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AMq39w2siBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AMq39w2siBY">Open on YouTube</a></p></div></div></div>
+Third, the Air Force files are not built to answer every UFO question a reader may have. They do not usually publish full witness interviews, raw radar data, photographs, chain-of-custody records, or detailed sceptical reconstructions. They are administrative summaries. Their strength is consistency and official provenance; their weakness is compression.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AMq39w2siBY" title="Ufo, cosa sappiamo veramente? Indagini, studi, miti e verità" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AMq39w2siBY" target="_blank" rel="noopener noreferrer">Ufo, cosa sappiamo veramente? Indagini, studi, miti e verità</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AMq39w2siBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AMq39w2siBY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What patterns appear in Friuli’s official records?
 
@@ -370,6 +378,8 @@ Friuli’s Air Force file pattern is small but clear enough to interpret cautiou
 The descriptions also show a familiar UFO-file pattern: lights or simple shapes, often red, orange, yellow or white, moving in straight lines or appearing stationary. The reports are not dominated by landings, occupants, physical traces or close-range craft descriptions. That makes the Friuli official material less sensational than some popular UFO stories, but more useful for understanding how ordinary sightings become formal records.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vNKEEV9dJVg" title="El precio de investigar: Eclipse 1991 y el Congreso OVNI en la UNAM | Yohanan Díaz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vNKEEV9dJVg" target="_blank" rel="noopener noreferrer">El precio de investigar: Eclipse 1991 y el Congreso OVNI en la UNAM | Yohanan Díaz</a></p><p class="youtube-embed-meta">Channel: Historias y Fantasmas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vNKEEV9dJVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vNKEEV9dJVg">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Where sceptical explanations fit
 

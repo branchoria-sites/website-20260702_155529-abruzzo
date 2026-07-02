@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 16:33:13'
+date: '2026-06-30 16:33:13'
 parent_title: Calabria UFOs
 parent_permalink: /what-really-happened-in-calabrias-ufo/
 parent_nav_short_title: Calabria UFOs
@@ -285,7 +285,13 @@ image: /assets/images/Calabria_663de5_rende_three_lights_ea73cf-overview-social.
 ## Introduction
 
 The Rende “three lights” report is a small but useful Calabrian UFO case because it shows how quickly a simple night-sky pattern can become a UFO story. The public account is brief: on the late evening of 13 June 2010, three high lights were seen over Rende, near Cosenza, and local and agency reporting the following day said the sighting had prompted talk of a UFO. The available evidence does not appear to include a detailed official case file, a precise azimuth, a measured duration, radar data, photographs, or independent astronomical reconstruction, so the case is better treated as a lesson in interpretation than as a strong unexplained event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lagazzettadelmezzogiorno.it/news/italia/200408/avvistato-ufo-in-cieli-calabria.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[La Gazzetta del Mezzogiorno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-title">La Gazzetta del Mezzogiorno Avvistato Ufo in cieli Calabria(ANSA</span><span class="citation-popover-snippet">La Gazzetta del Mezzogiorno Avvistato Ufo in cieli Calabria(ANSA</span></span></span><img src="{{"/assets/images/Calabria_663de5_rende_three_lights_ea73cf-overview.webp" | relative_url }}" alt="Overview image for Rende Lights" loading="eager" decoding="sync" fetchpriority="high">
-That does not make it worthless. In [Calabria]({{'what-really-happened-in-calabrias-ufo/' | relative_url }})’s UFO history, many reports are exactly like this: short accounts of lights, often seen at night, sometimes striking because they appear in a group or formation. The Rende example helps explain why “three lights” are hard to judge from the ground, and why aircraft, satellites, lanterns and, in more recent years, drones or rocket-related events have to be checked before a sighting is left as genuinely unresolved.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dDxYZyMEmUU" title="UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer">UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dDxYZyMEmUU">Open on YouTube</a></p></div></div></div>
+That does not make it worthless. In [Calabria]({{'what-really-happened-in-calabrias-ufo/' | relative_url }})’s UFO history, many reports are exactly like this: short accounts of lights, often seen at night, sometimes striking because they appear in a group or formation. The Rende example helps explain why “three lights” are hard to judge from the ground, and why aircraft, satellites, lanterns and, in more recent years, drones or rocket-related events have to be checked before a sighting is left as genuinely unresolved.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dDxYZyMEmUU" title="UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer">UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dDxYZyMEmUU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The June 2010 Rende report
 
@@ -308,6 +314,8 @@ This is the central problem with the Rende report. Without a measured track, a t
 * **A misjudged distance**, where bright points look lower, nearer, or slower than they really are.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lv1bf0fmAvU" title="Strange lights seen in Illinois sky explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer">Strange lights seen in Illinois sky explained</a></p><p class="youtube-embed-meta">Channel: FOX 32 Chicago &middot; Views: 114.2K &middot; Uploaded: April 2022 &middot; Length: 3 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lv1bf0fmAvU">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Aircraft, satellites, lanterns and drones as candidates
 
@@ -349,7 +357,13 @@ A stronger Rende file would ideally contain:<div class="content-enhancement cont
 * checks against aircraft, satellites, lantern events and local drone or model-aircraft activity;
 * original photos or video, with metadata where available.</div>
 
-Without those details, the most honest classification is modest: an underdocumented report of three lights, not a demonstrated unknown craft.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/keDI4dNX9tg" title="UFO &amp; UAP. Your Astronomy Sucks #3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer">UFO &amp; UAP. Your Astronomy Sucks #3</a></p><p class="youtube-embed-meta">Channel: science out there &middot; Views: 2.6K &middot; Uploaded: July 2021 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=keDI4dNX9tg">Open on YouTube</a></p></div></div></div>
+Without those details, the most honest classification is modest: an underdocumented report of three lights, not a demonstrated unknown craft.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/keDI4dNX9tg" title="UFO &amp; UAP. Your Astronomy Sucks #3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer">UFO &amp; UAP. Your Astronomy Sucks #3</a></p><p class="youtube-embed-meta">Channel: science out there &middot; Views: 2.6K &middot; Uploaded: July 2021 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=keDI4dNX9tg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this small case still belongs in Calabria’s UFO history
 

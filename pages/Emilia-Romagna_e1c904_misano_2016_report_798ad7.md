@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 18:14:55'
+date: '2026-06-30 18:14:55'
 parent_title: Emilia Romagna UFOs
 parent_permalink: /what-really-happened-in-emilia/
 parent_nav_short_title: Emilia Romagna UFOs
@@ -306,8 +306,6 @@ Italy’s Air Force has been the institutional body for collecting, checking and
 
 The key point is the threshold for publication as an unidentified flying object. The Air Force states that, once checks are completed, cases are published in the “sightings” section and classified as unidentified when no technical or natural justification has been found. It describes the purpose of the activity as flight safety and national security, not as proof of any particular extraordinary origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
 
-For Misano, the 2016 Air Force PDF gives the finding in narrow technical language: from data collected through the competent Air Force bodies, it was not possible to associate the event with known flight activity or known radiosonde activity. A radiosonde is an instrument package usually carried by a weather balloon, so the Air Force was saying that this reported event was not matched to a known aircraft or known weather-balloon-related activity in the data it checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/OVNI-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ## What makes Misano different within Emilia-Romagna
@@ -323,8 +321,6 @@ The most common misunderstanding is to treat “officially unidentified” as if
 
 The local newspaper made the same distinction when reporting the case in 2018. It quoted the Air Force position that the phrase means only that a technical or natural justification had not been found, and added that it was not the Air Force’s role to pronounce on the credibility of what had been seen in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilrestodelcarlino.it/rimini/cronaca/ufo-misano-d645882a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrestodelcarlino.it">[Il Resto del Carlino]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrestodelcarlino.it</span><span class="citation-popover-title">ufo misano d645882a</span><span class="citation-popover-snippet">ufo misano d645882a</span></span></span>
 
-That caution is consistent with wider official and scientific discussion of UAP. NASA’s UAP material says most sightings have limited data and that there are no data supporting the idea that UAP are evidence of alien technologies. Its 2023 independent study report also stated that, in peer-reviewed scientific literature, there was no conclusive evidence suggesting an extraterrestrial origin for UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
 
 ## The main doubts and possible weak points
@@ -339,8 +335,6 @@ This is why Misano is best treated as unresolved rather than debunked or confirm
 ## How later reporting changed the case
 
 The first wave of attention in August 2016 presented the event as a strange beach sighting: roughly twenty white spheres, a municipal police officer witness, other beachgoers, photographs, and a video. That made the story vivid and local.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilrestodelcarlino.it/rimini/cronaca/ufo-misano-adriatico-sfere-4f722889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrestodelcarlino.it">[Il Resto del Carlino]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrestodelcarlino.it</span><span class="citation-popover-title">Il Resto del Carlino Ufo, 20 sfere bianche avvistate a Misano. Guarda il video</span><span class="citation-popover-snippet">Il Resto del Carlino Ufo, 20 sfere bianche avvistate a Misano. Guarda il video</span></span></span>
-
-The 2018 coverage changed its status by linking it to the Air Force’s 2016 annual data. The case was no longer only a “strange things seen over Misano” story; it became the Emilia-Romagna entry among four official Italian reports for that year, with the other three in Veneto. The same reporting also placed the case inside the Air Force’s cautious definition of unidentified, explicitly warning that the label did not mean “aliens”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilrestodelcarlino.it/rimini/cronaca/ufo-misano-d645882a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrestodelcarlino.it">[Il Resto del Carlino]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrestodelcarlino.it</span><span class="citation-popover-title">ufo misano d645882a</span><span class="citation-popover-snippet">ufo misano d645882a</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u3xUsLeVemk" title="HALF DESTINATION - CISU CENTRO ITALIANO STUDI UFOLOGICI CONDUCE MAURIZIO MAGENES REGIA ROBERTO LENA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u3xUsLeVemk" target="_blank" rel="noopener noreferrer">HALF DESTINATION - CISU CENTRO ITALIANO STUDI UFOLOGICI CONDUCE MAURIZIO MAGENES REGIA ROBERTO LENA</a></p><p class="youtube-embed-meta">Channel: Arizona Tv &middot; Views: 1.5K &middot; Uploaded: March 2024 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u3xUsLeVemk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u3xUsLeVemk">Open on YouTube</a></p></div></div></div>
 

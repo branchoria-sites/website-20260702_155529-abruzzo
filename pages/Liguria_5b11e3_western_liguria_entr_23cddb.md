@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 20:44:17'
+date: '2026-06-30 20:44:17'
 parent_title: Liguria UFOs
 parent_permalink: /what-really-happened-in-ligurias-ufo/
 parent_nav_short_title: Liguria UFOs
@@ -308,6 +308,8 @@ The weakness is equally clear. “Unknown form” and “unknown colour” remov
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5sQ-y3BVB8A" title="Do We Have Hard Evidence for Alien Life? The Enigma of Allan Hills 84001" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5sQ-y3BVB8A" target="_blank" rel="noopener noreferrer">Do We Have Hard Evidence for Alien Life? The Enigma of Allan Hills 84001</a></p><p class="youtube-embed-meta">Channel: John Michael Godier</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5sQ-y3BVB8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5sQ-y3BVB8A">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The 1985 Imperia blue discoid report
 
 The Imperia entry is dated 17 September 1985 at 24.00, meaning around midnight. It describes a luminous blue discoid object moving at high speed from north towards north-west. The altitude is not known, the sky is recorded as clear, and the reporting source is also listed as unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1972-1990.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
@@ -326,6 +328,8 @@ Point of comparisonVentimiglia, 1984Imperia, 1985TimeDaytime, about 12.30Night-t
 The Ventimiglia case is easier to take seriously as an official report because the reporting channel is clearer. Yet it is harder to interpret because the object itself is barely described. Imperia is the opposite: its description is more distinctive, but the missing witness category makes it harder to judge reliability. This is why neither should be inflated into a landmark incident. They are official unidentified entries, not fully documented investigations.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2Box8dkz6cQ" title="NASA&#x27;s Most Controversial Rock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2Box8dkz6cQ" target="_blank" rel="noopener noreferrer">NASA&#x27;s Most Controversial Rock</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2Box8dkz6cQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2Box8dkz6cQ">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What short archive entries leave unresolved
 

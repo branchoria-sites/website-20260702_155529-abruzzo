@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /apulia-98f3e8-index/
 description: Focused pages that expand on What Really Happened in Apulia's UFO Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Apulia_98f3e8
 parent_title: What Really Happened in Apulia's UFO Skies?

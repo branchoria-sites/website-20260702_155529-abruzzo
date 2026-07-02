@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:51'
+date: '2026-07-01 09:38:51'
 parent_title: Umbrian Skies
 parent_permalink: /umbria/
 parent_nav_short_title: Umbrian Skies
@@ -290,7 +290,6 @@ image: /assets/images/Umbria_d4a7a8_polino_binocular_sig_dd3582-overview-social.
 
 ## Introduction
 
-The Polino sighting is one of the more interesting Umbrian UFO reports because it is not just a vague “light in the sky” story. According to a 2010 account of a CISU-linked regional review, three people at Colle Bertone, near Polino, watched the phenomenon through binoculars and described an oval, star-like light that stopped, accelerated and showed two distinct colours inside the main glow: a softer yellow light and a sharper red one. The case was presented as unresolved within the small set of documented Umbrian sightings discussed at a national ufology meeting in Terni.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tuttoggi.info/ufo-in-umbria-4-avvistamenti-in-30-anni-i-lavori-del-25-convegno-nazionale-ufologia-terni-video-e-foto-tuttoggi-info/85047/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuttoggi.info">[Tuttoggi.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuttoggi.info</span><span class="citation-popover-snippet">Open source on tuttoggi.info.</span></span></span><img src="{{"/assets/images/Umbria_d4a7a8_polino_binocular_sig_dd3582-overview.webp" | relative_url }}" alt="Overview image for Polino" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bg4QK7QHeuA" title="&quot;The Age of Disclosure&quot; director on released UFO files: &quot;We&#x27;re at a major turning point&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bg4QK7QHeuA" target="_blank" rel="noopener noreferrer">&quot;The Age of Disclosure&quot; director on released UFO files: &quot;We&#x27;re at a major turning point&quot;</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 301.1K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bg4QK7QHeuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bg4QK7QHeuA">Open on YouTube</a></p></div></div></div>
 
 ## The Colle Bertone observation
@@ -307,8 +306,6 @@ The strongest detail in the account is the use of binoculars. The witnesses were
 Binoculars improve angular detail. They can make a faint point brighter, reveal colour differences, and help separate lights that appear blended to the unaided eye. In the Polino account, that is exactly what makes the report memorable: the binoculars reportedly turned an oval star-like glow into a more complex light pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tuttoggi.info/ufo-in-umbria-4-avvistamenti-in-30-anni-i-lavori-del-25-convegno-nazionale-ufologia-terni-video-e-foto-tuttoggi-info/85047/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuttoggi.info">[Tuttoggi.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuttoggi.info</span><span class="citation-popover-snippet">Open source on tuttoggi.info.</span></span></span>
 
 But binoculars also narrow the field of view and can make motion feel more dramatic. A small hand movement, a shift in balance, or the difficulty of tracking a point light against a dark sky can exaggerate apparent zig-zags or sudden changes. Without a tripod, a fixed reference point, a measured bearing, a known elevation angle and a timed track across the sky, binocular observation remains descriptive rather than diagnostic.
-
-This is why the Polino case sits in a careful middle category. It is stronger than a single-witness, unaided-eye report because there were three observers and an attempt to inspect the phenomenon. It is weaker than a multi-instrument case because the public record does not include photographs, video, radar correlation, air-traffic checks, astronomical reconstruction or a detailed original witness file. The Italian Air Force explains that its OVNI process is designed to check reports against human activities and natural phenomena, and only after such checks are inconclusive does a case remain classified as an unidentified flying object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span> No equivalent published technical process is available for the Polino sighting in the accessible sources.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Zit-08rtkE" title="World-changing confession: Doctor describes studying live alien | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer">World-changing confession: Doctor describes studying live alien | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.5M &middot; Uploaded: November 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Zit-08rtkE">Open on YouTube</a></p></div></div></div>
 
@@ -332,6 +329,8 @@ The Polino case matters less as proof of an extraordinary craft than as an examp
 That comparison is useful. It shows that local investigators were not treating every Umbrian report as equally mysterious. One case was downgraded; Polino and Orvieto were described as unresolved. This gives the Polino sighting a stronger standing than a rumour, but still not the evidential weight of a fully documented official case.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What would strengthen or weaken the claim now
 

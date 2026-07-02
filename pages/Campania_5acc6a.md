@@ -64,7 +64,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -212,13 +212,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 17:21:21'
+date: '2026-06-30 17:21:21'
 sibling_links:
 - basename: Aosta_Valley_ccb120
   title: Aosta UFOs
@@ -396,7 +396,13 @@ The event is frequently cited because it moves beyond the typical single-witness
 * Reports may involve communication with air traffic services.
 * Independent observations sometimes exist from multiple locations.</div>
 
-Yet aviation cases are not automatically solved or automatically extraordinary. Even trained crews can misinterpret unfamiliar visual phenomena, especially at night or when estimating distance to an unknown object. The available public information on the 1973 case is relatively limited, which means the report remains interesting but not decisive.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybDQGcZjJWI" title="UFO Sightings Terrify Italy | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer">UFO Sightings Terrify Italy | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 444.1K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybDQGcZjJWI">Open on YouTube</a></p></div></div></div>
+Yet aviation cases are not automatically solved or automatically extraordinary. Even trained crews can misinterpret unfamiliar visual phenomena, especially at night or when estimating distance to an unknown object. The available public information on the 1973 case is relatively limited, which means the report remains interesting but not decisive.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybDQGcZjJWI" title="UFO Sightings Terrify Italy | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer">UFO Sightings Terrify Italy | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 444.1K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybDQGcZjJWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybDQGcZjJWI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Military and Aviation Connections Shape Campania Cases
 
@@ -430,7 +436,13 @@ The media therefore function as both archive and amplifier. Without local report
 
 ## Which Campania Cases Are Actually Strong?
 
-When assessing Campania’s UFO record, it helps to separate cases into three broad categories.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e_3VL06jAGs" title="Trentola Ducenta (CE) - Avvistamento UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e_3VL06jAGs" target="_blank" rel="noopener noreferrer">Trentola Ducenta (CE) - Avvistamento UFO</a></p><p class="youtube-embed-meta">Channel: Pupia Campania</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e_3VL06jAGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e_3VL06jAGs">Open on YouTube</a></p></div></div></div>
+When assessing Campania’s UFO record, it helps to separate cases into three broad categories.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e_3VL06jAGs" title="Trentola Ducenta (CE) - Avvistamento UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e_3VL06jAGs" target="_blank" rel="noopener noreferrer">Trentola Ducenta (CE) - Avvistamento UFO</a></p><p class="youtube-embed-meta">Channel: Pupia Campania</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e_3VL06jAGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e_3VL06jAGs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ### Relatively Strong Cases
 
@@ -486,6 +498,8 @@ The region combines several ingredients that repeatedly generate UFO reports:<di
 These factors create a steady flow of reports without necessarily producing definitive evidence for extraordinary phenomena.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZzNjaNySi7Y" title="Passiamo la notte sul monte con più avvistamenti UFO d’Italia! Loro sono qui !!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZzNjaNySi7Y" target="_blank" rel="noopener noreferrer">Passiamo la notte sul monte con più avvistamenti UFO d’Italia! Loro sono qui !!!</a></p><p class="youtube-embed-meta">Channel: PIT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZzNjaNySi7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZzNjaNySi7Y">Open on YouTube</a></p></div></div></div>
+
+
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Matches the page&#x27;s emphasis on aviation, witnesses and investigations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a></h4><p class="fr-book-author">By Jacques Vallee</p><p class="fr-book-desc">Places regional sighting traditions into broader historical context.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a></h4><p class="fr-book-author">By Ross Coulthart</p><p class="fr-book-desc">Explores recurring reports, official responses and evidence categories.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

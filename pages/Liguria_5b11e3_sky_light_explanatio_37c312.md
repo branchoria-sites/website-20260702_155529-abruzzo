@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 21:32:56'
+date: '2026-06-30 21:32:56'
 parent_title: Liguria UFOs
 parent_permalink: /what-really-happened-in-ligurias-ufo/
 parent_nav_short_title: Liguria UFOs
@@ -328,8 +328,6 @@ Not every sky light is a satellite pass. Some of the most dramatic reports come 
 
 Italy has a strong technical resource for this category: the PRISMA network, coordinated by the Italian National Institute for Astrophysics. PRISMA uses all-sky cameras to observe bright meteors, known as fireballs, and to determine trajectories and possible meteorite fall areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fripon.org/prisma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fripon.org">[www.fripon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fripon.org</span><span class="citation-popover-title">www.fripon.org Italy (Prisma) – www.fripon.org</span><span class="citation-popover-snippet">www.fripon.org Italy (Prisma) – www.fripon.org</span></span></span> The International Meteor Organization also keeps fireball-report tools and explains that fireballs can be as bright as Venus, a half moon, or in rare cases even the full moon, with colours and persistent trains depending on speed, chemistry and atmospheric effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Open source on imo.net.</span></span></span>
 
-This is highly relevant to Liguria because a fireball seen over northern Italy or the western Mediterranean may be reported from the coast with little sense of distance. A green or white streak over the sea may appear local even when its path is high in the atmosphere and visible from multiple regions. The 2020 New Year fireball over northern Italy shows how a bright event can move from public astonishment to scientific reconstruction: it was recorded by PRISMA/FRIPON cameras, reported by many witnesses, and later connected with recovered meteorite fragments near Cavezzo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/new-year-italian-meteorite-recovered/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-title">new year italian meteorite recovered</span><span class="citation-popover-snippet">new year italian meteorite recovered</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
 
 ## Aircraft, drones and the coastal perspective trap
@@ -371,7 +369,13 @@ The second test is motion. Different explanations have different movement signat
 
 The third test is independent matching. Satellite tools such as Heavens-Above, N2YO, Find Starlink, satellite maps and ISS-pass services can test orbital candidates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[issinfo.net+3heavens-above.com+3n2yo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Open source on heavens-above.com.</span></span></span> Aircraft tools can test many civilian flights. Fireball networks and meteor-report databases can help with bright streaks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fripon.org/prisma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fripon.org">[www.fripon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fripon.org</span><span class="citation-popover-title">www.fripon.org Italy (Prisma) – www.fripon.org</span><span class="citation-popover-snippet">www.fripon.org Italy (Prisma) – www.fripon.org</span></span></span> A claim becomes more interesting when these normal matches fail despite good time, location and direction data.
 
-The fourth test is camera behaviour. A phone video should be checked for autofocus pulses, exposure changes, compression artefacts, lens flare, reflections through glass, and motion caused by hand shake. A dot that expands into a disc under zoom is not necessarily a sphere; it may be an out-of-focus point light. A light that appears to jump may be the camera moving, not the object.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IMDSQBwA824" title="String of bright lights spotted over Mass. confirmed as SpaceX Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IMDSQBwA824" target="_blank" rel="noopener noreferrer">String of bright lights spotted over Mass. confirmed as SpaceX Starlink satellites</a></p><p class="youtube-embed-meta">Channel: CBS Boston &middot; Views: 3.9K &middot; Uploaded: February 2023 &middot; Length: 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IMDSQBwA824" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IMDSQBwA824">Open on YouTube</a></p></div></div></div>
+The fourth test is camera behaviour. A phone video should be checked for autofocus pulses, exposure changes, compression artefacts, lens flare, reflections through glass, and motion caused by hand shake. A dot that expands into a disc under zoom is not necessarily a sphere; it may be an out-of-focus point light. A light that appears to jump may be the camera moving, not the object.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IMDSQBwA824" title="String of bright lights spotted over Mass. confirmed as SpaceX Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IMDSQBwA824" target="_blank" rel="noopener noreferrer">String of bright lights spotted over Mass. confirmed as SpaceX Starlink satellites</a></p><p class="youtube-embed-meta">Channel: CBS Boston &middot; Views: 3.9K &middot; Uploaded: February 2023 &middot; Length: 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IMDSQBwA824" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IMDSQBwA824">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What would make a Ligurian light case stronger?
 
@@ -382,6 +386,8 @@ Multiple witnesses help only if their observations can be compared. Ten people o
 A case is also stronger when it resists the most common failure modes. A line of lights that does not match any Starlink pass is more interesting than one posted without checking. A bright steady object that does not match the ISS or known satellites is more interesting than one filmed near a predicted pass. A red hovering light with no helicopter, aircraft or drone explanation is more interesting than one seen near known coastal operations. Even then, “more interesting” does not mean “non-human”. It means the report deserves better documentation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hd1OiBbMygY" title="Not a UFO: Starlink satellite chain over North Carolina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer">Not a UFO: Starlink satellite chain over North Carolina</a></p><p class="youtube-embed-meta">Channel: CBS 17 &middot; Views: 8.0K &middot; Uploaded: April 2025 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hd1OiBbMygY">Open on YouTube</a></p></div></div></div>
+
+
 
 ## The balanced reading for Liguria
 

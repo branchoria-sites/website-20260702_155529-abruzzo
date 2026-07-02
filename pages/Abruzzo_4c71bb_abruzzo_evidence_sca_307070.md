@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 15:47:33'
+date: '2026-06-30 15:47:33'
 parent_title: Abruzzo UFOs
 parent_permalink: /what-really-happened-in-abruzzos-ufo/
 parent_nav_short_title: Abruzzo UFOs
@@ -314,8 +314,6 @@ The second sign is **testable geography**. Abruzzo sightings often use evocative
 
 The third sign is **independent witness separation**. Ten people standing together may all be honest, but they are not the same as ten witnesses in different locations making separate reports before hearing one another’s descriptions. Abruzzo’s 1978 coastal stories are often presented as a large regional wave, but a fair reading separates the fact of many reports from the stronger question: how many were independent, documented, consistent and checked?
 
-The fourth sign is **original media rather than copied media**. A photograph or video can help, but only if it is available in a form that permits analysis. A compressed social-media clip, a cropped still or a newspaper reproduction is much weaker than an original file with metadata, camera information, location context and other frames before and after the event. The 2004 Gran Sasso photo story shows the problem: some reports treated the image as intriguing because it was said not to be manipulated, but that is not the same as proving the object’s nature. A genuine image can still show a bird, insect, debris, optical artefact, distant aircraft or object made ambiguous by perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://loccidentale.it/gli-ufo-in-abruzzo-era-vera-la-foto-scattata-nel-2004-sul-gran-sasso/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loccidentale.it">[l&#x27;occidentale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loccidentale.it</span><span class="citation-popover-title">gli ufo in abruzzo era vera la foto scattata nel 2004 sul gran sasso</span><span class="citation-popover-snippet">gli ufo in abruzzo era vera la foto scattata nel 2004 sul gran sasso</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.6K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 ## Common weak-source warning signs
@@ -341,8 +339,6 @@ A good sceptical explanation has three parts. First, it matches the **time and p
 
 This is especially important in Abruzzo because its terrain creates genuine visual traps. Lenticular clouds, for example, are lens-shaped clouds that can form when moist winds flow over mountains and valleys; they are well known for looking like classic saucers and for appearing to hover because they continually form in place as air passes through them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">151109 ufo clouds cape town lenticular clouds weather science</span></span></span> In the Gran Sasso and Maiella context, that does not explain every light or object report, but it should be one of the first checks when a sighting involves a smooth disc-like shape near mountain terrain.
 
-Aircraft and helicopters also need routine checking. Pescara is Abruzzo’s main airport, and modern route listings show scheduled flights connecting the region with multiple Italian and European destinations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightconnections.com/flights-from-pescara-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightconnections.com">[FlightConnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightconnections.com</span><span class="citation-popover-title">Flight Connections Flights from Pescara (PSR</span><span class="citation-popover-snippet">Flight Connections Flights from Pescara (PSR</span></span></span> Mountain rescue, firefighting, police and coastguard activity can also put aircraft in places where casual observers are not expecting them. A case involving lights near a rescue operation, a harbour, the coast or a flight path should not be called strong until these possibilities have been tested.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.2K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
 
 ## Applying the scale to Abruzzo’s best-known patterns
@@ -353,7 +349,13 @@ The 1978 Adriatic wave sits between official history and regional legend. It is 
 
 The Gran Sasso and Maiella stories need a different caution. Mountain cases can be visually striking, but the Apennine setting also increases the chance of unusual clouds, reflections, distant aircraft appearing to move oddly against ridgelines, and scale errors. A report from a mountain area becomes stronger if it includes weather, wind, cloud type, direction of view and independent observations from another valley or town. Without those details, “over the mountain” is often too broad to judge.
 
-Modern Pescara or coastal reports need another filter: ordinary aerial traffic and digital-media artefacts. A short clip of a light over the sea may look compelling, but the Adriatic horizon makes distance and speed hard to judge. A light can seem to hover when it is approaching, seem to accelerate when the camera moves, or seem to vanish when it enters cloud, haze or sensor glare. Stronger coastal reports should include a fixed reference point, continuous footage, compass direction, exact time and checks against flights, harbour activity and sky-object data.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKqu37x85AU" title="Spotted a UFO near the mountains? It was likely a lenticular cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer">Spotted a UFO near the mountains? It was likely a lenticular cloud</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 293 &middot; Uploaded: February 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKqu37x85AU">Open on YouTube</a></p></div></div></div>
+Modern Pescara or coastal reports need another filter: ordinary aerial traffic and digital-media artefacts. A short clip of a light over the sea may look compelling, but the Adriatic horizon makes distance and speed hard to judge. A light can seem to hover when it is approaching, seem to accelerate when the camera moves, or seem to vanish when it enters cloud, haze or sensor glare. Stronger coastal reports should include a fixed reference point, continuous footage, compass direction, exact time and checks against flights, harbour activity and sky-object data.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKqu37x85AU" title="Spotted a UFO near the mountains? It was likely a lenticular cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer">Spotted a UFO near the mountains? It was likely a lenticular cloud</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 293 &middot; Uploaded: February 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKqu37x85AU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A reader’s quick decision guide
 

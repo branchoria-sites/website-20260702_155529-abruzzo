@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:58'
+date: '2026-07-01 09:38:58'
 parent_title: Veneto UFOs
 parent_permalink: /what-really-happened-in-venetos-ufo/
 parent_nav_short_title: Veneto UFOs
@@ -308,8 +308,6 @@ A “flap” is not just a sighting; it is a period in which sightings cluster s
 
 The same chronology records a later Bassa Padovana report from October 2001, when a man from Pozzonovo described seeing a very strong light near Monselice while driving at night. He stopped, watched it for several minutes, called emergency services, and later gave a more detailed account to the Carabinieri. Crucially, he presented himself as sceptical and said he did not know whether the light was a balloon, an apparatus or something else.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/articolo.php?id=200064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[CICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">UFO a Monselice (PD) &#124; CICAP</span><span class="citation-popover-snippet">UFO a Monselice (PD) &#124; CICAP</span></span></span> That kind of witness posture matters: not every report came from people eager to claim alien contact.
 
-The Air Force record also includes a 10 October 2001 Padua-province case at Pozzonovo, described in press summaries as an intense light moving at high speed shortly after midnight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lastampa.it/cronaca/2009/02/05/news/luci-sfere-di-fuoco-e-oggetti-volanti-1.37084920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lastampa.it">[La Stampa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lastampa.it</span><span class="citation-popover-title">La Stampa Luci, sfere di fuoco e oggetti volanti</span><span class="citation-popover-snippet">La Stampa Luci, sfere di fuoco e oggetti volanti</span></span></span> Put beside Monselice, this gives Padua a short official-paper trail in 2001: not a proven mystery, but a province with more than one report entering public or official circulation.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WXgtlx1OpCc" title="AVVISTAMENTO UFO - UFO SIGHTING - AIR FORCE BASE - Aviano (PN) Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WXgtlx1OpCc" target="_blank" rel="noopener noreferrer">AVVISTAMENTO UFO - UFO SIGHTING - AIR FORCE BASE - Aviano (PN) Italy</a></p><p class="youtube-embed-meta">Channel: Lowered Garage</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WXgtlx1OpCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WXgtlx1OpCc">Open on YouTube</a></p></div></div></div>
 
 ## Later sphere sightings around Padua province
@@ -330,8 +328,6 @@ The most plausible explanations for many Padua luminous-sphere reports are ordin
 CICAP notes that many modern UFO reports involve moving night lights, and that the possible explanations vary widely. It specifically lists the International Space Station, Starlink satellites, aircraft approaching airports, Chinese lanterns, drones, bright planets such as Venus, and light effects from powerful beams projected onto clouds as common sources of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cicap.org/n/articolo.php?id=1800915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cicap.org">[CICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cicap.org</span><span class="citation-popover-title">Molti UFO, ma ancora nessun extraterrestre &#124; CICAP</span><span class="citation-popover-snippet">Molti UFO, ma ancora nessun extraterrestre &#124; CICAP</span></span></span> That does not solve any individual Padua case automatically, but it gives the right checklist.
 
 For Padua’s repeated spheres, lanterns are a particularly strong rival explanation when the lights are orange or reddish, silent, slow or drifting, and seen in groups. Lanterns can rise, move with wind, fade out, appear in loose formation and give witnesses the impression of glowing spheres. They also became a common explanation in Italian local press for clusters of reddish lights elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lastampa.it/novara/2012/06/07/news/nessun-ufo-nel-cielo-erano-lanterne-cinesi-della-festa-al-b-amp-b-1.36468590" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lastampa.it">[La Stampa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lastampa.it</span><span class="citation-popover-title">La Stampa&quot;Nessun ufo nel cielo, erano lanterne cinesi della festa al</span><span class="citation-popover-snippet">La Stampa&quot;Nessun ufo nel cielo, erano lanterne cinesi della festa al</span></span></span>
-
-Drones are a better fit for later reports when lights hover, change direction, flash, or appear near urban areas. Modern Italian and European drone rules also make clear that drones are now a normal part of low-altitude airspace rather than an exotic possibility: ENAC describes the open category as the low-risk framework for drone operations, while EASA says open-category drone pilots must normally keep the aircraft within visual line of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enac.gov.it/sicurezza-aerea/droni/categoria-aperta-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enac.gov.it">[Enac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enac.gov.it</span><span class="citation-popover-title">Enac Categoria aperta</span><span class="citation-popover-snippet">Enac Categoria aperta</span></span></span> This does not explain older reports from 2001, but it matters for post-2010 luminous-object claims.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Kth2c9IJI0" title="Luci in cielo Non sono ufo ma lanterne volanti" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Kth2c9IJI0" target="_blank" rel="noopener noreferrer">Luci in cielo Non sono ufo ma lanterne volanti</a></p><p class="youtube-embed-meta">Channel: Occhio alla Notizia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Kth2c9IJI0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Kth2c9IJI0">Open on YouTube</a></p></div></div></div>
 

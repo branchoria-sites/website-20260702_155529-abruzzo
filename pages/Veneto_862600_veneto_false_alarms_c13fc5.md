@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:59'
+date: '2026-07-01 09:38:59'
 parent_title: Veneto UFOs
 parent_permalink: /what-really-happened-in-venetos-ufo/
 parent_nav_short_title: Veneto UFOs
@@ -310,7 +310,13 @@ This is especially relevant around Venice and Treviso because local aviation is 
 
 A useful example comes from Chioggia in March 2022. Local astronomy group reporting, summarised by Chioggia News 24, identified a supposed UFO as Ryanair flight RYR1TU, which had departed Venice Tessera at about 18:00 and was heading to Catania.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chioggianews24.it/era-un-ufo-la-risposta-del-gruppo-astronomia-nova-di-chioggia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chioggianews24.it">[chioggianews24.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chioggianews24.it</span><span class="citation-popover-title">era un ufo la risposta del gruppo astronomia nova di chioggia</span><span class="citation-popover-snippet">era un ufo la risposta del gruppo astronomia nova di chioggia</span></span></span> This is exactly the kind of case that matters for Veneto: not a dramatic debunking of the whole UFO subject, but a practical demonstration that flight checking can turn a strange coastal light into a normal aircraft movement.
 
-The coast also encourages errors of scale. A red or yellow light over flat water may look large because there is no nearby object for comparison. A light that disappears behind haze may be reported as “vanishing”. A boat light near the horizon can appear airborne. A distant aircraft can seem silent because sound is delayed, masked by wind, or never reaches the observer clearly. In UFO reports, “silent” should therefore be treated as a clue, not as proof.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZHy9ASOj8w" title="UFOs, drones, mystery sightings: What government reports, NASA, and investigators say" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer">UFOs, drones, mystery sightings: What government reports, NASA, and investigators say</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 3.0K &middot; Uploaded: March 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZHy9ASOj8w">Open on YouTube</a></p></div></div></div>
+The coast also encourages errors of scale. A red or yellow light over flat water may look large because there is no nearby object for comparison. A light that disappears behind haze may be reported as “vanishing”. A boat light near the horizon can appear airborne. A distant aircraft can seem silent because sound is delayed, masked by wind, or never reaches the observer clearly. In UFO reports, “silent” should therefore be treated as a clue, not as proof.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZHy9ASOj8w" title="UFOs, drones, mystery sightings: What government reports, NASA, and investigators say" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer">UFOs, drones, mystery sightings: What government reports, NASA, and investigators say</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 3.0K &middot; Uploaded: March 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZHy9ASOj8w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Common objects mistaken for UFOs
 
@@ -333,6 +339,8 @@ The Chioggia pattern is therefore mixed. On one hand, the area has repeated repo
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-upyTSFUm-Q" title="Bizarre, UFO-like halo of red light appears over small Italian town — for the second time in 3 years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-upyTSFUm-Q" target="_blank" rel="noopener noreferrer">Bizarre, UFO-like halo of red light appears over small Italian town — for the second time in 3 years</a></p><p class="youtube-embed-meta">Channel: WONDER WORLD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-upyTSFUm-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-upyTSFUm-Q">Open on YouTube</a></p></div></div></div>
 
+
+
 ## How investigators test ordinary explanations
 
 A good Veneto UFO investigation is less about belief than reconstruction. The strongest method is to rebuild the sighting from the ground up: time, place, direction, elevation, duration, movement, weather, witness position and possible known objects.
@@ -352,7 +360,13 @@ This distinction is vital for readers. A weakly sourced report can remain unexpl
 
 The official Italian procedure also encourages caution. The Air Force’s role is to collect, verify and monitor reports, partly for flight safety and national security, not to certify extraordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span> A case left unidentified after checks is therefore best described as unresolved, not solved in favour of any exotic hypothesis.
 
-This is where Veneto is especially useful in the wider Italian UFO project. It shows how the same region can contain intriguing unresolved stories, ordinary misidentifications, media-amplified mysteries and practical local debunks. The false alarms do not erase the historical record. They help sort it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/devpbgo2PSk" title="Dall&#x27;UFO all&#x27;Astronomia il passo fu breve..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=devpbgo2PSk" target="_blank" rel="noopener noreferrer">Dall&#x27;UFO all&#x27;Astronomia il passo fu breve...</a></p><p class="youtube-embed-meta">Channel: Vito Lecci Astronomia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=devpbgo2PSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=devpbgo2PSk">Open on YouTube</a></p></div></div></div>
+This is where Veneto is especially useful in the wider Italian UFO project. It shows how the same region can contain intriguing unresolved stories, ordinary misidentifications, media-amplified mysteries and practical local debunks. The false alarms do not erase the historical record. They help sort it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/devpbgo2PSk" title="Dall&#x27;UFO all&#x27;Astronomia il passo fu breve..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=devpbgo2PSk" target="_blank" rel="noopener noreferrer">Dall&#x27;UFO all&#x27;Astronomia il passo fu breve...</a></p><p class="youtube-embed-meta">Channel: Vito Lecci Astronomia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=devpbgo2PSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=devpbgo2PSk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What a careful reader should take from Veneto’s false alarms
 

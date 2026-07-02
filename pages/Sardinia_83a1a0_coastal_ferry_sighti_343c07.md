@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:35'
+date: '2026-07-01 09:38:35'
 parent_title: Sardinia UFOs
 parent_permalink: /what-makes-sardinias-ufo-record-so/
 parent_nav_short_title: Sardinia UFOs
@@ -310,6 +310,8 @@ The report also shows why ferry cases are so appealing to later writers. A ship 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7mQJyJJGzMQ" title="Unidentified Phenomenon Flies Over Italy | The Proof is Out There (Season 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7mQJyJJGzMQ" target="_blank" rel="noopener noreferrer">Unidentified Phenomenon Flies Over Italy | The Proof is Out There (Season 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 253.4K &middot; Uploaded: March 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7mQJyJJGzMQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7mQJyJJGzMQ">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Ports, lights and the Cagliari canal case
 
 Modern coastal reports often move from open sea to port infrastructure. A useful example is the November 2022 report from the Cagliari canal port, covered by local press and attributed to UFO-interest sources including CISU-related reporting. Witnesses reportedly described two red spheres followed by several intermittent yellow-green lights, apparently low and moving one behind another near the port area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unionesarda.it/news-sardegna/cagliari/cagliari-segnalazione-dei-cacciatori-di-ufo-strane-luci-volanti-al-porto-canale-tfqu4dum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unionesarda.it">[L&#x27;Unione Sarda.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unionesarda.it</span><span class="citation-popover-title">L&#x27;Unione Sarda.it Cagliari, segnalazione dei cacciatori di Ufo: “Strane luci</span><span class="citation-popover-snippet">L&#x27;Unione Sarda.it Cagliari, segnalazione dei cacciatori di Ufo: “Strane luci</span></span></span>
@@ -336,7 +338,13 @@ Several recurring candidates should be checked before a Sardinian coastal report
 * **Refraction and mirage effects:** Temperature layers over the sea can bend and distort distant lights or objects.
 * **Port reflections:** Water, glass, metal structures and harbour lighting can create doubled or displaced light impressions.</div>
 
-The most balanced reading is that the coastal environment can strengthen a report by giving witnesses a long, open view, while simultaneously weakening interpretation by removing reliable distance and scale cues.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCifrKseVqM" title="In Search Of Atlantis: Clues In Cagliari, Sardinia?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCifrKseVqM" target="_blank" rel="noopener noreferrer">In Search Of Atlantis: Clues In Cagliari, Sardinia?</a></p><p class="youtube-embed-meta">Channel: Ralph Grizzle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCifrKseVqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCifrKseVqM">Open on YouTube</a></p></div></div></div>
+The most balanced reading is that the coastal environment can strengthen a report by giving witnesses a long, open view, while simultaneously weakening interpretation by removing reliable distance and scale cues.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCifrKseVqM" title="In Search Of Atlantis: Clues In Cagliari, Sardinia?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCifrKseVqM" target="_blank" rel="noopener noreferrer">In Search Of Atlantis: Clues In Cagliari, Sardinia?</a></p><p class="youtube-embed-meta">Channel: Ralph Grizzle</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCifrKseVqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCifrKseVqM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Military coastlines complicate the picture
 
@@ -364,7 +372,13 @@ A stronger coastal case would need more than a vivid description. It would need 
 * confirmation from independent witnesses at different locations;
 * any official report submitted through the Carabinieri and assessed by the Air Force.</div>
 
-This is where Sardinian coastal sightings are both promising and frustrating. Ferries and ports can create good observation opportunities, but many reports enter public discussion through short local articles, social posts or catalogue entries. That is useful for cultural and historical mapping, less useful for firm identification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2P4BKEy_czE" title="Aeronautica Militare - Alluvione in Sardegna: il racconto di un salvataggio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2P4BKEy_czE" target="_blank" rel="noopener noreferrer">Aeronautica Militare - Alluvione in Sardegna: il racconto di un salvataggio</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2P4BKEy_czE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2P4BKEy_czE">Open on YouTube</a></p></div></div></div>
+This is where Sardinian coastal sightings are both promising and frustrating. Ferries and ports can create good observation opportunities, but many reports enter public discussion through short local articles, social posts or catalogue entries. That is useful for cultural and historical mapping, less useful for firm identification.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2P4BKEy_czE" title="Aeronautica Militare - Alluvione in Sardegna: il racconto di un salvataggio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2P4BKEy_czE" target="_blank" rel="noopener noreferrer">Aeronautica Militare - Alluvione in Sardegna: il racconto di un salvataggio</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2P4BKEy_czE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2P4BKEy_czE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Sardinian coastal UFO reports
 

@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:05:40'
+date: '2026-06-30 19:05:40'
 parent_title: Friuli UFOs
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFOs
@@ -285,7 +285,13 @@ image: /assets/images/Friuli-Venezia_Giuli_608dd8_aviano_1999_planet_c_b5d6d1-ov
 ## Introduction
 
 The 1999 [Aviano]({{'aviano/' | relative_url }}) file is a useful reminder that not every officially recorded unidentified aerial sighting points towards an exotic explanation. Within the wider UFO history of [Friuli-Venezia Giulia]({{'friuli-venezia-giulia/' | relative_url }}), the case has attracted attention because the reported object was never firmly identified in the original file, yet later analysis suggested that a rare and visually striking alignment of the planets Venus and Jupiter may account for much of what witnesses described. Rather than diminishing the value of the report, this possibility illustrates an important feature of UFO investigation: a sincere observation can remain in an archive while later evidence offers a highly plausible conventional explanation.<img src="{{"/assets/images/Friuli-Venezia_Giuli_608dd8_aviano_1999_planet_c_b5d6d1-overview.webp" | relative_url }}" alt="Overview image for 1999 Planets" loading="eager" decoding="sync" fetchpriority="high">
-This makes the Aviano case valuable not because it proves anything extraordinary, but because it demonstrates how astronomical conditions can create convincing UFO reports, particularly when bright celestial objects are seen under unusual viewing conditions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ov3fYgGwy60" title="Venus -the Morning Star and Evening Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer">Venus -the Morning Star and Evening Star</a></p><p class="youtube-embed-meta">Channel: Explaining Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ov3fYgGwy60">Open on YouTube</a></p></div></div></div>
+This makes the Aviano case valuable not because it proves anything extraordinary, but because it demonstrates how astronomical conditions can create convincing UFO reports, particularly when bright celestial objects are seen under unusual viewing conditions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ov3fYgGwy60" title="Venus -the Morning Star and Evening Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer">Venus -the Morning Star and Evening Star</a></p><p class="youtube-embed-meta">Channel: Explaining Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ov3fYgGwy60">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Aviano report described
 
@@ -308,6 +314,8 @@ Several characteristics make this explanation credible:<div class="content-enhan
 * **Visual confusion.** Without nearby reference points, observers frequently overestimate distance and size, making a distant celestial object appear much closer than it really is.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why military surroundings can complicate interpretation
 
@@ -333,7 +341,13 @@ Archive ambiguity remains for several reasons:<div class="content-enhancement co
 * Precise witness positions and viewing directions are not always preserved in publicly available summaries.
 * Without complete timing and geometry, investigators cannot recreate the exact line of sight with absolute certainty.</div>
 
-This distinction matters. An archive entry may remain technically unresolved simply because there is insufficient information to demonstrate a conventional explanation beyond doubt, even when one explanation is considerably stronger than the alternatives.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IDMRZUi4lJs" title="Venus &amp; Jupiter Gather for &#x27;Cosmic Kiss&#x27; | Astrologers Call It an Auspicious Shift | GRAVITAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IDMRZUi4lJs" target="_blank" rel="noopener noreferrer">Venus &amp; Jupiter Gather for &#x27;Cosmic Kiss&#x27; | Astrologers Call It an Auspicious Shift | GRAVITAS</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IDMRZUi4lJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IDMRZUi4lJs">Open on YouTube</a></p></div></div></div>
+This distinction matters. An archive entry may remain technically unresolved simply because there is insufficient information to demonstrate a conventional explanation beyond doubt, even when one explanation is considerably stronger than the alternatives.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IDMRZUi4lJs" title="Venus &amp; Jupiter Gather for &#x27;Cosmic Kiss&#x27; | Astrologers Call It an Auspicious Shift | GRAVITAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IDMRZUi4lJs" target="_blank" rel="noopener noreferrer">Venus &amp; Jupiter Gather for &#x27;Cosmic Kiss&#x27; | Astrologers Call It an Auspicious Shift | GRAVITAS</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IDMRZUi4lJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IDMRZUi4lJs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the case contributes to Friuli-Venezia Giulia's UFO history
 

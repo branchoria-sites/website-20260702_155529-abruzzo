@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:24'
+date: '2026-07-01 09:38:24'
 parent_title: Molise UFOs
 parent_permalink: /what-really-happened-in-molises-ufo/
 parent_nav_short_title: Molise UFOs
@@ -302,7 +302,13 @@ That invitation matters because it reveals the case’s evidential weakness. A s
 
 The setting near Foce dell’Angelo also matters. The report did not describe a high-altitude object crossing the whole sky; it described something seen in relation to a bridge and seafront structures. That creates a wide range of possible explanations: a bird or insect close to the camera, a small remotely controlled device, a shadow or reflection, an object carried by wind, or a filming artefact exaggerated by the angle and background. None of these explanations is proven by the article, but all are more testable than an exotic interpretation.
 
-Within Molise’s UFO history, the 2010 case is best classified as a weakly documented public video claim. It is interesting because it was place-specific, coastal and locally reported. It is not strong evidence of an unexplained aerial phenomenon in the stricter sense.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xluya-2ov40" title="The Most Witnessed UFO Incident in History | Operation Prato" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer">The Most Witnessed UFO Incident in History | Operation Prato</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 2.8M &middot; Uploaded: March 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xluya-2ov40">Open on YouTube</a></p></div></div></div>
+Within Molise’s UFO history, the 2010 case is best classified as a weakly documented public video claim. It is interesting because it was place-specific, coastal and locally reported. It is not strong evidence of an unexplained aerial phenomenon in the stricter sense.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xluya-2ov40" title="The Most Witnessed UFO Incident in History | Operation Prato" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer">The Most Witnessed UFO Incident in History | Operation Prato</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 2.8M &middot; Uploaded: March 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xluya-2ov40">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The September 2010 Termoli sighting was better witnessed, but not coastal
 
@@ -335,7 +341,13 @@ The most practical first checks are:
 * **Planets and bright astronomical objects.** Bright planets such as Venus and Jupiter are regularly mistaken for UFOs because they can appear as intense stationary lights, especially when low in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Jupiter and Venus &#x27;Could Be Mistaken for UFOs</span><span class="citation-popover-snippet">Jupiter and Venus &#x27;Could Be Mistaken for UFOs</span></span></span>
 * **Atmospheric distortion over water.** Temperature layers can bend light and distort distant objects. A Fata Morgana or related mirage can create segmented, elevated or unstable images above water, especially when air layers of different temperatures produce unusual refraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[eoas.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Open source on ubc.ca.</span></span></span>
 
-These explanations do not debunk every Termoli claim automatically. They define the burden of evidence. A seafront UFO report becomes more interesting only after the obvious coastal and camera-based possibilities have been checked against time, direction, weather, other footage and independent witnesses.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7AgcmoSecg" title="Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer">Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 139.1K &middot; Uploaded: October 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7AgcmoSecg">Open on YouTube</a></p></div></div></div>
+These explanations do not debunk every Termoli claim automatically. They define the burden of evidence. A seafront UFO report becomes more interesting only after the obvious coastal and camera-based possibilities have been checked against time, direction, weather, other footage and independent witnesses.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7AgcmoSecg" title="Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer">Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 139.1K &middot; Uploaded: October 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7AgcmoSecg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What would make a Termoli seafront case stronger?
 
@@ -343,7 +355,13 @@ The Termoli reports show the difference between a sighting that is locally inter
 
 Italy does have an [official reporting]({{'official-route/' | relative_url }}) route. The Italian Air Force states that reports of unidentified flying objects can be submitted using its form through the nearest Carabinieri station; the purpose is flight and national security, and cases are checked for technical or natural explanations before being listed as unidentified if no explanation is found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
 
-That official route is important for Termoli because most public claims found in local reporting do not appear, from the accessible articles, to have reached a documented official conclusion. Absence from a public official list does not prove a sighting was false; it may simply mean it was never submitted, was explained privately, lacked enough detail, or was not considered significant for aviation safety. But it does mean the public evidence remains limited.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
+That official route is important for Termoli because most public claims found in local reporting do not appear, from the accessible articles, to have reached a documented official conclusion. Absence from a public official list does not prove a sighting was false; it may simply mean it was never submitted, was explained privately, lacked enough detail, or was not considered significant for aviation safety. But it does mean the public evidence remains limited.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Where Termoli fits in Molise’s UFO record
 

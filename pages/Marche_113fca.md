@@ -64,7 +64,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -212,13 +212,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:17'
+date: '2026-07-01 09:38:17'
 sibling_links:
 - basename: Aosta_Valley_ccb120
   title: Aosta UFOs
@@ -366,8 +366,6 @@ image: /assets/images/Marche_113fca-overview-social.jpg
 ## Why Marche matters in Italian UFO history
 
 Marche sits on the [Adriatic]({{'adriatic/' | relative_url }}) side of central Italy, with a long coastal line, an active port at Ancona, regional airports and military or civil aviation corridors nearby. That geography matters because many of the region’s better-known UFO reports involve lights seen over the sea, objects reported from or near aircraft routes, and sightings that spread across multiple towns in a short period. In official Italian terminology these reports are usually called OVNI, meaning unidentified flying objects; the Italian Air Force says its role is to collect, verify and monitor such reports for flight safety and national security, not to declare them extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span><img src="{{"/assets/images/Marche_113fca-overview.webp" | relative_url }}" alt="Overview image for What Really Happened Over Marche?" loading="eager" decoding="sync" fetchpriority="high">
-The national frame is important. After the 1978 wave of sightings, Prime Minister Giulio Andreotti designated the Italian Air Force as the institutional body responsible for collecting and checking OVNI reports. The current process asks witnesses to file a report through the Carabinieri, after which the Air Force can compare the account with possible human activity, natural phenomena, traffic-control data, defence-air data, meteorology and radar traces where available. If no technical or natural explanation is found, the event may be archived as unidentified; that classification means “not identified”, not “alien craft”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare OVNI</span><span class="citation-popover-snippet">Aeronautica Militare OVNI</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VXnbh8YtYIw" title="UFO a Firenze: il Mistero di Fiorentina-Pistoiese del 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VXnbh8YtYIw" target="_blank" rel="noopener noreferrer">UFO a Firenze: il Mistero di Fiorentina-Pistoiese del 1954</a></p><p class="youtube-embed-meta">Channel: Vanilla Magazine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VXnbh8YtYIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VXnbh8YtYIw">Open on YouTube</a></p></div></div></div>
 
 ## The 1954 wave: many reports, uneven evidence
@@ -391,7 +389,13 @@ The Adriatic strand is more colourful but more difficult to verify. Later region
 
 This is where a careful reader should slow down. The Adriatic narrative contains memorable elements, but many are preserved through retrospective media and UFO-culture retellings rather than through a single transparent official dossier that lays out raw logs, radar tracks, weather data and witness interviews. Rete8’s later Abruzzo-focused account, for example, acknowledges both the fame of the “triangle” and the possibility of exaggeration and fantasy alongside events that remained unexplained locally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rete8.it/cronaca/456221855abruzzo-ufo-in-adriatico-dopo-40-anni-il-mistero-resta/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rete8.it">[Rete8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rete8.it</span><span class="citation-popover-title">Abruzzo: Ufo in Adriatico? Dopo 40 anni il mistero resta</span><span class="citation-popover-snippet">Abruzzo: Ufo in Adriatico? Dopo 40 anni il mistero resta</span></span></span>
 
-For Marche, the 1978 material matters most when it overlaps with aviation or official reporting: Potenza Picena, Ancona and the multi-location 9 March entry are stronger anchors than broad claims about sea lights and columns of water. The maritime stories remain part of the region’s UFO folklore, but the evidence base is thinner and more vulnerable to embellishment.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 4.4K &middot; Uploaded: August 2025 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
+For Marche, the 1978 material matters most when it overlaps with aviation or official reporting: Potenza Picena, Ancona and the multi-location 9 March entry are stronger anchors than broad claims about sea lights and columns of water. The maritime stories remain part of the region’s UFO folklore, but the evidence base is thinner and more vulnerable to embellishment.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 4.4K &middot; Uploaded: August 2025 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the official archive adds after the wave years
 
@@ -419,6 +423,8 @@ The most common plausible explanations for Marche reports are ordinary but varie
 * **Media amplification** during flap years, when one report makes later witnesses more likely to notice and report ambiguous sky events.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6mFlEELdVmE" title="Gli ufo nelle Marche" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6mFlEELdVmE" target="_blank" rel="noopener noreferrer">Gli ufo nelle Marche</a></p><p class="youtube-embed-meta">Channel: Tv Centro Marche</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6mFlEELdVmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6mFlEELdVmE">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What a balanced reader should take away
 

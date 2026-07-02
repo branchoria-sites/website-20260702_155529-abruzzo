@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 18:14:55'
+date: '2026-06-30 18:14:55'
 parent_title: Emilia Romagna UFOs
 parent_permalink: /what-really-happened-in-emilia/
 parent_nav_short_title: Emilia Romagna UFOs
@@ -291,7 +291,10 @@ image: /assets/images/Emilia-Romagna_e1c904_romagna_coast_sighti_b313a7-overview
 ## Introduction
 
 Rimini and Riccione produce UFO stories less because they are uniquely mysterious than because they are unusually good places for ordinary sky phenomena to become ambiguous. The Romagna coast gives witnesses a long, flat sea horizon, crowded beaches, strong summer lighting, night-time tourism, aircraft traffic near Rimini’s airport, and many people looking out over open water with few reliable distance cues. That combination can turn balloons, aircraft, meteors, lanterns, drones, reflected lights or high-altitude objects into reports of strange lights or “spherical” forms.<img src="{{"/assets/images/Emilia-Romagna_e1c904_romagna_coast_sighti_b313a7-overview.webp" | relative_url }}" alt="Overview image for Coast Cases" loading="eager" decoding="sync" fetchpriority="high">
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4kwabufLJ9Y" title="Low-flying UFO filmed over the Adriatic Sea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4kwabufLJ9Y" target="_blank" rel="noopener noreferrer">Low-flying UFO filmed over the Adriatic Sea</a></p><p class="youtube-embed-meta">Channel: Rumble Viral &middot; Views: 222.7K &middot; Uploaded: September 2015 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4kwabufLJ9Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4kwabufLJ9Y">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why the coast makes strange lights harder to judge
 
@@ -316,6 +319,8 @@ On the Romagna coast, the most typical claims fall into a few practical categori
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Rimini and Riccione case patterns
 
 The strongest named coastal material around Rimini and Riccione is not a single classic “landing” case. It is a cluster of beach, sea-horizon and nearby Adriatic reports that show how local UFO stories are built: a witness sees something odd, a local outlet reports it, a specialist or official body may be asked for an opinion, and the story either fades, is reinterpreted, or remains unidentified in a limited technical sense.
@@ -339,7 +344,13 @@ The best explanations for Rimini and Riccione coastal sightings are not one-size
 
 **Lanterns, drones and tourist lighting.** Summer resorts produce artificial sky activity: celebrations, beach events, illuminated objects, drones, advertising lights and reflections. These are not exotic explanations; they are normal features of a dense tourist coastline. They become UFO candidates when the observer lacks context, sees only part of the movement, or records a phone video without enough detail to identify scale.
 
-**Sea-horizon illusions.** The Adriatic horizon can flatten judgement. A low light may appear to hover over the water; a boat light may be mistaken for an aerial object; a distant aircraft may seem to rise from the sea; haze can remove background cues. Clear weather does not eliminate the problem, because a clear horizon can still provide almost no depth information.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/08Of8uTAZBo" title="Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization.</a></p><p class="youtube-embed-meta">Channel: Through Conversations Podcast &middot; Views: 82.5K &middot; Uploaded: June 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=08Of8uTAZBo">Open on YouTube</a></p></div></div></div>
+**Sea-horizon illusions.** The Adriatic horizon can flatten judgement. A low light may appear to hover over the water; a boat light may be mistaken for an aerial object; a distant aircraft may seem to rise from the sea; haze can remove background cues. Clear weather does not eliminate the problem, because a clear horizon can still provide almost no depth information.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/08Of8uTAZBo" title="Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization.</a></p><p class="youtube-embed-meta">Channel: Through Conversations Podcast &middot; Views: 82.5K &middot; Uploaded: June 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=08Of8uTAZBo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read an “unidentified” coastal case
 

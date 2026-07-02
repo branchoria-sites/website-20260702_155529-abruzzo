@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:32'
+date: '2026-07-01 09:38:32'
 parent_title: Apulia UFOs
 parent_permalink: /what-really-happened-in-apulias-ufo/
 parent_nav_short_title: Apulia UFOs
@@ -312,8 +312,6 @@ The Conversano report has several features that support the meteor or bolide rea
 * **Straight descending path:** a single, direct downward-looking trajectory is a common witness description for bright atmospheric entries, although perspective can make the path look steeper than it really is.
 * **Regional visibility:** reports across Apulia, Basilicata and Calabria make sense for a high-altitude event.
 * **Fire-red luminosity:** colour descriptions vary with brightness, atmospheric effects and fragmentation, but “fire-red” is compatible with a bright burning object rather than a structured craft.
-* **No known flight or radiosonde match:** the Air Force could not connect the event to known aircraft or weather-balloon activity, leaving a natural atmospheric entry as the more plausible non-aircraft category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2022/11/Avvistamenti_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-title">Aeronautica Militare STATO MAGGIORE DELL’AERONAUTICA</span><span class="citation-popover-snippet">Aeronautica Militare STATO MAGGIORE DELL’AERONAUTICA</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5bYAjCMcwM" title="How To Recognize Space Rocks vs Satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5bYAjCMcwM" target="_blank" rel="noopener noreferrer">How To Recognize Space Rocks vs Satellites</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 96.0K &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5bYAjCMcwM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5bYAjCMcwM">Open on YouTube</a></p></div></div></div>
 
 ## Why it stayed in the UFO record
@@ -329,7 +327,13 @@ The strength of the Conversano report lies in its geography. A single witness se
 
 That broad witness footprint helps explain why the case entered both local news and the Air Force’s 2009 annual list. La Gazzetta del Mezzogiorno described the fireball as visible from Salento to the Metaponto area and Calabria, while the official table placed Conversano within a wider set of reports from Apulia, Basilicata and Calabria.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lagazzettadelmezzogiorno.it/news/notizie-nascoste/108990/segnalazioni-a-migliaia-la-grossa-palla-di-fuoco-e-stata-avvistata-dal-salento-al-metapontino-e-perfinoin-calabria.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagazzettadelmezzogiorno.it">[lagazzettadelmezzogiorno.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagazzettadelmezzogiorno.it</span><span class="citation-popover-snippet">Open source on lagazzettadelmezzogiorno.it.</span></span></span>
 
-It also helps separate the Conversano event from some more ambiguous Apulian UFO reports. A slow cluster of orange lights over one district may invite explanations such as lanterns or aircraft in formation. A fast, fire-red, descending, region-wide object is a different case family: the first checks should be astronomical, orbital and atmospheric.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fFpL36n68eY" title="July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry Over California (Warning: Profanity)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer">July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry Over California (Warning: Profanity)</a></p><p class="youtube-embed-meta">Channel: Lonely Speck &middot; Views: 361.2K &middot; Uploaded: July 2016 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fFpL36n68eY">Open on YouTube</a></p></div></div></div>
+It also helps separate the Conversano event from some more ambiguous Apulian UFO reports. A slow cluster of orange lights over one district may invite explanations such as lanterns or aircraft in formation. A fast, fire-red, descending, region-wide object is a different case family: the first checks should be astronomical, orbital and atmospheric.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fFpL36n68eY" title="July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry Over California (Warning: Profanity)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer">July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry Over California (Warning: Profanity)</a></p><p class="youtube-embed-meta">Channel: Lonely Speck &middot; Views: 361.2K &middot; Uploaded: July 2016 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fFpL36n68eY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Meteor, space debris or something unresolved?
 
@@ -347,6 +351,8 @@ Conversano 2009 is not one of Apulia’s strongest “unknown” cases if that m
 It also helps readers understand why Apulia’s UFO record contains different kinds of uncertainty. Some cases remain unclear because witnesses saw only a brief light. Some are likely explainable by aircraft, lanterns, satellites or atmospheric effects. Conversano belongs to the fireball group: a striking event whose very strangeness to casual observers is part of what makes the meteor explanation plausible.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8gcWeLGNLgA" title="Meteor Over Utah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8gcWeLGNLgA" target="_blank" rel="noopener noreferrer">Meteor Over Utah</a></p><p class="youtube-embed-meta">Channel: Clayton Grace &middot; Views: 83.3K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8gcWeLGNLgA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8gcWeLGNLgA">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Best assessment
 

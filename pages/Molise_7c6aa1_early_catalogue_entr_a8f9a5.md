@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:22'
+date: '2026-07-01 09:38:22'
 parent_title: Molise UFOs
 parent_permalink: /what-really-happened-in-molises-ufo/
 parent_nav_short_title: Molise UFOs
@@ -306,7 +306,13 @@ The San Martino in Pensilis row matters because of its date. April 1948 is very 
 
 It is also the row that most tempts over-interpretation. The “AT-EN” code looks more substantial than a distant light because CUN’s own code list defines “AT” as a UFO on the ground or stationary at one metre or less, and “EN” as the presence of an animated entity with or without a UFO. In ordinary language, that sounds like an alleged close encounter. But the public table does not show what the witness actually claimed, whether the report was contemporary, or whether it came from later collection. A good Molise history should therefore present San Martino in Pensilis as an early and potentially interesting lead, not as a proven landmark case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibs.it/pdf/9788834432259.pdf?srsltid=AfmBOoqY0-pG5B1qAp3NH4vOOU5uscuLL5N5ZTyonbg7K97bm-BWFSHM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibs.it">[IBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibs.it</span><span class="citation-popover-snippet">Open source on ibs.it.</span></span></span>
 
-That distinction matters because catalogue compression can change how a case feels. A row with a striking code may be a shorthand for a fuller file, but it may also hide uncertainty, hearsay, missing context or later reinterpretation. The responsible question is not “Does this row prove a landing in Molise?” but “Can the underlying source be recovered, and does it contain enough detail to test ordinary explanations?” Until that happens, the 1948 entry is most valuable as a signpost for archive work.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LLnVXIzsFt8" title="Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer">Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LLnVXIzsFt8">Open on YouTube</a></p></div></div></div>
+That distinction matters because catalogue compression can change how a case feels. A row with a striking code may be a shorthand for a fuller file, but it may also hide uncertainty, hearsay, missing context or later reinterpretation. The responsible question is not “Does this row prove a landing in Molise?” but “Can the underlying source be recovered, and does it contain enough detail to test ordinary explanations?” Until that happens, the 1948 entry is most valuable as a signpost for archive work.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LLnVXIzsFt8" title="Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer">Roberto Pinotti on the 1933 Magenta Crash and the History of UAP in Italy</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LLnVXIzsFt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LLnVXIzsFt8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Isernia and the 1954 wave
 
@@ -323,7 +329,13 @@ Agnone, listed for the evening of 17 May 1957, is less famous than San Martino i
 
 That still does not create a “flap” in Molise. A flap normally implies a concentrated burst of reports over a short period, often with multiple witnesses, press attention and repeated local discussion. The early Molise rows are too sparse for that. What Agnone adds is continuity: by the late 1950s, Molise-related places were still appearing in Italian UFO case lists. For a regional history, this is enough to show that later Molise sightings did not arise from nowhere, but not enough to argue for a persistent hotspot.
 
-Agnone also illustrates why small-region UFO history depends heavily on catalogues. In places without a famous airport incident, military chase, radar file or heavily reported local episode, early UFO memory often survives as a database entry rather than a story. That is useful, but fragile. A catalogue can preserve a lead that might otherwise vanish; it can also detach a report from the witnesses, newspapers and investigators that would allow readers to judge it properly.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0wJnRIHSuCA" title="The Day UFOs 👽 STOPPED a Football Match (Fiorentina 1954)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0wJnRIHSuCA" target="_blank" rel="noopener noreferrer">The Day UFOs 👽 STOPPED a Football Match (Fiorentina 1954)</a></p><p class="youtube-embed-meta">Channel: Baller IQ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0wJnRIHSuCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0wJnRIHSuCA">Open on YouTube</a></p></div></div></div>
+Agnone also illustrates why small-region UFO history depends heavily on catalogues. In places without a famous airport incident, military chase, radar file or heavily reported local episode, early UFO memory often survives as a database entry rather than a story. That is useful, but fragile. A catalogue can preserve a lead that might otherwise vanish; it can also detach a report from the witnesses, newspapers and investigators that would allow readers to judge it properly.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0wJnRIHSuCA" title="The Day UFOs 👽 STOPPED a Football Match (Fiorentina 1954)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0wJnRIHSuCA" target="_blank" rel="noopener noreferrer">The Day UFOs 👽 STOPPED a Football Match (Fiorentina 1954)</a></p><p class="youtube-embed-meta">Channel: Baller IQ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0wJnRIHSuCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0wJnRIHSuCA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why catalogue rows need caution
 
@@ -340,7 +352,13 @@ The early Molise entries prove three useful things. First, Molise belongs in the
 
 They do not prove that Molise had an early confirmed extraordinary event. They do not prove a landing at San Martino in Pensilis, a genuinely anomalous high-altitude object over Isernia, or an unexplained craft over Agnone. They also do not prove a coherent regional wave. The public evidence available from the catalogue is too compressed for those claims.
 
-A fair summary is that the early entries give Molise a paper trail, not a solved mystery. They are valuable because they mark where deeper archival work should begin: local newspapers around April 1948, December 1954 and May 1957; older UFO journals; private CUN or related files; and any surviving witness or family testimony. Until those layers are found, the early Molise record should be treated as historically real as a catalogue tradition, but unresolved as evidence about what was actually in the sky.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkU014sQLMY" title="Roberto Pinotti presidente del CUN e dell&#x27;ICER ci parla di ufologia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkU014sQLMY" target="_blank" rel="noopener noreferrer">Roberto Pinotti presidente del CUN e dell&#x27;ICER ci parla di ufologia</a></p><p class="youtube-embed-meta">Channel: cun network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkU014sQLMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkU014sQLMY">Open on YouTube</a></p></div></div></div>
+A fair summary is that the early entries give Molise a paper trail, not a solved mystery. They are valuable because they mark where deeper archival work should begin: local newspapers around April 1948, December 1954 and May 1957; older UFO journals; private CUN or related files; and any surviving witness or family testimony. Until those layers are found, the early Molise record should be treated as historically real as a catalogue tradition, but unresolved as evidence about what was actually in the sky.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkU014sQLMY" title="Roberto Pinotti presidente del CUN e dell&#x27;ICER ci parla di ufologia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkU014sQLMY" target="_blank" rel="noopener noreferrer">Roberto Pinotti presidente del CUN e dell&#x27;ICER ci parla di ufologia</a></p><p class="youtube-embed-meta">Channel: cun network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkU014sQLMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkU014sQLMY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Molise’s early UFO history today
 

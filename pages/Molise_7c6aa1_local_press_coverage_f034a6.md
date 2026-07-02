@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:22'
+date: '2026-07-01 09:38:22'
 parent_title: Molise UFOs
 parent_permalink: /what-really-happened-in-molises-ufo/
 parent_nav_short_title: Molise UFOs
@@ -324,7 +324,13 @@ That does not mean official files are perfect or that newspaper reports are usel
 
 The difference also explains why national figures can look stronger than local anecdotes. Reporting on Air Force files noted 56 Italian OVNI reports from 2010 to 2013, including 22 in 2010, 17 in 2011, 10 in 2012 and seven in 2013. Those were cases that entered a more formal channel, usually through a Carabinieri report and a detailed form, not merely stories published online. The same report stressed that “unidentified” does not mean alien; it means a technical or natural explanation was not found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ilsecoloxix.it/italia/2014/03/01/news/ufo-56-avvistamenti-dal-2010-al-2013-1.32044483" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilsecoloxix.it">[Il Secolo XIX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilsecoloxix.it</span><span class="citation-popover-title">ufo 56 avvistamenti dal 2010 al 2013 1.32044483</span><span class="citation-popover-snippet">ufo 56 avvistamenti dal 2010 al 2013 1.32044483</span></span></span>
 
-For Molise readers, that distinction is a useful filter. A local article may be the beginning of an investigation, but it should not be treated as the end of one.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rMh88AlbpGU" title="UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer">UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo</a></p><p class="youtube-embed-meta">Channel: Gruppo Tv7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rMh88AlbpGU">Open on YouTube</a></p></div></div></div>
+For Molise readers, that distinction is a useful filter. A local article may be the beginning of an investigation, but it should not be treated as the end of one.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rMh88AlbpGU" title="UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer">UFO 2013 Campobasso NUOVO avvistamento Alieni tra noi inviato GRAV TV7 Vertigo</a></p><p class="youtube-embed-meta">Channel: Gruppo Tv7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rMh88AlbpGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rMh88AlbpGU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Guglionesi Effect
 
@@ -332,7 +338,13 @@ Guglionesi shows how quickly a Molise UFO story can move from local curiosity to
 
 That episode matters less as proof of extraordinary objects than as a media case study. A small town becomes the setting; a national television programme adds attention; local journalism reflects both fascination and scepticism; a public figure’s reaction supplies a counterweight. The result is a UFO story that belongs as much to local culture as to aerial observation.
 
-This is a recurring feature of Molise’s modern UFO record. Stories become memorable when they attach to recognisable places: the sanctuary at Castelpetroso, the seafront at Termoli, the road near Roccaravindola, the town of Guglionesi. Local place names make the reports vivid and searchable. They also allow residents to compare memories, photographs and rumours. But place-based familiarity can make a weak case feel stronger than it is. “It happened here” is powerful socially; it is not the same as “it was investigated and remained unexplained”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0aUmG7e6O9g" title="Ufo in Molise - 27/07/2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer">Ufo in Molise - 27/07/2014</a></p><p class="youtube-embed-meta">Channel: TeleRegione TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0aUmG7e6O9g">Open on YouTube</a></p></div></div></div>
+This is a recurring feature of Molise’s modern UFO record. Stories become memorable when they attach to recognisable places: the sanctuary at Castelpetroso, the seafront at Termoli, the road near Roccaravindola, the town of Guglionesi. Local place names make the reports vivid and searchable. They also allow residents to compare memories, photographs and rumours. But place-based familiarity can make a weak case feel stronger than it is. “It happened here” is powerful socially; it is not the same as “it was investigated and remained unexplained”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0aUmG7e6O9g" title="Ufo in Molise - 27/07/2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer">Ufo in Molise - 27/07/2014</a></p><p class="youtube-embed-meta">Channel: TeleRegione TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0aUmG7e6O9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0aUmG7e6O9g">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Local Press as Archive, Amplifier and Filter
 

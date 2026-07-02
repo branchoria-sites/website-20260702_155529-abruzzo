@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /veneto-862600-index/
 description: Focused pages that expand on What Really Happened in Veneto's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Veneto_862600
 parent_title: What Really Happened in Veneto's UFO Files?

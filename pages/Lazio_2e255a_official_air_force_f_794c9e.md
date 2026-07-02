@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:59:16'
+date: '2026-06-30 19:59:16'
 parent_title: Lazio UFOs
 parent_permalink: /what-really-happened-in-lazios-ufo-files/
 parent_nav_short_title: Lazio UFOs
@@ -308,7 +308,13 @@ The wording in the older dossiers reinforces that caution. Many entries end with
 
 Lazio also shows how a case can remain officially unidentified even when a possible ordinary explanation is visible in the file. In the Fiumicino entry of 6 January 1997, Air Force personnel reported a green luminous trail; the file says no correlation emerged with known activity or phenomena, except for a simultaneous presumed firework rocket launched from a beach on the Roman coast, yet the event was still catalogued as an unidentified flying object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-That example is important because it prevents two opposite errors. Sceptics should not dismiss the files as worthless, because they do contain official checks and useful detail. Believers should not inflate them into proof, because even the Air Force’s own wording can leave a case unresolved despite a plausible lead.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U2teFYr-o2s" title="Declassified: The Air Force&#x27;s Secret UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer">Declassified: The Air Force&#x27;s Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 362.8K &middot; Uploaded: October 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U2teFYr-o2s">Open on YouTube</a></p></div></div></div>
+That example is important because it prevents two opposite errors. Sceptics should not dismiss the files as worthless, because they do contain official checks and useful detail. Believers should not inflate them into proof, because even the Air Force’s own wording can leave a case unresolved despite a plausible lead.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U2teFYr-o2s" title="Declassified: The Air Force&#x27;s Secret UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer">Declassified: The Air Force&#x27;s Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 362.8K &middot; Uploaded: October 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U2teFYr-o2s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Lazio’s place in the post-1990 record
 
@@ -329,7 +335,13 @@ Other entries are more interesting because of the witness category. Ponza, on 2 
 
 The 1997 cluster is especially useful for understanding the record’s character. Within a few days, the archive lists Fiumicino, Arlena di Castro, Rome and Maenza. The descriptions vary from a green luminous trail to a white luminous sphere with a trail, a blue circular object wrapped in a beam of light, and a spherical object seen at low altitude. The sources also vary: Air Force personnel in the Fiumicino case, private citizens in the others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span>
 
-The point is not that these entries all describe the same phenomenon. They probably do not. The point is that the official archive turns scattered sightings into comparable records. It lets a reader see what was claimed, who reported it, how sparse many entries are, and where the Air Force stopped short of an explanation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZS_BB0IT2Jo" title="What Really Happened in Rome: The Vatican, AI, UAPs &amp; Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZS_BB0IT2Jo" target="_blank" rel="noopener noreferrer">What Really Happened in Rome: The Vatican, AI, UAPs &amp; Disclosure</a></p><p class="youtube-embed-meta">Channel: Gavin Wince</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZS_BB0IT2Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZS_BB0IT2Jo">Open on YouTube</a></p></div></div></div>
+The point is not that these entries all describe the same phenomenon. They probably do not. The point is that the official archive turns scattered sightings into comparable records. It lets a reader see what was claimed, who reported it, how sparse many entries are, and where the Air Force stopped short of an explanation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZS_BB0IT2Jo" title="What Really Happened in Rome: The Vatican, AI, UAPs &amp; Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZS_BB0IT2Jo" target="_blank" rel="noopener noreferrer">What Really Happened in Rome: The Vatican, AI, UAPs &amp; Disclosure</a></p><p class="youtube-embed-meta">Channel: Gavin Wince</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZS_BB0IT2Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZS_BB0IT2Jo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why aviation and military links matter, but do not settle the cases
 
@@ -350,7 +362,13 @@ Second, “unidentified” is not the same as “unidentifiable”. It may mean 
 
 Third, the files themselves sometimes hint at ordinary [explanations]({{'explanations-31cadb/' | relative_url }}) without closing the case. The Fiumicino 1997 entry is the clearest Lazio example: a presumed coastal firework rocket is mentioned, but the case remains catalogued as unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeronautica.difesa.it/wp-content/uploads/2023/05/Archivio_OVNI_periodo1991-2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[Aeronautica Militare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Aeronautica Militare</span></span></span> That does not make the entry useless; it shows how cautious or incomplete the classification process could be.
 
-Fourth, regional counts can be distorted by population and reporting behaviour. Rome gives Lazio a huge witness pool. Military and aviation infrastructure may increase both unusual sky activity and the likelihood that unusual sightings get reported formally. High numbers in the archive therefore do not automatically mean Lazio had more genuinely anomalous objects than other regions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
+Fourth, regional counts can be distorted by population and reporting behaviour. Rome gives Lazio a huge witness pool. Military and aviation infrastructure may increase both unusual sky activity and the likelihood that unusual sightings get reported formally. High numbers in the archive therefore do not automatically mean Lazio had more genuinely anomalous objects than other regions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2VqVPL5DH4" title="Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer">Ufo in Italia, 56 avvistamenti dell&#x27;Aeronautica in quattro anni</a></p><p class="youtube-embed-meta">Channel: Adnkronos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2VqVPL5DH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2VqVPL5DH4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How the files change Lazio’s UFO history
 

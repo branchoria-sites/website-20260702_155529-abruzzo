@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /campania-5acc6a-index/
 description: Focused pages that expand on Why Campania Keeps Appearing in UFO Stories.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Campania_5acc6a
 parent_title: Why Campania Keeps Appearing in UFO Stories

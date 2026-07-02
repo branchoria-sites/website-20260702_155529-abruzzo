@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 19:59:13'
+date: '2026-06-30 19:59:13'
 parent_title: Friuli UFOs
 parent_permalink: /friuli-venezia-giulia/
 parent_nav_short_title: Friuli UFOs
@@ -312,8 +312,6 @@ That pattern continued in later coverage. In 2014, Messaggero Veneto described g
 
 This is how a local UFO memory forms: the story is not only the light in the sky, but the public evening, the named investigator, the room full of curious residents, the photographs projected for discussion, and the newspaper’s balancing act between intrigue and doubt. The result is durable, but not necessarily decisive.
 
-A 2020 Messaggero Veneto report from the Carnia mountains offers an even clearer example of how evidence can stretch. A hiker photographed a dark “jellyfish-like” object in only one of several mobile-phone images taken seconds apart near Forcella Nuviernulis; neither he nor seven companions noticed anything at the time. Chiumiento said analysis aimed to exclude aircraft, satellites, paragliders, birds, stars and other causes, and suggested the image supported the possibility of objects invisible to the naked eye but visible to a camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.messaggeroveneto.it/cronaca/nella-foto-dei-cieli-friulani-un-oggetto-misterioso-lesperto-forse-un-ufo-vlxxnb5t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: messaggeroveneto.it">[Messaggero Veneto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">messaggeroveneto.it</span><span class="citation-popover-title">Messaggero Veneto Nella foto dei cieli friulani un oggetto misterioso. L’esperto: «Forse un ufo» &#124; Messaggero Veneto</span><span class="citation-popover-snippet">Messaggero Veneto Nella foto dei cieli friulani un oggetto misterioso. L’esperto: «Forse un ufo» &#124; Messaggero Veneto</span></span></span> For a cautious reader, the same details point in another direction: a single-frame anomaly, unseen by witnesses, is exactly the sort of evidence that can be affected by camera artefacts, small nearby objects, motion blur or later interpretation.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 ## How press stories shaped hotspots
@@ -342,7 +340,13 @@ The most useful local coverage usually adds four things:<div class="content-enha
 
 The 2012 Messaggero Veneto article on the Carabinieri UFO reporting procedure is especially important because it bridges local curiosity and official process. It explained that reports reaching Carabinieri stations were recorded on a specific form and forwarded to the Air Force’s security department, with detailed questions about date, place, eyesight or viewing equipment, shape, colour, movement, heat, smell, noise, disappearance, traces, trajectory and weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.messaggeroveneto.it/cronaca/i-carabinieri-adottano-il-protocollo-per-gli-ufo-qjn8chiu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: messaggeroveneto.it">[Messaggero Veneto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">messaggeroveneto.it</span><span class="citation-popover-snippet">Open source on messaggeroveneto.it.</span></span></span>
 
-This kind of article helps readers understand why “officially reported” does not mean “officially confirmed”. The system exists to record and assess reports. It is designed to ask better questions, not to validate every claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n7FS9BXBa8E" title="UFO Encounters In Europe | Never-Seen-Before Evidence!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer">UFO Encounters In Europe | Never-Seen-Before Evidence!</a></p><p class="youtube-embed-meta">Channel: Show Me the World &middot; Views: 70.1K &middot; Uploaded: May 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n7FS9BXBa8E">Open on YouTube</a></p></div></div></div>
+This kind of article helps readers understand why “officially reported” does not mean “officially confirmed”. The system exists to record and assess reports. It is designed to ask better questions, not to validate every claim.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n7FS9BXBa8E" title="UFO Encounters In Europe | Never-Seen-Before Evidence!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer">UFO Encounters In Europe | Never-Seen-Before Evidence!</a></p><p class="youtube-embed-meta">Channel: Show Me the World &middot; Views: 70.1K &middot; Uploaded: May 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n7FS9BXBa8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n7FS9BXBa8E">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Where the press record is strongest
 
@@ -363,7 +367,13 @@ The Carnia mountain photograph reported in 2020 is a good example of a weak-to-i
 
 The CUN regional list also shows why careful sorting is essential. Some entries are inherently dramatic, such as humanoid encounters, car-interference stories and alleged abductions; others are ordinary light reports; some are marked as probably photographic dirt, reflectors, searchlights or meteorites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/friuli.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico Nazionale</span></span></span> A newspaper page that repeats all of these with equal intensity would distort the record. A good regional history should separate unresolved cases from weakly sourced, culturally interesting, probably explained or debunked ones.
 
-This is where local newspapers are both indispensable and risky. They preserve the first public shape of a claim, but they can also freeze early uncertainty into lasting legend. Once a headline has linked a place with UFOs, later readers may remember the place more than the evidence.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
+This is where local newspapers are both indispensable and risky. They preserve the first public shape of a claim, but they can also freeze early uncertainty into lasting legend. Once a headline has linked a place with UFOs, later readers may remember the place more than the evidence.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Friuli’s UFO press memory today
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /marche-113fca-index/
 description: Focused pages that expand on What Really Happened Over Marche?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Marche_113fca
 parent_title: What Really Happened Over Marche?

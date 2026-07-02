@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:34'
+date: '2026-07-01 09:38:34'
 parent_title: Sardinia UFOs
 parent_permalink: /what-makes-sardinias-ufo-record-so/
 parent_nav_short_title: Sardinia UFOs
@@ -306,8 +306,6 @@ Weak reports matter because they shape public memory. A weak case can be repeate
 
 The 1954 Sardinian cluster is a good example. It belongs to a wider Italian and European wave, but the individual Sardinian entries now available in public summaries are very compressed. Villamassargia has two same-night reports only fifteen minutes apart, with the catalogue itself suggesting they probably refer to the same phenomenon. Sassari has the striking phrase “disc with windows”, but no public technical file is attached to the short entry. Tavolara has a photograph, but the catalogue flags a possible weather-balloon explanation. These are not worthless reports; they are weakly preserved reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/sardegna.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico NazionaleSardegna... tavolara (SS). Palla volante argentea fotografata. Forse e&#x27; un pallone sonda. 1958, 15 agosto...</span></span></span>
 
-The 1961 Campeda report shows a different kind of weakness: the missing-evidence problem. According to the CUN list, a RAI cameraman filmed an object from which a smaller object emerged and later rejoined the main object. The reported film would be the key evidence, but the same summary says the witness did not get to view it and was told the negative had only been affected by electrical discharges. Without the film, laboratory notes, broadcast records or a contemporary investigation file, the case remains intriguing but evidentially fragile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.centroufologiconazionale.net/avvistamenti/sardegna.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centroufologiconazionale.net">[Centro Ufologico Nazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centroufologiconazionale.net</span><span class="citation-popover-snippet">Centro Ufologico NazionaleSardegna... tavolara (SS). Palla volante argentea fotografata. Forse e&#x27; un pallone sonda. 1958, 15 agosto...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FvMcK6YQNTM" title="More UFO Crash Information Just Dropped..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FvMcK6YQNTM" target="_blank" rel="noopener noreferrer">More UFO Crash Information Just Dropped...</a></p><p class="youtube-embed-meta">Channel: SomeOrdinaryGamers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FvMcK6YQNTM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FvMcK6YQNTM">Open on YouTube</a></p></div></div></div>
 
 ## The strongest ordinary explanations
@@ -326,8 +324,6 @@ Debunking does not mean sneering at witnesses. In Sardinia, it often means match
 The clearest kind of debunked case is one where the source is identified. The 2013 Medio Campidano case is useful because it shows how quickly a local mystery can collapse once a mundane actor comes forward. Reports from Sanluri, Siddi and Pauli Arbarei described “moving stars” and lights making odd movements in the night sky. The explanation, according to the later report, was an illuminated model aircraft fitted with LEDs and flown in the countryside by a local hobbyist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.blastingnews.com/tempo-libero/2013/08/medio-campidano-avvistati-ufo-da-persone-del-posto-svelato-il-mistero-0025553.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: it.blastingnews.com">[Blasting News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">it.blastingnews.com</span><span class="citation-popover-title">Blasting News Medio Campidano: avvistati UFO da persone del posto</span><span class="citation-popover-snippet">Blasting News Medio Campidano: avvistati UFO da persone del posto</span></span></span>
 
 This case is more valuable as a lesson than as a mystery. It shows why zigzag motion is not enough to establish anything extraordinary. Small nearby objects can appear larger and farther away than they are; LEDs can create unusual colour effects; and a model aircraft at 150 to 200 metres can look like an object performing impossible manoeuvres if the observer assumes it is much higher. The witnesses were not necessarily dishonest. Their distance estimate and object identification were wrong.
-
-The Starlink cases changed the Sardinian record in a different way. They are not isolated hoaxes or one-off mistakes; they are a new technological background condition. A line of lights over Sardinia in the 1990s would have demanded one set of checks. The same line of lights after mass satellite deployments demands another. The 2023 island-wide reports show that even a large number of witnesses across several towns can be explained by a single predictable orbital event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unionesarda.it/news-sardegna/i-satelliti-starlink-solcano-il-cielo-della-sardegna-ubt1kmye" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unionesarda.it">[L&#x27;Unione Sarda.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unionesarda.it</span><span class="citation-popover-title">L&#x27;Unione Sarda.it I satelliti Starlink solcano il cielo della Sardegna</span><span class="citation-popover-snippet">L&#x27;Unione Sarda.it I satelliti Starlink solcano il cielo della Sardegna</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HEWhhyrujGI" title="La VERA STORIA dell&#x27;UFO di MUSSOLINI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer">La VERA STORIA dell&#x27;UFO di MUSSOLINI</a></p><p class="youtube-embed-meta">Channel: AstroViktor &middot; Views: 52.0K &middot; Uploaded: October 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HEWhhyrujGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HEWhhyrujGI">Open on YouTube</a></p></div></div></div>
 

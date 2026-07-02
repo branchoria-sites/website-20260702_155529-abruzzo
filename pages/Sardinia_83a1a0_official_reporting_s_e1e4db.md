@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-07-01 09:38:36'
+date: '2026-07-01 09:38:36'
 parent_title: Sardinia UFOs
 parent_permalink: /what-makes-sardinias-ufo-record-so/
 parent_nav_short_title: Sardinia UFOs
@@ -320,7 +320,13 @@ That does not explain every Sardinian report, but it changes the standard of int
 
 The aviation context remains current. The International Flight Training School, a partnership between Leonardo and the Italian Air Force, is located at the Italian Air Force base at Decimomannu near Cagliari and is built around advanced military pilot training. Leonardo describes the school as using M-346 aircraft, simulators, training devices and thousands of flight hours per year. For modern Sardinian UFO reports, that kind of activity is part of the background against which unusual aerial observations have to be checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aeronautics.leonardo.com/en/international-flight-training-school" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautics.leonardo.com">[Leonardo Aeronautics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautics.leonardo.com</span><span class="citation-popover-title">Aeronautics IFTS</span><span class="citation-popover-snippet">Aeronautics IFTS</span></span></span>
 
-This is why a careful Sardinian UFO page should avoid two opposite mistakes. The first is to treat every report near a military area as a secret aircraft or weapons test. The second is to ignore the military and aviation environment altogether. Official case handling sits between those extremes: it asks whether the observation can be matched to known human or natural activity, and only leaves it unidentified when the available evidence does not support a firmer conclusion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xUTbiWF_vqI" title="Ufo: 445 avvistamenti ufficiali in Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xUTbiWF_vqI" target="_blank" rel="noopener noreferrer">Ufo: 445 avvistamenti ufficiali in Italia</a></p><p class="youtube-embed-meta">Channel: QuotidianoNazionale</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xUTbiWF_vqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xUTbiWF_vqI">Open on YouTube</a></p></div></div></div>
+This is why a careful Sardinian UFO page should avoid two opposite mistakes. The first is to treat every report near a military area as a secret aircraft or weapons test. The second is to ignore the military and aviation environment altogether. Official case handling sits between those extremes: it asks whether the observation can be matched to known human or natural activity, and only leaves it unidentified when the available evidence does not support a firmer conclusion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xUTbiWF_vqI" title="Ufo: 445 avvistamenti ufficiali in Italia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xUTbiWF_vqI" target="_blank" rel="noopener noreferrer">Ufo: 445 avvistamenti ufficiali in Italia</a></p><p class="youtube-embed-meta">Channel: QuotidianoNazionale</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xUTbiWF_vqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xUTbiWF_vqI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What local reports show before they become official cases
 
@@ -349,7 +355,13 @@ This mismatch appears clearly in national reporting. Rai News, summarising Centr
 
 By contrast, summaries of Air Force data for 2001–2019 reported a far smaller official total. Informare, citing national data, reported 140 Air Force-recorded sightings in Italy over that period and said there were no such official sightings in Valle d’Aosta, Umbria, Molise or Sardinia. That should be read carefully: it does not mean nobody in Sardinia saw or reported strange lights during those years. It means Sardinia did not appear in that particular official Air Force count as summarised in the press.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://informareonline.com/diamo-i-numeri-dati-e-notizie-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informareonline.com">[Informareonline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informareonline.com</span><span class="citation-popover-title">Diamo i numeri!</span><span class="citation-popover-snippet">Diamo i numeri!</span></span></span>
 
-The reader-facing takeaway is simple. If a Sardinian sighting appears in CUN, CISU, local media or a local archive, it may be historically interesting. If it appears in the Air Force record, it has entered a formal technical channel. Neither status proves an extraordinary origin. The strongest cases are those where several streams overlap: prompt witness reporting, official documentation, independent corroboration, technical checks, clear timings and preserved primary material.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2oq2hvJud9k" title="US government releases report on ‘unexplained aerial phenomena’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2oq2hvJud9k" target="_blank" rel="noopener noreferrer">US government releases report on ‘unexplained aerial phenomena’</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2oq2hvJud9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2oq2hvJud9k">Open on YouTube</a></p></div></div></div>
+The reader-facing takeaway is simple. If a Sardinian sighting appears in CUN, CISU, local media or a local archive, it may be historically interesting. If it appears in the Air Force record, it has entered a formal technical channel. Neither status proves an extraordinary origin. The strongest cases are those where several streams overlap: prompt witness reporting, official documentation, independent corroboration, technical checks, clear timings and preserved primary material.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2oq2hvJud9k" title="US government releases report on ‘unexplained aerial phenomena’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2oq2hvJud9k" target="_blank" rel="noopener noreferrer">US government releases report on ‘unexplained aerial phenomena’</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2oq2hvJud9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2oq2hvJud9k">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What “official” does and does not mean
 
@@ -359,7 +371,13 @@ The Air Force’s own description points to three possible outcomes. A sighting 
 
 For Sardinia, this matters because the island produces many reports that are plausible but hard to verify after the fact. A short light seen from a road near Iglesias, a formation over Cagliari’s port, or a glow beyond a coastal headland may be sincere and still unresolvable. The witness may be honest; the report may be prompt; the object may remain unidentified. None of that removes the need to consider drones, aircraft, satellites, flares, planets, meteors, reflections, military exercises and camera limitations.
 
-The best way to read official Sardinian UFO material is therefore neither dismissive nor credulous. The official process is meaningful because it preserves a route into technical checks and public records. It is limited because most sightings are brief, under-instrumented and vulnerable to ordinary misperception. Its value lies in narrowing claims, not inflating them.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jILhBijR3FQ" title="Aeronautica Militare e Protezione Civile si esercitano in Sardegna - Video News Aeronautica Militare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jILhBijR3FQ" target="_blank" rel="noopener noreferrer">Aeronautica Militare e Protezione Civile si esercitano in Sardegna - Video News Aeronautica Militare</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jILhBijR3FQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jILhBijR3FQ">Open on YouTube</a></p></div></div></div>
+The best way to read official Sardinian UFO material is therefore neither dismissive nor credulous. The official process is meaningful because it preserves a route into technical checks and public records. It is limited because most sightings are brief, under-instrumented and vulnerable to ordinary misperception. Its value lies in narrowing claims, not inflating them.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jILhBijR3FQ" title="Aeronautica Militare e Protezione Civile si esercitano in Sardegna - Video News Aeronautica Militare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jILhBijR3FQ" target="_blank" rel="noopener noreferrer">Aeronautica Militare e Protezione Civile si esercitano in Sardegna - Video News Aeronautica Militare</a></p><p class="youtube-embed-meta">Channel: Aeronautica Militare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jILhBijR3FQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jILhBijR3FQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How a strong Sardinian report would look today
 
