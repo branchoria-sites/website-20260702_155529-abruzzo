@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-in-venetos-ufo/
 
 # Explore Topics in What Really Happened in Veneto's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Veneto's UFO Files?]({{'/what-really-happened-in-venetos-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Veneto's UFO Files?]({{ '/what-really-happened-in-venetos-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [1954 Wave]({{'/1954-wave-0a3198/' | relative_url }})
-- [2016 Reports]({{'/2016-reports/' | relative_url }})
-- [Air Force Files]({{'/air-force-files-372a91/' | relative_url }})
-- [Chioggia]({{'/chioggia/' | relative_url }})
-- [CUN Catalogue]({{'/cun-catalogue/' | relative_url }})
-- [Local Press]({{'/local-press-5131f2/' | relative_url }})
-- [Padua Flaps]({{'/padua-flaps/' | relative_url }})
-- [Treviso 1979]({{'/treviso-1979/' | relative_url }})
-- [False Alarms]({{'/false-alarms/' | relative_url }})
-- [Venice 1988]({{'/venice-1988/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave-0a3198/' | relative_url }})
+- [2016 Reports]({{ '/2016-reports/' | relative_url }})
+- [Air Force Files]({{ '/air-force-files-372a91/' | relative_url }})
+- [Chioggia]({{ '/chioggia/' | relative_url }})
+- [CUN Catalogue]({{ '/cun-catalogue/' | relative_url }})
+- [Local Press]({{ '/local-press-5131f2/' | relative_url }})
+- [Padua Flaps]({{ '/padua-flaps/' | relative_url }})
+- [Treviso 1979]({{ '/treviso-1979/' | relative_url }})
+- [False Alarms]({{ '/false-alarms/' | relative_url }})
+- [Venice 1988]({{ '/venice-1988/' | relative_url }})

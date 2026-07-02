@@ -16,15 +16,15 @@ parent_permalink: /friuli-venezia-giulia/
 
 # Explore Topics in Friuli Venezia Giulia
 
-The following pages expand on the main **[Friuli Venezia Giulia]({{'/friuli-venezia-giulia/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Friuli Venezia Giulia]({{ '/friuli-venezia-giulia/' | relative_url }})** page and cover its key branches in.
 
-- [Air Force Files]({{'/air-force-files-bd5ac5/' | relative_url }})
-- [1999 Planets]({{'/1999-planets/' | relative_url }})
-- [Aviano]({{'/aviano/' | relative_url }})
-- [Campoformido]({{'/campoformido/' | relative_url }})
-- [Chiumiento]({{'/chiumiento/' | relative_url }})
-- [Explanations]({{'/explanations-54fcb5/' | relative_url }})
-- [Press Coverage]({{'/press-coverage/' | relative_url }})
-- [Red Globes]({{'/red-globes/' | relative_url }})
-- [Ronchi 1973]({{'/ronchi-1973/' | relative_url }})
-- [Airport Cases]({{'/airport-cases/' | relative_url }})
+- [Air Force Files]({{ '/air-force-files-bd5ac5/' | relative_url }})
+- [1999 Planets]({{ '/1999-planets/' | relative_url }})
+- [Aviano]({{ '/aviano/' | relative_url }})
+- [Campoformido]({{ '/campoformido/' | relative_url }})
+- [Chiumiento]({{ '/chiumiento/' | relative_url }})
+- [Explanations]({{ '/explanations-54fcb5/' | relative_url }})
+- [Press Coverage]({{ '/press-coverage/' | relative_url }})
+- [Red Globes]({{ '/red-globes/' | relative_url }})
+- [Ronchi 1973]({{ '/ronchi-1973/' | relative_url }})
+- [Airport Cases]({{ '/airport-cases/' | relative_url }})

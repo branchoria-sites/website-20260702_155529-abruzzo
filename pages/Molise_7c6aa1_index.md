@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-in-molises-ufo/
 
 # Explore Topics in What Really Happened in Molise's UFO Record?
 
-The following pages expand on the main **[What Really Happened in Molise's UFO Record?]({{'/what-really-happened-in-molises-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Molise's UFO Record?]({{ '/what-really-happened-in-molises-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Castelpetroso]({{'/castelpetroso/' | relative_url }})
-- [Early Entries]({{'/early-entries/' | relative_url }})
-- [Local Press]({{'/local-press-1ba079/' | relative_url }})
-- [1978 Wave]({{'/1978-wave-71ae69/' | relative_url }})
-- [Hotspots]({{'/hotspots/' | relative_url }})
-- [Monte Mutria]({{'/monte-mutria/' | relative_url }})
-- [Official Route]({{'/official-route/' | relative_url }})
-- [Explanations]({{'/explanations-d7031a/' | relative_url }})
-- [Roccaravindola]({{'/roccaravindola/' | relative_url }})
-- [Termoli Coast]({{'/termoli-coast/' | relative_url }})
+- [Castelpetroso]({{ '/castelpetroso/' | relative_url }})
+- [Early Entries]({{ '/early-entries/' | relative_url }})
+- [Local Press]({{ '/local-press-1ba079/' | relative_url }})
+- [1978 Wave]({{ '/1978-wave-71ae69/' | relative_url }})
+- [Hotspots]({{ '/hotspots/' | relative_url }})
+- [Monte Mutria]({{ '/monte-mutria/' | relative_url }})
+- [Official Route]({{ '/official-route/' | relative_url }})
+- [Explanations]({{ '/explanations-d7031a/' | relative_url }})
+- [Roccaravindola]({{ '/roccaravindola/' | relative_url }})
+- [Termoli Coast]({{ '/termoli-coast/' | relative_url }})

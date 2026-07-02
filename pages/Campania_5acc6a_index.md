@@ -16,15 +16,15 @@ parent_permalink: /why-campania-keeps-appearing-in-ufo/
 
 # Explore Topics in Why Campania Keeps Appearing in UFO Stories
 
-The following pages expand on the main **[Why Campania Keeps Appearing in UFO Stories]({{'/why-campania-keeps-appearing-in-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Campania Keeps Appearing in UFO Stories]({{ '/why-campania-keeps-appearing-in-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [1973 Flight]({{'/1973-flight/' | relative_url }})
-- [Big Picture]({{'/big-picture/' | relative_url }})
-- [Press Archive]({{'/press-archive/' | relative_url }})
-- [Military Lights]({{'/military-lights/' | relative_url }})
-- [1978 Wave]({{'/1978-wave/' | relative_url }})
-- [Air Traffic]({{'/air-traffic/' | relative_url }})
-- [Explanations]({{'/explanations-e21d0c/' | relative_url }})
-- [Pozzuoli]({{'/pozzuoli/' | relative_url }})
-- [Best Cases]({{'/best-cases/' | relative_url }})
-- [Sea Lights]({{'/sea-lights/' | relative_url }})
+- [1973 Flight]({{ '/1973-flight/' | relative_url }})
+- [Big Picture]({{ '/big-picture/' | relative_url }})
+- [Press Archive]({{ '/press-archive/' | relative_url }})
+- [Military Lights]({{ '/military-lights/' | relative_url }})
+- [1978 Wave]({{ '/1978-wave/' | relative_url }})
+- [Air Traffic]({{ '/air-traffic/' | relative_url }})
+- [Explanations]({{ '/explanations-e21d0c/' | relative_url }})
+- [Pozzuoli]({{ '/pozzuoli/' | relative_url }})
+- [Best Cases]({{ '/best-cases/' | relative_url }})
+- [Sea Lights]({{ '/sea-lights/' | relative_url }})

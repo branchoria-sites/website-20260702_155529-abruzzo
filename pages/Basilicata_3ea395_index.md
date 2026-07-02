@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-in-basilicatas-ufo/
 
 # Explore Topics in What Really Happened in Basilicata's UFO...
 
-The following pages expand on the main **[What Really Happened in Basilicata's UFO...]({{'/what-really-happened-in-basilicatas-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Basilicata's UFO...]({{ '/what-really-happened-in-basilicatas-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Acerenza]({{'/acerenza/' | relative_url }})
-- [Explanations]({{'/explanations/' | relative_url }})
-- [2009 Fireball]({{'/2009-fireball/' | relative_url }})
-- [Local Press]({{'/local-press/' | relative_url }})
-- [Matera]({{'/matera/' | relative_url }})
-- [Monticchio]({{'/monticchio/' | relative_url }})
-- [Official Records]({{'/official-records/' | relative_url }})
-- [Potenza]({{'/potenza/' | relative_url }})
-- [Reading Claims]({{'/reading-claims/' | relative_url }})
-- [Sightings Map]({{'/sightings-map/' | relative_url }})
+- [Acerenza]({{ '/acerenza/' | relative_url }})
+- [Explanations]({{ '/explanations/' | relative_url }})
+- [2009 Fireball]({{ '/2009-fireball/' | relative_url }})
+- [Local Press]({{ '/local-press/' | relative_url }})
+- [Matera]({{ '/matera/' | relative_url }})
+- [Monticchio]({{ '/monticchio/' | relative_url }})
+- [Official Records]({{ '/official-records/' | relative_url }})
+- [Potenza]({{ '/potenza/' | relative_url }})
+- [Reading Claims]({{ '/reading-claims/' | relative_url }})
+- [Sightings Map]({{ '/sightings-map/' | relative_url }})

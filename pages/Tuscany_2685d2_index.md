@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-in-tuscanys-ufo/
 
 # Explore Topics in What Really Happened In Tuscany's UFO Skies?
 
-The following pages expand on the main **[What Really Happened In Tuscany's UFO Skies?]({{'/what-really-happened-in-tuscanys-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened In Tuscany's UFO Skies?]({{ '/what-really-happened-in-tuscanys-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Official Checks]({{'/official-checks/' | relative_url }})
-- [Angel Hair]({{'/angel-hair/' | relative_url }})
-- [Cennina]({{'/cennina/' | relative_url }})
-- [Florence 1954]({{'/florence-1954/' | relative_url }})
-- [Lab Claims]({{'/lab-claims/' | relative_url }})
-- [Florence Wave]({{'/florence-wave/' | relative_url }})
-- [Gorgona]({{'/gorgona/' | relative_url }})
-- [Polcanto]({{'/polcanto/' | relative_url }})
-- [Sceptics]({{'/sceptics/' | relative_url }})
-- [Catalogues]({{'/catalogues/' | relative_url }})
+- [Official Checks]({{ '/official-checks/' | relative_url }})
+- [Angel Hair]({{ '/angel-hair/' | relative_url }})
+- [Cennina]({{ '/cennina/' | relative_url }})
+- [Florence 1954]({{ '/florence-1954/' | relative_url }})
+- [Lab Claims]({{ '/lab-claims/' | relative_url }})
+- [Florence Wave]({{ '/florence-wave/' | relative_url }})
+- [Gorgona]({{ '/gorgona/' | relative_url }})
+- [Polcanto]({{ '/polcanto/' | relative_url }})
+- [Sceptics]({{ '/sceptics/' | relative_url }})
+- [Catalogues]({{ '/catalogues/' | relative_url }})

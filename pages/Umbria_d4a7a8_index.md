@@ -16,15 +16,15 @@ parent_permalink: /umbria/
 
 # Explore Topics in Umbria
 
-The following pages expand on the main **[Umbria]({{'/umbria/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Umbria]({{ '/umbria/' | relative_url }})** page and cover its key branches in.
 
-- [Badiale]({{'/badiale/' | relative_url }})
-- [Four Cases]({{'/four-cases/' | relative_url }})
-- [Explanations]({{'/explanations-614a80/' | relative_url }})
-- [Nocera]({{'/nocera/' | relative_url }})
-- [Official records versus]({{'/official-records-versus/' | relative_url }})
-- [Orvieto]({{'/orvieto/' | relative_url }})
-- [Polino]({{'/polino/' | relative_url }})
-- [Phone Era]({{'/phone-era/' | relative_url }})
-- [Terni 1978]({{'/terni-1978/' | relative_url }})
-- [Aviation]({{'/aviation/' | relative_url }})
+- [Badiale]({{ '/badiale/' | relative_url }})
+- [Four Cases]({{ '/four-cases/' | relative_url }})
+- [Explanations]({{ '/explanations-614a80/' | relative_url }})
+- [Nocera]({{ '/nocera/' | relative_url }})
+- [Official records versus]({{ '/official-records-versus/' | relative_url }})
+- [Orvieto]({{ '/orvieto/' | relative_url }})
+- [Polino]({{ '/polino/' | relative_url }})
+- [Phone Era]({{ '/phone-era/' | relative_url }})
+- [Terni 1978]({{ '/terni-1978/' | relative_url }})
+- [Aviation]({{ '/aviation/' | relative_url }})

@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-in-lazios-ufo-files/
 
 # Explore Topics in What Really Happened in Lazio's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Lazio's UFO Files?]({{'/what-really-happened-in-lazios-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Lazio's UFO Files?]({{ '/what-really-happened-in-lazios-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Ciampino 1954]({{'/ciampino-1954/' | relative_url }})
-- [Coastal Cases]({{'/coastal-cases/' | relative_url }})
-- [Explanations]({{'/explanations-31cadb/' | relative_url }})
-- [1954 Flap]({{'/1954-flap/' | relative_url }})
-- [Military Witnesses]({{'/military-witnesses/' | relative_url }})
-- [Official Files]({{'/official-files-a401d7/' | relative_url }})
-- [Pilot Reports]({{'/pilot-reports/' | relative_url }})
-- [Reading Evidence]({{'/reading-evidence/' | relative_url }})
-- [Recent Cases]({{'/recent-cases/' | relative_url }})
-- [Airport Skies]({{'/airport-skies/' | relative_url }})
+- [Ciampino 1954]({{ '/ciampino-1954/' | relative_url }})
+- [Coastal Cases]({{ '/coastal-cases/' | relative_url }})
+- [Explanations]({{ '/explanations-31cadb/' | relative_url }})
+- [1954 Flap]({{ '/1954-flap/' | relative_url }})
+- [Military Witnesses]({{ '/military-witnesses/' | relative_url }})
+- [Official Files]({{ '/official-files-a401d7/' | relative_url }})
+- [Pilot Reports]({{ '/pilot-reports/' | relative_url }})
+- [Reading Evidence]({{ '/reading-evidence/' | relative_url }})
+- [Recent Cases]({{ '/recent-cases/' | relative_url }})
+- [Airport Skies]({{ '/airport-skies/' | relative_url }})

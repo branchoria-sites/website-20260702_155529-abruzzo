@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-over-marche/
 
 # Explore Topics in What Really Happened Over Marche?
 
-The following pages expand on the main **[What Really Happened Over Marche?]({{'/what-really-happened-over-marche/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened Over Marche?]({{ '/what-really-happened-over-marche/' | relative_url }})** page and cover its key branches in.
 
-- [1954 Wave]({{'/1954-wave/' | relative_url }})
-- [1978 Pilots]({{'/1978-pilots/' | relative_url }})
-- [Adriatic]({{'/adriatic/' | relative_url }})
-- [Air Force Files]({{'/air-force-files-dcfd6c/' | relative_url }})
-- [Ancona Coast]({{'/ancona-coast/' | relative_url }})
-- [Close Encounters]({{'/close-encounters/' | relative_url }})
-- [The CUN Catalogue]({{'/the-cun-catalogue/' | relative_url }})
-- [25 October]({{'/25-october/' | relative_url }})
-- [Explanations]({{'/explanations-24ae81/' | relative_url }})
-- [Regional Rank]({{'/regional-rank/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave/' | relative_url }})
+- [1978 Pilots]({{ '/1978-pilots/' | relative_url }})
+- [Adriatic]({{ '/adriatic/' | relative_url }})
+- [Air Force Files]({{ '/air-force-files-dcfd6c/' | relative_url }})
+- [Ancona Coast]({{ '/ancona-coast/' | relative_url }})
+- [Close Encounters]({{ '/close-encounters/' | relative_url }})
+- [The CUN Catalogue]({{ '/the-cun-catalogue/' | relative_url }})
+- [25 October]({{ '/25-october/' | relative_url }})
+- [Explanations]({{ '/explanations-24ae81/' | relative_url }})
+- [Regional Rank]({{ '/regional-rank/' | relative_url }})

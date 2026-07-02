@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-in-ligurias-ufo/
 
 # Explore Topics in What Really Happened in Liguria's UFO Skies?
 
-The following pages expand on the main **[What Really Happened in Liguria's UFO Skies?]({{'/what-really-happened-in-ligurias-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Liguria's UFO Skies?]({{ '/what-really-happened-in-ligurias-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Air Force Records]({{'/air-force-records/' | relative_url }})
-- [Genoa Skies]({{'/genoa-skies/' | relative_url }})
-- [1978 Wave]({{'/1978-wave-f6efe2/' | relative_url }})
-- [Media Cycle]({{'/media-cycle/' | relative_url }})
-- [Savona Loano]({{'/savona-loano/' | relative_url }})
-- [Light Explanations]({{'/light-explanations/' | relative_url }})
-- [Triangles]({{'/triangles/' | relative_url }})
-- [Western Coast]({{'/western-coast/' | relative_url }})
-- [Witnesses]({{'/witnesses/' | relative_url }})
-- [Zanfretta]({{'/zanfretta/' | relative_url }})
+- [Air Force Records]({{ '/air-force-records/' | relative_url }})
+- [Genoa Skies]({{ '/genoa-skies/' | relative_url }})
+- [1978 Wave]({{ '/1978-wave-f6efe2/' | relative_url }})
+- [Media Cycle]({{ '/media-cycle/' | relative_url }})
+- [Savona Loano]({{ '/savona-loano/' | relative_url }})
+- [Light Explanations]({{ '/light-explanations/' | relative_url }})
+- [Triangles]({{ '/triangles/' | relative_url }})
+- [Western Coast]({{ '/western-coast/' | relative_url }})
+- [Witnesses]({{ '/witnesses/' | relative_url }})
+- [Zanfretta]({{ '/zanfretta/' | relative_url }})

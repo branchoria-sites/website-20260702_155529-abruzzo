@@ -16,15 +16,15 @@ parent_permalink: /what-makes-sardinias-ufo-record-so/
 
 # Explore Topics in What Makes Sardinia's UFO Record So Unusual?
 
-The following pages expand on the main **[What Makes Sardinia's UFO Record So Unusual?]({{'/what-makes-sardinias-ufo-record-so/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Makes Sardinia's UFO Record So Unusual?]({{ '/what-makes-sardinias-ufo-record-so/' | relative_url }})** page and cover its key branches in.
 
-- [1954 Wave]({{'/1954-wave-f2ff51/' | relative_url }})
-- [Porto Canale]({{'/porto-canale/' | relative_url }})
-- [Campeda Film]({{'/campeda-film/' | relative_url }})
-- [Case Ratings]({{'/case-ratings/' | relative_url }})
-- [Coastal Cases]({{'/coastal-cases-fcda4d/' | relative_url }})
-- [Modern Explainers]({{'/modern-explainers/' | relative_url }})
-- [Local Archives]({{'/local-archives/' | relative_url }})
-- [Military Lights]({{'/military-lights-89ff30/' | relative_url }})
-- [Official Reports]({{'/official-reports/' | relative_url }})
-- [2022 Flap]({{'/2022-flap/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave-f2ff51/' | relative_url }})
+- [Porto Canale]({{ '/porto-canale/' | relative_url }})
+- [Campeda Film]({{ '/campeda-film/' | relative_url }})
+- [Case Ratings]({{ '/case-ratings/' | relative_url }})
+- [Coastal Cases]({{ '/coastal-cases-fcda4d/' | relative_url }})
+- [Modern Explainers]({{ '/modern-explainers/' | relative_url }})
+- [Local Archives]({{ '/local-archives/' | relative_url }})
+- [Military Lights]({{ '/military-lights-89ff30/' | relative_url }})
+- [Official Reports]({{ '/official-reports/' | relative_url }})
+- [2022 Flap]({{ '/2022-flap/' | relative_url }})

@@ -16,15 +16,15 @@ parent_permalink: /what-really-happened-in-piedmonts-ufo/
 
 # Explore Topics in What Really Happened in Piedmont's UFO...
 
-The following pages expand on the main **[What Really Happened in Piedmont's UFO...]({{'/what-really-happened-in-piedmonts-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Piedmont's UFO...]({{ '/what-really-happened-in-piedmonts-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Official Records]({{'/official-records-f752bd/' | relative_url }})
-- [Caselle 1973]({{'/caselle-1973/' | relative_url }})
-- [CISU Archives]({{'/cisu-archives/' | relative_url }})
-- [Musine Myth]({{'/musine-myth/' | relative_url }})
-- [1978 Episode]({{'/1978-episode/' | relative_url }})
-- [Myths & Hoaxes]({{'/myths-hoaxes/' | relative_url }})
-- [Explanations]({{'/explanations-bd1701/' | relative_url }})
-- [Press Role]({{'/press-role/' | relative_url }})
-- [Susa Valley]({{'/susa-valley/' | relative_url }})
-- [Pilot Reports]({{'/pilot-reports-bd27a1/' | relative_url }})
+- [Official Records]({{ '/official-records-f752bd/' | relative_url }})
+- [Caselle 1973]({{ '/caselle-1973/' | relative_url }})
+- [CISU Archives]({{ '/cisu-archives/' | relative_url }})
+- [Musine Myth]({{ '/musine-myth/' | relative_url }})
+- [1978 Episode]({{ '/1978-episode/' | relative_url }})
+- [Myths & Hoaxes]({{ '/myths-hoaxes/' | relative_url }})
+- [Explanations]({{ '/explanations-bd1701/' | relative_url }})
+- [Press Role]({{ '/press-role/' | relative_url }})
+- [Susa Valley]({{ '/susa-valley/' | relative_url }})
+- [Pilot Reports]({{ '/pilot-reports-bd27a1/' | relative_url }})

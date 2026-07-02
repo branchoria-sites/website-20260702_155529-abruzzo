@@ -16,15 +16,15 @@ parent_permalink: /trentino-alto-adige/
 
 # Explore Topics in Trentino Alto Adige
 
-The following pages expand on the main **[Trentino Alto Adige]({{'/trentino-alto-adige/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Trentino Alto Adige]({{ '/trentino-alto-adige/' | relative_url }})** page and cover its key branches in.
 
-- [Air Force Files]({{'/air-force-files-3eafd7/' | relative_url }})
-- [Alpine Skies]({{'/alpine-skies/' | relative_url }})
-- [Red Lights]({{'/red-lights/' | relative_url }})
-- [Pilot Report]({{'/pilot-report/' | relative_url }})
-- [Weather Lights]({{'/weather-lights/' | relative_url }})
-- [Hot Tub UFO]({{'/hot-tub-ufo/' | relative_url }})
-- [Molveno Fake]({{'/molveno-fake/' | relative_url }})
-- [Radar Checks]({{'/radar-checks/' | relative_url }})
-- [Regional Pattern]({{'/regional-pattern/' | relative_url }})
-- [Trento 1992]({{'/trento-1992/' | relative_url }})
+- [Air Force Files]({{ '/air-force-files-3eafd7/' | relative_url }})
+- [Alpine Skies]({{ '/alpine-skies/' | relative_url }})
+- [Red Lights]({{ '/red-lights/' | relative_url }})
+- [Pilot Report]({{ '/pilot-report/' | relative_url }})
+- [Weather Lights]({{ '/weather-lights/' | relative_url }})
+- [Hot Tub UFO]({{ '/hot-tub-ufo/' | relative_url }})
+- [Molveno Fake]({{ '/molveno-fake/' | relative_url }})
+- [Radar Checks]({{ '/radar-checks/' | relative_url }})
+- [Regional Pattern]({{ '/regional-pattern/' | relative_url }})
+- [Trento 1992]({{ '/trento-1992/' | relative_url }})

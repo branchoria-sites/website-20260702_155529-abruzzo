@@ -10,80 +10,6 @@
   "panelCopy": "Use the map to jump into an Italian region file, or browse the full region list below.",
   "items": [
     {
-      "id": "IT-23",
-      "iso": "IT-23",
-      "region": "Italy",
-      "mapName": "Aosta Valley",
-      "label": "Aosta Valley",
-      "mapAliases": [
-        "aosta valley",
-        "valle daosta",
-        "val d aosta",
-        "it 23",
-        "23"
-      ],
-      "title": "What Really Happened in Aosta's Skies?",
-      "summary": "Aosta Valley’s UFO history is not a story of one famous, well-documented “smoking gun”.",
-      "url": "aosta-valley/",
-      "image": "assets/images/Aosta_Valley_ccb120-overview.webp",
-      "pageCount": 11,
-      "code": "23"
-    },
-    {
-      "id": "IT-36",
-      "iso": "IT-36",
-      "region": "Italy",
-      "mapName": "Friuli-Venezia Giulia",
-      "label": "Friuli-Venezia Giulia",
-      "mapAliases": [
-        "friuli venezia giulia",
-        "it 36",
-        "36"
-      ],
-      "title": "What Really Happened in Friuli's UFO Files?",
-      "summary": "Friuli-Venezia Giulia’s UFO history is not built around one world-famous “crashed saucer” case.",
-      "url": "friuli-venezia-giulia/",
-      "image": "assets/images/Friuli-Venezia_Giuli_608dd8-overview.webp",
-      "pageCount": 11,
-      "code": "36"
-    },
-    {
-      "id": "IT-32",
-      "iso": "IT-32",
-      "region": "Italy",
-      "mapName": "Trentino-Alto Adige",
-      "label": "Trentino-Alto Adige",
-      "mapAliases": [
-        "trentino alto adige",
-        "it 32",
-        "32"
-      ],
-      "title": "What Really Happened in the Alpine Skies?",
-      "summary": "Trentino-Alto Adige has a real but modest place in Italy’s UFO record.",
-      "url": "trentino-alto-adige/",
-      "image": "assets/images/Trentino-Alto_Adige_27eb8f-overview.webp",
-      "pageCount": 11,
-      "code": "32"
-    },
-    {
-      "id": "IT-55",
-      "iso": "IT-55",
-      "region": "Italy",
-      "mapName": "Umbria",
-      "label": "Umbria",
-      "mapAliases": [
-        "umbria",
-        "it 55",
-        "55"
-      ],
-      "title": "What Really Happened in Umbrian Skies?",
-      "summary": "Umbria’s UFO history is not built around one famous national “Roswell-style” case.",
-      "url": "umbria/",
-      "image": "assets/images/Umbria_d4a7a8-overview.webp",
-      "pageCount": 11,
-      "code": "55"
-    },
-    {
       "id": "IT-88",
       "iso": "IT-88",
       "region": "Italy",
@@ -113,12 +39,32 @@
         "it 65",
         "65"
       ],
-      "title": "What Really Happened in Abruzzo's UFO...",
+      "title": "What Really Happened in Abruzzo's UFO Stories?",
       "summary": "Abruzzo’s UFO history is not built around one perfectly documented mystery.",
       "url": "what-really-happened-in-abruzzos-ufo/",
       "image": "assets/images/Abruzzo_4c71bb-overview.webp",
       "pageCount": 11,
       "code": "65"
+    },
+    {
+      "id": "IT-23",
+      "iso": "IT-23",
+      "region": "Italy",
+      "mapName": "Aosta Valley",
+      "label": "Aosta Valley",
+      "mapAliases": [
+        "aosta valley",
+        "valle daosta",
+        "val d aosta",
+        "it 23",
+        "23"
+      ],
+      "title": "What Really Happened in Aosta's Skies?",
+      "summary": "Aosta Valley’s UFO history is not a story of one famous, well-documented “smoking gun”.",
+      "url": "aosta-valley/",
+      "image": "assets/images/Aosta_Valley_ccb120-overview.webp",
+      "pageCount": 11,
+      "code": "23"
     },
     {
       "id": "IT-75",
@@ -150,7 +96,7 @@
         "it 77",
         "77"
       ],
-      "title": "What Really Happened in Basilicata's UFO...",
+      "title": "What Really Happened in Basilicata's UFO Stories?",
       "summary": "Basilicata has a quieter UFO history than several larger Italian regions, but it is not a blank space.",
       "url": "what-really-happened-in-basilicatas-ufo/",
       "image": "assets/images/Basilicata_3ea395-overview.webp",
@@ -168,7 +114,7 @@
         "it 78",
         "78"
       ],
-      "title": "What Really Happened in Calabria's UFO...",
+      "title": "What Really Happened in Calabria's UFO Reports?",
       "summary": "Calabria’s UFO history is not built around one world-famous “crash” or a single case that has become part of international UFO folklore.",
       "url": "what-really-happened-in-calabrias-ufo/",
       "image": "assets/images/Calabria_663de5-overview.webp",
@@ -186,12 +132,30 @@
         "it 45",
         "45"
       ],
-      "title": "What Really Happened in Emilia Romagna's UFO...",
+      "title": "What Really Happened in Emilia Romagna's UFO Files?",
       "summary": "Emilia-Romagna is one of the more active Italian regions in UFO reporting, but its UFO history is best understood as a mixture of documented official files,...",
       "url": "what-really-happened-in-emilia/",
       "image": "assets/images/Emilia-Romagna_e1c904-overview.webp",
       "pageCount": 11,
       "code": "45"
+    },
+    {
+      "id": "IT-36",
+      "iso": "IT-36",
+      "region": "Italy",
+      "mapName": "Friuli-Venezia Giulia",
+      "label": "Friuli-Venezia Giulia",
+      "mapAliases": [
+        "friuli venezia giulia",
+        "it 36",
+        "36"
+      ],
+      "title": "What Really Happened in Friuli's UFO Files?",
+      "summary": "Friuli-Venezia Giulia’s UFO history is not built around one world-famous “crashed saucer” case.",
+      "url": "friuli-venezia-giulia/",
+      "image": "assets/images/Friuli-Venezia_Giuli_608dd8-overview.webp",
+      "pageCount": 11,
+      "code": "36"
     },
     {
       "id": "IT-62",
@@ -241,7 +205,7 @@
         "it 25",
         "25"
       ],
-      "title": "What Really Happened in Lombardy's UFO...",
+      "title": "What Really Happened in Lombardy's UFO Skies?",
       "summary": "Lombardy is one of Italy’s most active regions for UFO reporting, but its record is less a story of one decisive mystery than of recurring clusters: Milan...",
       "url": "what-really-happened-in-lombardys-ufo/",
       "image": "assets/images/Lombardy_9b46d3-overview.webp",
@@ -278,7 +242,7 @@
         "it 21",
         "21"
       ],
-      "title": "What Really Happened in Piedmont's UFO...",
+      "title": "What Really Happened in Piedmont's UFO Stories?",
       "summary": "Piedmont is one of the stronger regional chapters in Italian UFO history, not because it proves alien visitation, but because it combines three unusually...",
       "url": "what-really-happened-in-piedmonts-ufo/",
       "image": "assets/images/Piedmont_9fde2b-overview.webp",
@@ -297,12 +261,30 @@
         "it 82",
         "82"
       ],
-      "title": "What Really Happened in Sicily's UFO...",
+      "title": "What Really Happened in Sicily's UFO Stories?",
       "summary": "Sicily’s UFO history is not built around one clean, famous flying-saucer case.",
       "url": "what-really-happened-in-sicilys-ufo/",
       "image": "assets/images/Sicily_77b465-overview.webp",
       "pageCount": 11,
       "code": "82"
+    },
+    {
+      "id": "IT-32",
+      "iso": "IT-32",
+      "region": "Italy",
+      "mapName": "Trentino-Alto Adige",
+      "label": "Trentino-Alto Adige",
+      "mapAliases": [
+        "trentino alto adige",
+        "it 32",
+        "32"
+      ],
+      "title": "What Really Happened in the Alpine Skies?",
+      "summary": "Trentino-Alto Adige has a real but modest place in Italy’s UFO record.",
+      "url": "trentino-alto-adige/",
+      "image": "assets/images/Trentino-Alto_Adige_27eb8f-overview.webp",
+      "pageCount": 11,
+      "code": "32"
     },
     {
       "id": "IT-52",
@@ -322,6 +304,24 @@
       "image": "assets/images/Tuscany_2685d2-overview.webp",
       "pageCount": 11,
       "code": "52"
+    },
+    {
+      "id": "IT-55",
+      "iso": "IT-55",
+      "region": "Italy",
+      "mapName": "Umbria",
+      "label": "Umbria",
+      "mapAliases": [
+        "umbria",
+        "it 55",
+        "55"
+      ],
+      "title": "What Really Happened in Umbrian Skies?",
+      "summary": "Umbria’s UFO history is not built around one famous national “Roswell-style” case.",
+      "url": "umbria/",
+      "image": "assets/images/Umbria_d4a7a8-overview.webp",
+      "pageCount": 11,
+      "code": "55"
     },
     {
       "id": "IT-34",
@@ -380,80 +380,6 @@
   ],
   "regions": [
     {
-      "id": "IT-23",
-      "iso": "IT-23",
-      "region": "Italy",
-      "mapName": "Aosta Valley",
-      "label": "Aosta Valley",
-      "mapAliases": [
-        "aosta valley",
-        "valle daosta",
-        "val d aosta",
-        "it 23",
-        "23"
-      ],
-      "title": "What Really Happened in Aosta's Skies?",
-      "summary": "Aosta Valley’s UFO history is not a story of one famous, well-documented “smoking gun”.",
-      "url": "aosta-valley/",
-      "image": "assets/images/Aosta_Valley_ccb120-overview.webp",
-      "pageCount": 11,
-      "code": "23"
-    },
-    {
-      "id": "IT-36",
-      "iso": "IT-36",
-      "region": "Italy",
-      "mapName": "Friuli-Venezia Giulia",
-      "label": "Friuli-Venezia Giulia",
-      "mapAliases": [
-        "friuli venezia giulia",
-        "it 36",
-        "36"
-      ],
-      "title": "What Really Happened in Friuli's UFO Files?",
-      "summary": "Friuli-Venezia Giulia’s UFO history is not built around one world-famous “crashed saucer” case.",
-      "url": "friuli-venezia-giulia/",
-      "image": "assets/images/Friuli-Venezia_Giuli_608dd8-overview.webp",
-      "pageCount": 11,
-      "code": "36"
-    },
-    {
-      "id": "IT-32",
-      "iso": "IT-32",
-      "region": "Italy",
-      "mapName": "Trentino-Alto Adige",
-      "label": "Trentino-Alto Adige",
-      "mapAliases": [
-        "trentino alto adige",
-        "it 32",
-        "32"
-      ],
-      "title": "What Really Happened in the Alpine Skies?",
-      "summary": "Trentino-Alto Adige has a real but modest place in Italy’s UFO record.",
-      "url": "trentino-alto-adige/",
-      "image": "assets/images/Trentino-Alto_Adige_27eb8f-overview.webp",
-      "pageCount": 11,
-      "code": "32"
-    },
-    {
-      "id": "IT-55",
-      "iso": "IT-55",
-      "region": "Italy",
-      "mapName": "Umbria",
-      "label": "Umbria",
-      "mapAliases": [
-        "umbria",
-        "it 55",
-        "55"
-      ],
-      "title": "What Really Happened in Umbrian Skies?",
-      "summary": "Umbria’s UFO history is not built around one famous national “Roswell-style” case.",
-      "url": "umbria/",
-      "image": "assets/images/Umbria_d4a7a8-overview.webp",
-      "pageCount": 11,
-      "code": "55"
-    },
-    {
       "id": "IT-88",
       "iso": "IT-88",
       "region": "Italy",
@@ -483,12 +409,32 @@
         "it 65",
         "65"
       ],
-      "title": "What Really Happened in Abruzzo's UFO...",
+      "title": "What Really Happened in Abruzzo's UFO Stories?",
       "summary": "Abruzzo’s UFO history is not built around one perfectly documented mystery.",
       "url": "what-really-happened-in-abruzzos-ufo/",
       "image": "assets/images/Abruzzo_4c71bb-overview.webp",
       "pageCount": 11,
       "code": "65"
+    },
+    {
+      "id": "IT-23",
+      "iso": "IT-23",
+      "region": "Italy",
+      "mapName": "Aosta Valley",
+      "label": "Aosta Valley",
+      "mapAliases": [
+        "aosta valley",
+        "valle daosta",
+        "val d aosta",
+        "it 23",
+        "23"
+      ],
+      "title": "What Really Happened in Aosta's Skies?",
+      "summary": "Aosta Valley’s UFO history is not a story of one famous, well-documented “smoking gun”.",
+      "url": "aosta-valley/",
+      "image": "assets/images/Aosta_Valley_ccb120-overview.webp",
+      "pageCount": 11,
+      "code": "23"
     },
     {
       "id": "IT-75",
@@ -520,7 +466,7 @@
         "it 77",
         "77"
       ],
-      "title": "What Really Happened in Basilicata's UFO...",
+      "title": "What Really Happened in Basilicata's UFO Stories?",
       "summary": "Basilicata has a quieter UFO history than several larger Italian regions, but it is not a blank space.",
       "url": "what-really-happened-in-basilicatas-ufo/",
       "image": "assets/images/Basilicata_3ea395-overview.webp",
@@ -538,7 +484,7 @@
         "it 78",
         "78"
       ],
-      "title": "What Really Happened in Calabria's UFO...",
+      "title": "What Really Happened in Calabria's UFO Reports?",
       "summary": "Calabria’s UFO history is not built around one world-famous “crash” or a single case that has become part of international UFO folklore.",
       "url": "what-really-happened-in-calabrias-ufo/",
       "image": "assets/images/Calabria_663de5-overview.webp",
@@ -556,12 +502,30 @@
         "it 45",
         "45"
       ],
-      "title": "What Really Happened in Emilia Romagna's UFO...",
+      "title": "What Really Happened in Emilia Romagna's UFO Files?",
       "summary": "Emilia-Romagna is one of the more active Italian regions in UFO reporting, but its UFO history is best understood as a mixture of documented official files,...",
       "url": "what-really-happened-in-emilia/",
       "image": "assets/images/Emilia-Romagna_e1c904-overview.webp",
       "pageCount": 11,
       "code": "45"
+    },
+    {
+      "id": "IT-36",
+      "iso": "IT-36",
+      "region": "Italy",
+      "mapName": "Friuli-Venezia Giulia",
+      "label": "Friuli-Venezia Giulia",
+      "mapAliases": [
+        "friuli venezia giulia",
+        "it 36",
+        "36"
+      ],
+      "title": "What Really Happened in Friuli's UFO Files?",
+      "summary": "Friuli-Venezia Giulia’s UFO history is not built around one world-famous “crashed saucer” case.",
+      "url": "friuli-venezia-giulia/",
+      "image": "assets/images/Friuli-Venezia_Giuli_608dd8-overview.webp",
+      "pageCount": 11,
+      "code": "36"
     },
     {
       "id": "IT-62",
@@ -611,7 +575,7 @@
         "it 25",
         "25"
       ],
-      "title": "What Really Happened in Lombardy's UFO...",
+      "title": "What Really Happened in Lombardy's UFO Skies?",
       "summary": "Lombardy is one of Italy’s most active regions for UFO reporting, but its record is less a story of one decisive mystery than of recurring clusters: Milan...",
       "url": "what-really-happened-in-lombardys-ufo/",
       "image": "assets/images/Lombardy_9b46d3-overview.webp",
@@ -648,7 +612,7 @@
         "it 21",
         "21"
       ],
-      "title": "What Really Happened in Piedmont's UFO...",
+      "title": "What Really Happened in Piedmont's UFO Stories?",
       "summary": "Piedmont is one of the stronger regional chapters in Italian UFO history, not because it proves alien visitation, but because it combines three unusually...",
       "url": "what-really-happened-in-piedmonts-ufo/",
       "image": "assets/images/Piedmont_9fde2b-overview.webp",
@@ -667,12 +631,30 @@
         "it 82",
         "82"
       ],
-      "title": "What Really Happened in Sicily's UFO...",
+      "title": "What Really Happened in Sicily's UFO Stories?",
       "summary": "Sicily’s UFO history is not built around one clean, famous flying-saucer case.",
       "url": "what-really-happened-in-sicilys-ufo/",
       "image": "assets/images/Sicily_77b465-overview.webp",
       "pageCount": 11,
       "code": "82"
+    },
+    {
+      "id": "IT-32",
+      "iso": "IT-32",
+      "region": "Italy",
+      "mapName": "Trentino-Alto Adige",
+      "label": "Trentino-Alto Adige",
+      "mapAliases": [
+        "trentino alto adige",
+        "it 32",
+        "32"
+      ],
+      "title": "What Really Happened in the Alpine Skies?",
+      "summary": "Trentino-Alto Adige has a real but modest place in Italy’s UFO record.",
+      "url": "trentino-alto-adige/",
+      "image": "assets/images/Trentino-Alto_Adige_27eb8f-overview.webp",
+      "pageCount": 11,
+      "code": "32"
     },
     {
       "id": "IT-52",
@@ -692,6 +674,24 @@
       "image": "assets/images/Tuscany_2685d2-overview.webp",
       "pageCount": 11,
       "code": "52"
+    },
+    {
+      "id": "IT-55",
+      "iso": "IT-55",
+      "region": "Italy",
+      "mapName": "Umbria",
+      "label": "Umbria",
+      "mapAliases": [
+        "umbria",
+        "it 55",
+        "55"
+      ],
+      "title": "What Really Happened in Umbrian Skies?",
+      "summary": "Umbria’s UFO history is not built around one famous national “Roswell-style” case.",
+      "url": "umbria/",
+      "image": "assets/images/Umbria_d4a7a8-overview.webp",
+      "pageCount": 11,
+      "code": "55"
     },
     {
       "id": "IT-34",

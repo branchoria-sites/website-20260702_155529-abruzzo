@@ -16,15 +16,15 @@ parent_permalink: /aosta-valley/
 
 # Explore Topics in Aosta Valley
 
-The following pages expand on the main **[Aosta Valley]({{'/aosta-valley/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Aosta Valley]({{ '/aosta-valley/' | relative_url }})** page and cover its key branches in.
 
-- [1947 Trail]({{'/1947-trail/' | relative_url }})
-- [1970 s Clusters]({{'/1970-s-clusters/' | relative_url }})
-- [1985 Rai Case]({{'/1985-rai-case/' | relative_url }})
-- [Alpine Illusions]({{'/alpine-illusions/' | relative_url }})
-- [Photo Claims]({{'/photo-claims/' | relative_url }})
-- [Cosmos Re entry]({{'/cosmos-re-entry/' | relative_url }})
-- [UFO Folklore]({{'/ufo-folklore/' | relative_url }})
-- [Caveri]({{'/caveri/' | relative_url }})
-- [Official Counts]({{'/official-counts/' | relative_url }})
-- [Observatory]({{'/observatory/' | relative_url }})
+- [1947 Trail]({{ '/1947-trail/' | relative_url }})
+- [1970 s Clusters]({{ '/1970-s-clusters/' | relative_url }})
+- [1985 Rai Case]({{ '/1985-rai-case/' | relative_url }})
+- [Alpine Illusions]({{ '/alpine-illusions/' | relative_url }})
+- [Photo Claims]({{ '/photo-claims/' | relative_url }})
+- [Cosmos Re entry]({{ '/cosmos-re-entry/' | relative_url }})
+- [UFO Folklore]({{ '/ufo-folklore/' | relative_url }})
+- [Caveri]({{ '/caveri/' | relative_url }})
+- [Official Counts]({{ '/official-counts/' | relative_url }})
+- [Observatory]({{ '/observatory/' | relative_url }})

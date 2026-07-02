@@ -17,15 +17,15 @@ parent_permalink: /what-really-happened-in-emilia/
 
 # Explore Topics in What Really Happened in Emilia Romagna's UFO...
 
-The following pages expand on the main **[What Really Happened in Emilia Romagna's UFO...]({{'/what-really-happened-in-emilia/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Emilia Romagna's UFO...]({{ '/what-really-happened-in-emilia/' | relative_url }})** page and cover its key branches in.
 
-- [Adriatic Myth]({{'/adriatic-myth/' | relative_url }})
-- [Air Force Files]({{'/air-force-files-f60efe/' | relative_url }})
-- [1978 Wave]({{'/1978-wave-93353b/' | relative_url }})
-- [Bologna Lights]({{'/bologna-lights/' | relative_url }})
-- [CISU Archive]({{'/cisu-archive-32a5d2/' | relative_url }})
-- [Judge Cases]({{'/judge-cases/' | relative_url }})
-- [Lugo Bolide]({{'/lugo-bolide/' | relative_url }})
-- [Misano 2016]({{'/misano-2016/' | relative_url }})
-- [Coast Cases]({{'/coast-cases/' | relative_url }})
-- [Starlink]({{'/starlink/' | relative_url }})
+- [Adriatic Myth]({{ '/adriatic-myth/' | relative_url }})
+- [Air Force Files]({{ '/air-force-files-f60efe/' | relative_url }})
+- [1978 Wave]({{ '/1978-wave-93353b/' | relative_url }})
+- [Bologna Lights]({{ '/bologna-lights/' | relative_url }})
+- [CISU Archive]({{ '/cisu-archive-32a5d2/' | relative_url }})
+- [Judge Cases]({{ '/judge-cases/' | relative_url }})
+- [Lugo Bolide]({{ '/lugo-bolide/' | relative_url }})
+- [Misano 2016]({{ '/misano-2016/' | relative_url }})
+- [Coast Cases]({{ '/coast-cases/' | relative_url }})
+- [Starlink]({{ '/starlink/' | relative_url }})
