@@ -52,9 +52,9 @@ heading_title: What Really Happened in Abruzzo's UFO Stories?
 page_heading_title: What Really Happened in Abruzzo's UFO Stories?
 source_count: 67
 infographic_count: 3
-page_website_name: Abruzzo UFOs
+page_website_name: Abruzzo
 page_banner_line: Balanced evidence on Abruzzo's sightings, flaps, records and explanations.
-site_website_name: Abruzzo UFOs
+site_website_name: Abruzzo
 site_banner_line: Balanced evidence on Abruzzo's sightings, flaps, records and explanations.
 site_image_description: A night view of the Abruzzo Adriatic coast with distant lights over the sea and the Gran Sasso mountains faintly visible inland.
 output_language: English

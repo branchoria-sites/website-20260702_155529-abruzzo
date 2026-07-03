@@ -52,9 +52,9 @@ heading_title: What Really Happened in Lombardy's UFO Skies?
 page_heading_title: What Really Happened in Lombardy's UFO Skies?
 source_count: 197
 infographic_count: 3
-page_website_name: Lombardy UFOs
+page_website_name: Lombardy
 page_banner_line: Balanced case files on Lombardy sightings, records, myths, and explanations.
-site_website_name: Lombardy UFOs
+site_website_name: Lombardy
 site_banner_line: Balanced case files on Lombardy sightings, records, myths, and explanations.
 site_image_description: A night view over Milan with aircraft lights crossing the sky above apartment rooftops and distant mountains.
 output_language: English

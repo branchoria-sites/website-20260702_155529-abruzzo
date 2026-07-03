@@ -52,9 +52,9 @@ heading_title: What Really Happened in Basilicata's UFO Stories?
 page_heading_title: What Really Happened in Basilicata's UFO Stories?
 source_count: 109
 infographic_count: 3
-page_website_name: Basilicata UFOs
+page_website_name: Basilicata
 page_banner_line: Balanced stories, records and explanations behind Basilicata's strange-sky reports.
-site_website_name: Basilicata UFOs
+site_website_name: Basilicata
 site_banner_line: Balanced stories, records and explanations behind Basilicata's strange-sky reports.
 site_image_description: A quiet hill town in Basilicata at night with a few people looking up at a bright object crossing the dark sky.
 output_language: English

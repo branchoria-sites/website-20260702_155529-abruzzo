@@ -52,9 +52,9 @@ heading_title: What Really Happened in the Alpine Skies?
 page_heading_title: What Really Happened in the Alpine Skies?
 source_count: 135
 infographic_count: 3
-page_website_name: Alpine UFOs
+page_website_name: Alpine
 page_banner_line: Balanced, evidence-led pages on Trentino-Alto Adige's UFO record.
-site_website_name: Alpine UFOs
+site_website_name: Alpine
 site_banner_line: Balanced, evidence-led pages on Trentino-Alto Adige's UFO record.
 site_image_description: A dark Alpine valley in Trentino-Alto Adige with distant red lights above mountain ridges and a small airport runway below.
 output_language: English
