@@ -171,6 +171,10 @@ map_view:
   items: 20
   map: /assets/maps/italy.svg
   data: /assets/maps/italy-regions.json
+header:
+  og_image: /assets/images/Aosta_Valley_ccb120-overview-social.jpg
+  preview_image: /assets/images/Aosta_Valley_ccb120-overview-social.jpg
+image: /assets/images/Aosta_Valley_ccb120-overview-social.jpg
 site_image_description: A night view of the Abruzzo Adriatic coast with distant lights over the sea and the Gran Sasso mountains faintly visible inland.
 ---
 
@@ -178,7 +182,7 @@ site_image_description: A night view of the Abruzzo Adriatic coast with distant 
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="region" data-map-layout="italy-regions" data-map-item-type="region" data-map-label="UFO and UAP Italian regions map" data-map-fallback-summary="Open this Italian region file from the map." data-map-src="{{ 'assets/maps/italy.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/italy-regions.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="IT-88" data-map-preview-preload="all">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Sardinia_83a1a0-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Sardinia_83a1a0-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">88</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="italy" data-uap-world-map-region-focus="italy" aria-label="Focus map on Italy">Italy</button>
