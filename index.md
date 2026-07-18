@@ -179,8 +179,10 @@ site_image_description: A night view of the Abruzzo Adriatic coast with distant 
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="region" data-map-layout="italy-regions" data-map-item-type="region" data-map-label="UFO and UAP Italian regions map" data-map-fallback-summary="Open this Italian region file from the map." data-map-src="{{ 'assets/maps/italy.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/italy-regions.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="IT-88" data-map-preview-preload="all">
-<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="region" data-map-layout="italy-regions" data-map-item-type="region" data-map-label="UFO and UAP Italian regions map" data-map-fallback-summary="Open this Italian region file from the map." data-map-src="{{ 'assets/maps/italy.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/italy-regions.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="IT-88" data-map-preview-preload="8">
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
+<span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
+</div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
 <img src="{{ '/assets/images/Sardinia_83a1a0-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
