@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Sardinia_83a1a0_drones_satellites_ex_8f8a69
 parent_basename: Sardinia_83a1a0

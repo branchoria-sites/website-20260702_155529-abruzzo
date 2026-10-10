@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Basilicata_3ea395_monticchio_rural_sig_c34b0a
 parent_basename: Basilicata_3ea395

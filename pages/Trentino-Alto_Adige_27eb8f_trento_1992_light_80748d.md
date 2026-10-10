@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Trentino-Alto_Adige_27eb8f_trento_1992_light_80748d
 parent_basename: Trentino-Alto_Adige_27eb8f

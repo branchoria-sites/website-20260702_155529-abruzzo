@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Aosta_Valley_ccb120_saint_barthelemy_obs_c8a248
 parent_basename: Aosta_Valley_ccb120

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Friuli-Venezia_Giuli_608dd8_chiumiento_friuli_in_de598d
 parent_basename: Friuli-Venezia_Giuli_608dd8

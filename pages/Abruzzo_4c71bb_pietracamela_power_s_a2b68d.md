@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Abruzzo_4c71bb_pietracamela_power_s_a2b68d
 parent_basename: Abruzzo_4c71bb

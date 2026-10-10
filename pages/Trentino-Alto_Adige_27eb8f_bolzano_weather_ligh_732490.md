@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:26:12'
 level: 2
 basename: Trentino-Alto_Adige_27eb8f_bolzano_weather_ligh_732490
 parent_basename: Trentino-Alto_Adige_27eb8f

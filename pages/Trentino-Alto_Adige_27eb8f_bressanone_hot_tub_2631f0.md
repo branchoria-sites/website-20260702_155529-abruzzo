@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Trentino-Alto_Adige_27eb8f_bressanone_hot_tub_2631f0
 parent_basename: Trentino-Alto_Adige_27eb8f
