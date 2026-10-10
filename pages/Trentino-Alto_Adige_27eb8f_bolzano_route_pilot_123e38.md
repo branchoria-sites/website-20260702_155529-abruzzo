@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 15:16:16'
 level: 2
 basename: Trentino-Alto_Adige_27eb8f_bolzano_route_pilot_123e38
 parent_basename: Trentino-Alto_Adige_27eb8f

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Aosta_Valley_ccb120_aosta_photo_claims_0190a5
 parent_basename: Aosta_Valley_ccb120

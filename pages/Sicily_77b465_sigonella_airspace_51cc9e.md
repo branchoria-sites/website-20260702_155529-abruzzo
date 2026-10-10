@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Sicily_77b465_sigonella_airspace_51cc9e
 parent_basename: Sicily_77b465

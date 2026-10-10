@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 17:13:45'
 level: 2
 basename: Emilia-Romagna_e1c904_starlink_bologna_mis_d32580
 parent_basename: Emilia-Romagna_e1c904

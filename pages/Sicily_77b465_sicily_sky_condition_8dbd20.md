@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:55'
 level: 2
 basename: Sicily_77b465_sicily_sky_condition_8dbd20
 parent_basename: Sicily_77b465
