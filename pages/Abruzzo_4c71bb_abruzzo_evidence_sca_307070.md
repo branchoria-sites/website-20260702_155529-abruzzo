@@ -763,7 +763,6 @@ That is not an anti-UFO position. It is the only way to keep the subject readabl
 
 18.<a id="endnote-18"></a>
    Source: boeing.com  
-   Link:https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/noise/abruzzo.pdf  
 
 ### Additional References
 
